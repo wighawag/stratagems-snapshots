@@ -1,0 +1,17 @@
+{
+  "_id": "lastSync",
+  "context": {
+    "source": [
+      {
+        "startBlock": 0,
+        "hash": "1mc7ppz"
+      }
+    ],
+    "config": "10lkzm2",
+    "processor": "6dcefddb78fa3e613ea3f27815362ddc18d94b5159f75794cfb99a4f7782d974-not-configured"
+  },
+  "lastFromBlock": 5200050,
+  "latestBlock": 5245541,
+  "lastToBlock": 5245541,
+  "unconfirmedBlocks": []
+}
