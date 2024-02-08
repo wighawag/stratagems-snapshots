@@ -59,11 +59,11 @@ jobs:
         env: 
           ETH_NODE_URI_composablelabs: ${{ secrets.ETH_NODE_URI_COMPOSABLELABS }}
         run: |
-          mkdir -p ./web/static/indexed-states/composablelabs
-          cp -R ./__snapshots/snapshosts/* ./web/static/indexed-states/composablelabs/ 2>/dev/null || :
+          mkdir -p ./web/static/indexed-states/
+          cp -R ./__snapshots/snapshosts/* ./web/static/indexed-states/ 2>/dev/null || :
           pnpm indexer:index composablelabs
           mkdir -p ./__snapshots/snapshosts
-          cp -R ./web/static/indexed-states/composablelabs/* ./__snapshots/snapshosts/
+          cp -R ./web/static/indexed-states/* ./__snapshots/snapshosts/
           
 
 
