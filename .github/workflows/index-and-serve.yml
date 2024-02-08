@@ -32,7 +32,6 @@ jobs:
         with:
           repository: wighawag/stratagems
           fetch-depth: 0
-          lfs: true
 
       - name: Setup pnpm
         uses: pnpm/action-setup@v2
@@ -47,7 +46,7 @@ jobs:
       
   
       - name: Install dependencies for Stratagems
-        run: pnpm install
+        run: pnpm install --ignore-scripts
 
 
       - name: Checkout Snapshots
