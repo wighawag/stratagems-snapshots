@@ -5,8 +5,8 @@ on:
   push:
     branches: [main]
 
-  # schedule:
-  #   - cron:  '1 * * * *'
+  schedule:
+    - cron:  '1 * * * *'
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -50,7 +50,7 @@ jobs:
         run: pnpm install
 
 
-      - name: Checkout Stratagems
+      - name: Checkout Snapshots
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
@@ -60,9 +60,10 @@ jobs:
         env: 
           ETH_NODE_URI_composablelabs: ${{ secrets.ETH_NODE_URI_COMPOSABLELABS }}
         run: |
-          cp ./__snapshots/indexed-state-composablelabs.json ./web/static/indexed-state-composablelabs.json 2>/dev/null || :
+          cp ./__snapshots/snapshosts/indexed-state-composablelabs.json ./web/static/indexed-state-composablelabs.json 2>/dev/null || :
           pnpm indexer:index composablelabs
-          cp ./web/static/indexed-state-composablelabs.json ./__snapshots/indexed-state-composablelabs.json
+          mkdir -p ./__snapshots/snapshosts
+          cp ./web/static/indexed-state-composablelabs.json ./__snapshots/snapshosts//indexed-state-composablelabs.json
           
 
 
@@ -79,12 +80,12 @@ jobs:
       - name: Generate Directory Listings
         uses: jayanta525/github-pages-directory-listing@v4.0.0
         with:
-          FOLDER: ./__snapshots
+          FOLDER: ./__snapshots/snapshosts/
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
         with:
-          path: ./__snapshots
+          path: ./__snapshots/snapshosts/
 
   # Deployment job
   deploy:
