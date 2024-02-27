@@ -1,0 +1,43 @@
+{
+  "lastSync": {
+    "_id": "lastSync",
+    "context": {
+      "source": [
+        {
+          "startBlock": 0,
+          "hash": "149n31y"
+        }
+      ],
+      "config": "10lkzm2",
+      "processor": "79dcb1713015ea3fa244ba795941a531178a2c042d2d9b8dd81c883cd0018cba-not-configured"
+    },
+    "lastFromBlock": 2636198,
+    "latestBlock": 2641374,
+    "lastToBlock": 2641374,
+    "unconfirmedBlocks": []
+  },
+  "state": {
+    "cells": {},
+    "owners": {},
+    "commitments": {},
+    "placements": []
+  },
+  "history": {
+    "blockHashes": {
+      "2640459": "0xde51f83c8f338c180eca6dde79c3f67888e6485e02923e72512d3d425da9922b",
+      "2640461": "0x75eb14bf52f527aed9c89fdcf1a0c29949acbf2951faa33ef56cddee4bf80ec9",
+      "2640463": "0xd1097c6c29c5d021a279ae1fea6452bfef8906bf4c662bf31bd17f755a25dae6"
+    },
+    "reversals": {
+      "0xde51f83c8f338c180eca6dde79c3f67888e6485e02923e72512d3d425da9922b": [
+        []
+      ],
+      "0x75eb14bf52f527aed9c89fdcf1a0c29949acbf2951faa33ef56cddee4bf80ec9": [
+        []
+      ],
+      "0xd1097c6c29c5d021a279ae1fea6452bfef8906bf4c662bf31bd17f755a25dae6": [
+        []
+      ]
+    }
+  }
+}
