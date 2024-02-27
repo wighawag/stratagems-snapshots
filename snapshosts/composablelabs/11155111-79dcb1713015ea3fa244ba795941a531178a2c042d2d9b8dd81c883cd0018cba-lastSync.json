@@ -8,10 +8,10 @@
       }
     ],
     "config": "10lkzm2",
-    "processor": "6dcefddb78fa3e613ea3f27815362ddc18d94b5159f75794cfb99a4f7782d974-not-configured"
+    "processor": "79dcb1713015ea3fa244ba795941a531178a2c042d2d9b8dd81c883cd0018cba-not-configured"
   },
-  "lastFromBlock": 5288055,
-  "latestBlock": 5288305,
-  "lastToBlock": 5288305,
+  "lastFromBlock": 5373870,
+  "latestBlock": 5374089,
+  "lastToBlock": 5374089,
   "unconfirmedBlocks": []
 }
