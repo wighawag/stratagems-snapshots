@@ -11,21 +11,81 @@
       "config": "10lkzm2",
       "processor": "79dcb1713015ea3fa244ba795941a531178a2c042d2d9b8dd81c883cd0018cba-not-configured"
     },
-    "lastFromBlock": 1520413,
-    "latestBlock": 1522223,
-    "lastToBlock": 1522223,
+    "lastFromBlock": 1522256,
+    "latestBlock": 1523979,
+    "lastToBlock": 1523979,
     "unconfirmedBlocks": []
   },
   "state": {
-    "cells": {},
-    "owners": {},
-    "commitments": {
-      "0xbe19b59e8c588d68f475a407c7ba5fe813aeb792": {
-        "epoch": 19782,
-        "hash": "0xa0431dda0bfbf6e1a88cb021d78dc9fc1a300c85714d086d"
+    "cells": {
+      "4294967295": {
+        "lastEpochUpdate": 19782,
+        "color": 4,
+        "delta": 1,
+        "enemyMap": 0,
+        "epochWhenTokenIsAdded": 19782,
+        "life": 2,
+        "distribution": 0,
+        "stake": 1
+      },
+      "18446744073709551615": {
+        "lastEpochUpdate": 19782,
+        "color": 4,
+        "delta": 2,
+        "enemyMap": 0,
+        "epochWhenTokenIsAdded": 19782,
+        "life": 2,
+        "distribution": 0,
+        "stake": 1
+      },
+      "18446744069414584319": {
+        "lastEpochUpdate": 19782,
+        "color": 4,
+        "delta": 1,
+        "enemyMap": 0,
+        "epochWhenTokenIsAdded": 19782,
+        "life": 2,
+        "distribution": 0,
+        "stake": 1
       }
     },
-    "placements": []
+    "owners": {
+      "4294967295": "0xbE19B59E8C588d68f475A407C7BA5fE813AEb792",
+      "18446744073709551615": "0xbE19B59E8C588d68f475A407C7BA5fE813AEb792",
+      "18446744069414584319": "0xbE19B59E8C588d68f475A407C7BA5fE813AEb792"
+    },
+    "commitments": {},
+    "placements": [
+      {
+        "epoch": 19782,
+        "cells": {
+          "4294967295": {
+            "players": [
+              {
+                "color": 4,
+                "address": "0xbe19b59e8c588d68f475a407c7ba5fe813aeb792"
+              }
+            ]
+          },
+          "18446744073709551615": {
+            "players": [
+              {
+                "color": 4,
+                "address": "0xbe19b59e8c588d68f475a407c7ba5fe813aeb792"
+              }
+            ]
+          },
+          "18446744069414584319": {
+            "players": [
+              {
+                "color": 4,
+                "address": "0xbe19b59e8c588d68f475a407c7ba5fe813aeb792"
+              }
+            ]
+          }
+        }
+      }
+    ]
   },
   "history": {
     "blockHashes": {
