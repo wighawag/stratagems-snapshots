@@ -1,0 +1,48 @@
+{
+  "lastSync": {
+    "_id": "lastSync",
+    "context": {
+      "source": [
+        {
+          "startBlock": 0,
+          "hash": "11getw6"
+        }
+      ],
+      "config": "10lkzm2",
+      "processor": "79dcb1713015ea3fa244ba795941a531178a2c042d2d9b8dd81c883cd0018cba-not-configured"
+    },
+    "lastFromBlock": 1514588,
+    "latestBlock": 1518605,
+    "lastToBlock": 1518605,
+    "unconfirmedBlocks": []
+  },
+  "state": {
+    "cells": {},
+    "owners": {},
+    "commitments": {
+      "0xbe19b59e8c588d68f475a407c7ba5fe813aeb792": {
+        "epoch": 19782,
+        "hash": "0xa0431dda0bfbf6e1a88cb021d78dc9fc1a300c85714d086d"
+      }
+    },
+    "placements": []
+  },
+  "history": {
+    "blockHashes": {
+      "1516047": "0x413afb33a2cab3fb9e71d566a758947f597d6b3dfc7597500fe7853c2db61c47"
+    },
+    "reversals": {
+      "0x413afb33a2cab3fb9e71d566a758947f597d6b3dfc7597500fe7853c2db61c47": [
+        [
+          {
+            "op": "remove",
+            "path": [
+              "commitments",
+              "0xbe19b59e8c588d68f475a407c7ba5fe813aeb792"
+            ]
+          }
+        ]
+      ]
+    }
+  }
+}
