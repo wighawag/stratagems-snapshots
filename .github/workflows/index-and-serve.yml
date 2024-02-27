@@ -55,7 +55,7 @@ jobs:
           fetch-depth: 0
           path: ./__snapshots
           
-      - name: Index Stratagems
+      - name: Index Stratagems (composablelabs)
         env: 
           ETH_NODE_URI_composablelabs: ${{ secrets.ETH_NODE_URI_COMPOSABLELABS }}
         run: |
@@ -65,6 +65,16 @@ jobs:
           mkdir -p ./__snapshots/snapshosts
           cp -R ./web/static/indexed-states/* ./__snapshots/snapshosts/
           
+
+      - name: Index Stratagems (alpha1test)
+        env: 
+          ETH_NODE_URI_alpha1test: ${{ secrets.ETH_NODE_URI_ALPHA1TEST}}
+        run: |
+          mkdir -p ./web/static/indexed-states/
+          cp -R ./__snapshots/snapshosts/* ./web/static/indexed-states/ 2>/dev/null || :
+          pnpm indexer:index alpha1test
+          mkdir -p ./__snapshots/snapshosts
+          cp -R ./web/static/indexed-states/* ./__snapshots/snapshosts/
 
 
       - name: Push
