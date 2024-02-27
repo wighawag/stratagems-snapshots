@@ -5,38 +5,250 @@
       "source": [
         {
           "startBlock": 0,
-          "hash": "149n31y"
+          "hash": "99ikfh"
         }
       ],
       "config": "10lkzm2",
       "processor": "79dcb1713015ea3fa244ba795941a531178a2c042d2d9b8dd81c883cd0018cba-not-configured"
     },
-    "lastFromBlock": 2636198,
-    "latestBlock": 2641374,
-    "lastToBlock": 2641374,
+    "lastFromBlock": 2648405,
+    "latestBlock": 2650221,
+    "lastToBlock": 2650221,
     "unconfirmedBlocks": []
   },
   "state": {
-    "cells": {},
-    "owners": {},
+    "cells": {
+      "3": {
+        "lastEpochUpdate": 19785,
+        "color": 4,
+        "delta": 1,
+        "enemyMap": 0,
+        "epochWhenTokenIsAdded": 19785,
+        "life": 2,
+        "distribution": 0,
+        "stake": 1
+      },
+      "4294967300": {
+        "lastEpochUpdate": 19785,
+        "color": 3,
+        "delta": 0,
+        "enemyMap": 2,
+        "epochWhenTokenIsAdded": 19783,
+        "life": 4,
+        "distribution": 0,
+        "stake": 1
+      },
+      "4294967301": {
+        "lastEpochUpdate": 19784,
+        "color": 3,
+        "delta": 1,
+        "enemyMap": 8,
+        "epochWhenTokenIsAdded": 19783,
+        "life": 3,
+        "distribution": 0,
+        "stake": 1
+      },
+      "8589934597": {
+        "lastEpochUpdate": 19787,
+        "color": 3,
+        "delta": 0,
+        "enemyMap": 8,
+        "epochWhenTokenIsAdded": 19783,
+        "life": 0,
+        "distribution": 1,
+        "stake": 1
+      },
+      "4294967303": {
+        "lastEpochUpdate": 19784,
+        "color": 4,
+        "delta": 2,
+        "enemyMap": 0,
+        "epochWhenTokenIsAdded": 19784,
+        "life": 2,
+        "distribution": 0,
+        "stake": 1
+      },
+      "4294967302": {
+        "lastEpochUpdate": 19787,
+        "color": 4,
+        "delta": 1,
+        "enemyMap": 2,
+        "epochWhenTokenIsAdded": 19784,
+        "life": 5,
+        "distribution": 0,
+        "stake": 1
+      },
+      "8589934598": {
+        "lastEpochUpdate": 19787,
+        "color": 4,
+        "delta": 1,
+        "enemyMap": 2,
+        "epochWhenTokenIsAdded": 19784,
+        "life": 5,
+        "distribution": 0,
+        "stake": 1
+      },
+      "8589934599": {
+        "lastEpochUpdate": 19787,
+        "color": 4,
+        "delta": 2,
+        "enemyMap": 0,
+        "epochWhenTokenIsAdded": 19784,
+        "life": 5,
+        "distribution": 0,
+        "stake": 1
+      },
+      "4294967299": {
+        "lastEpochUpdate": 19785,
+        "color": 4,
+        "delta": 1,
+        "enemyMap": 8,
+        "epochWhenTokenIsAdded": 19785,
+        "life": 2,
+        "distribution": 0,
+        "stake": 1
+      },
+      "4294967298": {
+        "lastEpochUpdate": 19785,
+        "color": 4,
+        "delta": 1,
+        "enemyMap": 0,
+        "epochWhenTokenIsAdded": 19785,
+        "life": 2,
+        "distribution": 0,
+        "stake": 1
+      }
+    },
+    "owners": {
+      "3": "0xE53cd71271AcAdbeb0f64d9c8C62bBdDc8cA9e66",
+      "4294967300": "0x61c461EcC993aaDEB7e4b47E96d1B8cC37314B20",
+      "4294967301": "0x61c461EcC993aaDEB7e4b47E96d1B8cC37314B20",
+      "8589934597": "0x61c461EcC993aaDEB7e4b47E96d1B8cC37314B20",
+      "4294967303": "0xE53cd71271AcAdbeb0f64d9c8C62bBdDc8cA9e66",
+      "4294967302": "0xE53cd71271AcAdbeb0f64d9c8C62bBdDc8cA9e66",
+      "8589934598": "0xE53cd71271AcAdbeb0f64d9c8C62bBdDc8cA9e66",
+      "8589934599": "0xE53cd71271AcAdbeb0f64d9c8C62bBdDc8cA9e66",
+      "4294967299": "0xE53cd71271AcAdbeb0f64d9c8C62bBdDc8cA9e66",
+      "4294967298": "0xE53cd71271AcAdbeb0f64d9c8C62bBdDc8cA9e66"
+    },
     "commitments": {},
-    "placements": []
+    "placements": [
+      {
+        "epoch": 19785,
+        "cells": {
+          "3": {
+            "players": [
+              {
+                "color": 4,
+                "address": "0xe53cd71271acadbeb0f64d9c8c62bbddc8ca9e66"
+              }
+            ]
+          },
+          "4294967299": {
+            "players": [
+              {
+                "color": 4,
+                "address": "0xe53cd71271acadbeb0f64d9c8c62bbddc8ca9e66"
+              }
+            ]
+          },
+          "4294967298": {
+            "players": [
+              {
+                "color": 4,
+                "address": "0xe53cd71271acadbeb0f64d9c8c62bbddc8ca9e66"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "epoch": 19784,
+        "cells": {
+          "4294967303": {
+            "players": [
+              {
+                "color": 4,
+                "address": "0xe53cd71271acadbeb0f64d9c8c62bbddc8ca9e66"
+              }
+            ]
+          },
+          "4294967302": {
+            "players": [
+              {
+                "color": 4,
+                "address": "0xe53cd71271acadbeb0f64d9c8c62bbddc8ca9e66"
+              }
+            ]
+          },
+          "8589934598": {
+            "players": [
+              {
+                "color": 4,
+                "address": "0xe53cd71271acadbeb0f64d9c8c62bbddc8ca9e66"
+              }
+            ]
+          },
+          "8589934599": {
+            "players": [
+              {
+                "color": 4,
+                "address": "0xe53cd71271acadbeb0f64d9c8c62bbddc8ca9e66"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "epoch": 19783,
+        "cells": {
+          "4294967300": {
+            "players": [
+              {
+                "color": 3,
+                "address": "0x61c461ecc993aadeb7e4b47e96d1b8cc37314b20"
+              }
+            ]
+          },
+          "4294967301": {
+            "players": [
+              {
+                "color": 3,
+                "address": "0x61c461ecc993aadeb7e4b47e96d1b8cc37314b20"
+              }
+            ]
+          },
+          "8589934597": {
+            "players": [
+              {
+                "color": 3,
+                "address": "0x61c461ecc993aadeb7e4b47e96d1b8cc37314b20"
+              }
+            ]
+          }
+        }
+      }
+    ]
   },
   "history": {
     "blockHashes": {
-      "2640459": "0xde51f83c8f338c180eca6dde79c3f67888e6485e02923e72512d3d425da9922b",
-      "2640461": "0x75eb14bf52f527aed9c89fdcf1a0c29949acbf2951faa33ef56cddee4bf80ec9",
-      "2640463": "0xd1097c6c29c5d021a279ae1fea6452bfef8906bf4c662bf31bd17f755a25dae6"
+      "2644688": "0x2c5c14c5e60737bccc18fa9fe7f8f4c2dd4a995a2c701ea420cefdc02517a026"
     },
     "reversals": {
-      "0xde51f83c8f338c180eca6dde79c3f67888e6485e02923e72512d3d425da9922b": [
-        []
-      ],
-      "0x75eb14bf52f527aed9c89fdcf1a0c29949acbf2951faa33ef56cddee4bf80ec9": [
-        []
-      ],
-      "0xd1097c6c29c5d021a279ae1fea6452bfef8906bf4c662bf31bd17f755a25dae6": [
-        []
+      "0x2c5c14c5e60737bccc18fa9fe7f8f4c2dd4a995a2c701ea420cefdc02517a026": [
+        [
+          {
+            "op": "add",
+            "path": [
+              "commitments",
+              "0x61c461ecc993aadeb7e4b47e96d1b8cc37314b20"
+            ],
+            "value": {
+              "epoch": 19782,
+              "hash": "0xc452db4e2a021af5a11a7c2841c9408b57901e663eb775b8"
+            }
+          }
+        ]
       ]
     }
   }
