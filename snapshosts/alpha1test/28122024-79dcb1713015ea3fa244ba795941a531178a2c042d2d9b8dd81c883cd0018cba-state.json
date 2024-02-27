@@ -5,15 +5,15 @@
       "source": [
         {
           "startBlock": 0,
-          "hash": "149n31y"
+          "hash": "99ikfh"
         }
       ],
       "config": "10lkzm2",
       "processor": "79dcb1713015ea3fa244ba795941a531178a2c042d2d9b8dd81c883cd0018cba-not-configured"
     },
-    "lastFromBlock": 2641407,
-    "latestBlock": 2642928,
-    "lastToBlock": 2642928,
+    "lastFromBlock": 2636198,
+    "latestBlock": 2644753,
+    "lastToBlock": 2644753,
     "unconfirmedBlocks": []
   },
   "state": {
@@ -24,19 +24,23 @@
   },
   "history": {
     "blockHashes": {
-      "2640459": "0xde51f83c8f338c180eca6dde79c3f67888e6485e02923e72512d3d425da9922b",
-      "2640461": "0x75eb14bf52f527aed9c89fdcf1a0c29949acbf2951faa33ef56cddee4bf80ec9",
-      "2640463": "0xd1097c6c29c5d021a279ae1fea6452bfef8906bf4c662bf31bd17f755a25dae6"
+      "2644688": "0x2c5c14c5e60737bccc18fa9fe7f8f4c2dd4a995a2c701ea420cefdc02517a026"
     },
     "reversals": {
-      "0xde51f83c8f338c180eca6dde79c3f67888e6485e02923e72512d3d425da9922b": [
-        []
-      ],
-      "0x75eb14bf52f527aed9c89fdcf1a0c29949acbf2951faa33ef56cddee4bf80ec9": [
-        []
-      ],
-      "0xd1097c6c29c5d021a279ae1fea6452bfef8906bf4c662bf31bd17f755a25dae6": [
-        []
+      "0x2c5c14c5e60737bccc18fa9fe7f8f4c2dd4a995a2c701ea420cefdc02517a026": [
+        [
+          {
+            "op": "add",
+            "path": [
+              "commitments",
+              "0x61c461ecc993aadeb7e4b47e96d1b8cc37314b20"
+            ],
+            "value": {
+              "epoch": 19782,
+              "hash": "0xc452db4e2a021af5a11a7c2841c9408b57901e663eb775b8"
+            }
+          }
+        ]
       ]
     }
   }
