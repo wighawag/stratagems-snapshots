@@ -11,9 +11,9 @@
       "config": "10lkzm2",
       "processor": "79dcb1713015ea3fa244ba795941a531178a2c042d2d9b8dd81c883cd0018cba-not-configured"
     },
-    "lastFromBlock": 2776227,
-    "latestBlock": 2778029,
-    "lastToBlock": 2778029,
+    "lastFromBlock": 2778062,
+    "latestBlock": 2779822,
+    "lastToBlock": 2779822,
     "unconfirmedBlocks": []
   },
   "state": {
@@ -21,8 +21,8 @@
       "3": {
         "lastEpochUpdate": 19795,
         "color": 4,
-        "delta": 1,
-        "enemyMap": 0,
+        "delta": 0,
+        "enemyMap": 1,
         "epochWhenTokenIsAdded": 19785,
         "life": 7,
         "distribution": 0,
@@ -39,12 +39,12 @@
         "stake": 1
       },
       "8": {
-        "lastEpochUpdate": 19791,
+        "lastEpochUpdate": 19795,
         "color": 5,
-        "delta": 0,
-        "enemyMap": 9,
+        "delta": 2,
+        "enemyMap": 8,
         "epochWhenTokenIsAdded": 19787,
-        "life": 6,
+        "life": 2,
         "distribution": 0,
         "stake": 1
       },
@@ -94,6 +94,26 @@
         "delta": 1,
         "enemyMap": 4,
         "epochWhenTokenIsAdded": 19791,
+        "life": 2,
+        "distribution": 0,
+        "stake": 1
+      },
+      "26": {
+        "lastEpochUpdate": 19795,
+        "color": 2,
+        "delta": 2,
+        "enemyMap": 0,
+        "epochWhenTokenIsAdded": 19795,
+        "life": 2,
+        "distribution": 0,
+        "stake": 1
+      },
+      "27": {
+        "lastEpochUpdate": 19795,
+        "color": 2,
+        "delta": 2,
+        "enemyMap": 0,
+        "epochWhenTokenIsAdded": 19795,
         "life": 2,
         "distribution": 0,
         "stake": 1
@@ -209,12 +229,12 @@
         "stake": 1
       },
       "18446744069414584327": {
-        "lastEpochUpdate": 19791,
+        "lastEpochUpdate": 19795,
         "color": 5,
-        "delta": 0,
-        "enemyMap": 8,
+        "delta": 2,
+        "enemyMap": 0,
         "epochWhenTokenIsAdded": 19787,
-        "life": 6,
+        "life": 2,
         "distribution": 0,
         "stake": 1
       },
@@ -359,22 +379,22 @@
         "stake": 1
       },
       "18446744069414584328": {
-        "lastEpochUpdate": 19791,
-        "color": 1,
-        "delta": -1,
-        "enemyMap": 6,
-        "epochWhenTokenIsAdded": 19791,
+        "lastEpochUpdate": 19795,
+        "color": 5,
+        "delta": 2,
+        "enemyMap": 8,
+        "epochWhenTokenIsAdded": 19795,
         "life": 2,
         "distribution": 0,
         "stake": 1
       },
       "18446744069414584329": {
-        "lastEpochUpdate": 19791,
+        "lastEpochUpdate": 19795,
         "color": 1,
-        "delta": 3,
-        "enemyMap": 0,
+        "delta": 0,
+        "enemyMap": 3,
         "epochWhenTokenIsAdded": 19791,
-        "life": 2,
+        "life": 6,
         "distribution": 0,
         "stake": 1
       },
@@ -459,12 +479,12 @@
         "stake": 1
       },
       "12884901888": {
-        "lastEpochUpdate": 19791,
+        "lastEpochUpdate": 19795,
         "color": 4,
-        "delta": 0,
-        "enemyMap": 0,
+        "delta": -2,
+        "enemyMap": 6,
         "epochWhenTokenIsAdded": 19791,
-        "life": 2,
+        "life": 6,
         "distribution": 0,
         "stake": 1
       },
@@ -647,6 +667,136 @@
         "life": 2,
         "distribution": 0,
         "stake": 1
+      },
+      "17179869184": {
+        "lastEpochUpdate": 19795,
+        "color": 5,
+        "delta": 1,
+        "enemyMap": 1,
+        "epochWhenTokenIsAdded": 19795,
+        "life": 2,
+        "distribution": 0,
+        "stake": 1
+      },
+      "17179869183": {
+        "lastEpochUpdate": 19795,
+        "color": 5,
+        "delta": 1,
+        "enemyMap": 8,
+        "epochWhenTokenIsAdded": 19795,
+        "life": 2,
+        "distribution": 0,
+        "stake": 1
+      },
+      "21474836479": {
+        "lastEpochUpdate": 19795,
+        "color": 5,
+        "delta": 2,
+        "enemyMap": 0,
+        "epochWhenTokenIsAdded": 19795,
+        "life": 2,
+        "distribution": 0,
+        "stake": 1
+      },
+      "17179869185": {
+        "lastEpochUpdate": 19795,
+        "color": 5,
+        "delta": 1,
+        "enemyMap": 0,
+        "epochWhenTokenIsAdded": 19795,
+        "life": 2,
+        "distribution": 0,
+        "stake": 1
+      },
+      "12884901887": {
+        "lastEpochUpdate": 19795,
+        "color": 5,
+        "delta": 1,
+        "enemyMap": 0,
+        "epochWhenTokenIsAdded": 19795,
+        "life": 2,
+        "distribution": 0,
+        "stake": 1
+      },
+      "18446744069414584323": {
+        "lastEpochUpdate": 19795,
+        "color": 5,
+        "delta": 1,
+        "enemyMap": 4,
+        "epochWhenTokenIsAdded": 19795,
+        "life": 2,
+        "distribution": 0,
+        "stake": 1
+      },
+      "18446744069414584324": {
+        "lastEpochUpdate": 19795,
+        "color": 5,
+        "delta": 1,
+        "enemyMap": 0,
+        "epochWhenTokenIsAdded": 19795,
+        "life": 2,
+        "distribution": 0,
+        "stake": 1
+      },
+      "18446744065119617027": {
+        "lastEpochUpdate": 19795,
+        "color": 5,
+        "delta": 1,
+        "enemyMap": 0,
+        "epochWhenTokenIsAdded": 19795,
+        "life": 2,
+        "distribution": 0,
+        "stake": 1
+      },
+      "18446744065119617032": {
+        "lastEpochUpdate": 19795,
+        "color": 5,
+        "delta": 2,
+        "enemyMap": 0,
+        "epochWhenTokenIsAdded": 19795,
+        "life": 2,
+        "distribution": 0,
+        "stake": 1
+      },
+      "18446744065119617033": {
+        "lastEpochUpdate": 19795,
+        "color": 5,
+        "delta": 1,
+        "enemyMap": 4,
+        "epochWhenTokenIsAdded": 19795,
+        "life": 2,
+        "distribution": 0,
+        "stake": 1
+      },
+      "18446744060824649737": {
+        "lastEpochUpdate": 19795,
+        "color": 5,
+        "delta": 1,
+        "enemyMap": 0,
+        "epochWhenTokenIsAdded": 19795,
+        "life": 2,
+        "distribution": 0,
+        "stake": 1
+      },
+      "18446744069414584346": {
+        "lastEpochUpdate": 19795,
+        "color": 2,
+        "delta": 2,
+        "enemyMap": 0,
+        "epochWhenTokenIsAdded": 19795,
+        "life": 2,
+        "distribution": 0,
+        "stake": 1
+      },
+      "18446744069414584347": {
+        "lastEpochUpdate": 19795,
+        "color": 2,
+        "delta": 2,
+        "enemyMap": 0,
+        "epochWhenTokenIsAdded": 19795,
+        "life": 2,
+        "distribution": 0,
+        "stake": 1
       }
     },
     "owners": {
@@ -658,6 +808,8 @@
       "11": "0xE727D2863242aA9a123AB1EC95Ef9B83B16F56d1",
       "12": "0xE351CF8d9aB55a05d1f8b1bfA285A6De2FBfDB09",
       "13": "0xE351CF8d9aB55a05d1f8b1bfA285A6De2FBfDB09",
+      "26": "0x90F79bf6EB2c4f870365E785982E1f101E93b906",
+      "27": "0x90F79bf6EB2c4f870365E785982E1f101E93b906",
       "4294967300": "0x61c461EcC993aaDEB7e4b47E96d1B8cC37314B20",
       "4294967301": "0x61c461EcC993aaDEB7e4b47E96d1B8cC37314B20",
       "8589934597": "0x61c461EcC993aaDEB7e4b47E96d1B8cC37314B20",
@@ -684,7 +836,7 @@
       "18446744065119617038": "0x61c461EcC993aaDEB7e4b47E96d1B8cC37314B20",
       "8589934601": "0xE351CF8d9aB55a05d1f8b1bfA285A6De2FBfDB09",
       "8589934600": "0xE351CF8d9aB55a05d1f8b1bfA285A6De2FBfDB09",
-      "18446744069414584328": "0xE351CF8d9aB55a05d1f8b1bfA285A6De2FBfDB09",
+      "18446744069414584328": "0xE53cd71271AcAdbeb0f64d9c8C62bBdDc8cA9e66",
       "18446744069414584329": "0xE351CF8d9aB55a05d1f8b1bfA285A6De2FBfDB09",
       "18446744069414584330": "0xE351CF8d9aB55a05d1f8b1bfA285A6De2FBfDB09",
       "18446744069414584331": "0xE351CF8d9aB55a05d1f8b1bfA285A6De2FBfDB09",
@@ -712,23 +864,294 @@
       "34359738378": "0x61c461EcC993aaDEB7e4b47E96d1B8cC37314B20",
       "12884901906": "0x61c461EcC993aaDEB7e4b47E96d1B8cC37314B20",
       "12884901907": "0x61c461EcC993aaDEB7e4b47E96d1B8cC37314B20",
-      "17179869202": "0x61c461EcC993aaDEB7e4b47E96d1B8cC37314B20"
+      "17179869202": "0x61c461EcC993aaDEB7e4b47E96d1B8cC37314B20",
+      "17179869184": "0xE53cd71271AcAdbeb0f64d9c8C62bBdDc8cA9e66",
+      "17179869183": "0xE53cd71271AcAdbeb0f64d9c8C62bBdDc8cA9e66",
+      "21474836479": "0xE53cd71271AcAdbeb0f64d9c8C62bBdDc8cA9e66",
+      "17179869185": "0xE53cd71271AcAdbeb0f64d9c8C62bBdDc8cA9e66",
+      "12884901887": "0xE53cd71271AcAdbeb0f64d9c8C62bBdDc8cA9e66",
+      "18446744069414584323": "0xE53cd71271AcAdbeb0f64d9c8C62bBdDc8cA9e66",
+      "18446744069414584324": "0xE53cd71271AcAdbeb0f64d9c8C62bBdDc8cA9e66",
+      "18446744065119617027": "0xE53cd71271AcAdbeb0f64d9c8C62bBdDc8cA9e66",
+      "18446744065119617032": "0xE53cd71271AcAdbeb0f64d9c8C62bBdDc8cA9e66",
+      "18446744065119617033": "0xE53cd71271AcAdbeb0f64d9c8C62bBdDc8cA9e66",
+      "18446744060824649737": "0xE53cd71271AcAdbeb0f64d9c8C62bBdDc8cA9e66",
+      "18446744069414584346": "0x90F79bf6EB2c4f870365E785982E1f101E93b906",
+      "18446744069414584347": "0x90F79bf6EB2c4f870365E785982E1f101E93b906"
     },
     "commitments": {
       "0x943321a5a6dc807e5267ca2b1175ae762e6c9a73": {
         "epoch": 19792,
         "hash": "0x5a8576574338261742fc88e5cf637e6cc670aef5416e5a13"
-      },
-      "0xe53cd71271acadbeb0f64d9c8c62bbddc8ca9e66": {
-        "epoch": 19795,
-        "hash": "0x7be839653d05eef73fefe8fadf739be0d27e36ef69f91b7d"
-      },
-      "0x90f79bf6eb2c4f870365e785982e1f101e93b906": {
-        "epoch": 19795,
-        "hash": "0xa70040d71c9611b52746ad65a48e519e020aa33162d2705d"
       }
     },
     "placements": [
+      {
+        "epoch": 19795,
+        "cells": {
+          "26": {
+            "players": [
+              {
+                "color": 2,
+                "address": "0x90f79bf6eb2c4f870365e785982e1f101e93b906"
+              }
+            ]
+          },
+          "27": {
+            "players": [
+              {
+                "color": 2,
+                "address": "0x90f79bf6eb2c4f870365e785982e1f101e93b906"
+              }
+            ]
+          },
+          "17179869184": {
+            "players": [
+              {
+                "color": 5,
+                "address": "0xe53cd71271acadbeb0f64d9c8c62bbddc8ca9e66"
+              }
+            ]
+          },
+          "17179869183": {
+            "players": [
+              {
+                "color": 5,
+                "address": "0xe53cd71271acadbeb0f64d9c8c62bbddc8ca9e66"
+              }
+            ]
+          },
+          "21474836479": {
+            "players": [
+              {
+                "color": 5,
+                "address": "0xe53cd71271acadbeb0f64d9c8c62bbddc8ca9e66"
+              }
+            ]
+          },
+          "17179869185": {
+            "players": [
+              {
+                "color": 5,
+                "address": "0xe53cd71271acadbeb0f64d9c8c62bbddc8ca9e66"
+              }
+            ]
+          },
+          "12884901887": {
+            "players": [
+              {
+                "color": 5,
+                "address": "0xe53cd71271acadbeb0f64d9c8c62bbddc8ca9e66"
+              }
+            ]
+          },
+          "18446744069414584323": {
+            "players": [
+              {
+                "color": 5,
+                "address": "0xe53cd71271acadbeb0f64d9c8c62bbddc8ca9e66"
+              }
+            ]
+          },
+          "18446744069414584324": {
+            "players": [
+              {
+                "color": 5,
+                "address": "0xe53cd71271acadbeb0f64d9c8c62bbddc8ca9e66"
+              }
+            ]
+          },
+          "18446744065119617027": {
+            "players": [
+              {
+                "color": 5,
+                "address": "0xe53cd71271acadbeb0f64d9c8c62bbddc8ca9e66"
+              }
+            ]
+          },
+          "18446744069414584328": {
+            "players": [
+              {
+                "color": 5,
+                "address": "0xe53cd71271acadbeb0f64d9c8c62bbddc8ca9e66"
+              }
+            ]
+          },
+          "18446744065119617032": {
+            "players": [
+              {
+                "color": 5,
+                "address": "0xe53cd71271acadbeb0f64d9c8c62bbddc8ca9e66"
+              }
+            ]
+          },
+          "18446744065119617033": {
+            "players": [
+              {
+                "color": 5,
+                "address": "0xe53cd71271acadbeb0f64d9c8c62bbddc8ca9e66"
+              }
+            ]
+          },
+          "18446744060824649737": {
+            "players": [
+              {
+                "color": 5,
+                "address": "0xe53cd71271acadbeb0f64d9c8c62bbddc8ca9e66"
+              }
+            ]
+          },
+          "18446744069414584346": {
+            "players": [
+              {
+                "color": 2,
+                "address": "0x90f79bf6eb2c4f870365e785982e1f101e93b906"
+              }
+            ]
+          },
+          "18446744069414584347": {
+            "players": [
+              {
+                "color": 2,
+                "address": "0x90f79bf6eb2c4f870365e785982e1f101e93b906"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "epoch": 19795,
+        "cells": {
+          "26": {
+            "players": [
+              {
+                "color": 2,
+                "address": "0x90f79bf6eb2c4f870365e785982e1f101e93b906"
+              }
+            ]
+          },
+          "27": {
+            "players": [
+              {
+                "color": 2,
+                "address": "0x90f79bf6eb2c4f870365e785982e1f101e93b906"
+              }
+            ]
+          },
+          "17179869184": {
+            "players": [
+              {
+                "color": 5,
+                "address": "0xe53cd71271acadbeb0f64d9c8c62bbddc8ca9e66"
+              }
+            ]
+          },
+          "17179869183": {
+            "players": [
+              {
+                "color": 5,
+                "address": "0xe53cd71271acadbeb0f64d9c8c62bbddc8ca9e66"
+              }
+            ]
+          },
+          "21474836479": {
+            "players": [
+              {
+                "color": 5,
+                "address": "0xe53cd71271acadbeb0f64d9c8c62bbddc8ca9e66"
+              }
+            ]
+          },
+          "17179869185": {
+            "players": [
+              {
+                "color": 5,
+                "address": "0xe53cd71271acadbeb0f64d9c8c62bbddc8ca9e66"
+              }
+            ]
+          },
+          "12884901887": {
+            "players": [
+              {
+                "color": 5,
+                "address": "0xe53cd71271acadbeb0f64d9c8c62bbddc8ca9e66"
+              }
+            ]
+          },
+          "18446744069414584323": {
+            "players": [
+              {
+                "color": 5,
+                "address": "0xe53cd71271acadbeb0f64d9c8c62bbddc8ca9e66"
+              }
+            ]
+          },
+          "18446744069414584324": {
+            "players": [
+              {
+                "color": 5,
+                "address": "0xe53cd71271acadbeb0f64d9c8c62bbddc8ca9e66"
+              }
+            ]
+          },
+          "18446744065119617027": {
+            "players": [
+              {
+                "color": 5,
+                "address": "0xe53cd71271acadbeb0f64d9c8c62bbddc8ca9e66"
+              }
+            ]
+          },
+          "18446744069414584328": {
+            "players": [
+              {
+                "color": 5,
+                "address": "0xe53cd71271acadbeb0f64d9c8c62bbddc8ca9e66"
+              }
+            ]
+          },
+          "18446744065119617032": {
+            "players": [
+              {
+                "color": 5,
+                "address": "0xe53cd71271acadbeb0f64d9c8c62bbddc8ca9e66"
+              }
+            ]
+          },
+          "18446744065119617033": {
+            "players": [
+              {
+                "color": 5,
+                "address": "0xe53cd71271acadbeb0f64d9c8c62bbddc8ca9e66"
+              }
+            ]
+          },
+          "18446744060824649737": {
+            "players": [
+              {
+                "color": 5,
+                "address": "0xe53cd71271acadbeb0f64d9c8c62bbddc8ca9e66"
+              }
+            ]
+          },
+          "18446744069414584346": {
+            "players": [
+              {
+                "color": 2,
+                "address": "0x90f79bf6eb2c4f870365e785982e1f101e93b906"
+              }
+            ]
+          },
+          "18446744069414584347": {
+            "players": [
+              {
+                "color": 2,
+                "address": "0x90f79bf6eb2c4f870365e785982e1f101e93b906"
+              }
+            ]
+          }
+        }
+      },
       {
         "epoch": 19794,
         "cells": {
@@ -1285,96 +1708,6 @@
               {
                 "color": 1,
                 "address": "0x92185cff6879b4937e507112a69a389bf876bd3d"
-              }
-            ]
-          }
-        }
-      },
-      {
-        "epoch": 19790,
-        "cells": {
-          "18446744065119617037": {
-            "players": [
-              {
-                "color": 1,
-                "address": "0x61c461ecc993aadeb7e4b47e96d1b8cc37314b20"
-              }
-            ]
-          },
-          "18446744069414584333": {
-            "players": [
-              {
-                "color": 1,
-                "address": "0x61c461ecc993aadeb7e4b47e96d1b8cc37314b20"
-              }
-            ]
-          },
-          "18446744069414584334": {
-            "players": [
-              {
-                "color": 1,
-                "address": "0x61c461ecc993aadeb7e4b47e96d1b8cc37314b20"
-              }
-            ]
-          },
-          "18446744065119617038": {
-            "players": [
-              {
-                "color": 1,
-                "address": "0x61c461ecc993aadeb7e4b47e96d1b8cc37314b20"
-              }
-            ]
-          }
-        }
-      },
-      {
-        "epoch": 19789,
-        "cells": {
-          "4294967308": {
-            "players": [
-              {
-                "color": 3,
-                "address": "0xa43af3b33ef9f9561134863e4a0d3b86587bb988"
-              },
-              {
-                "color": 3,
-                "address": "0x61c461ecc993aadeb7e4b47e96d1b8cc37314b20"
-              }
-            ]
-          },
-          "4294967309": {
-            "players": [
-              {
-                "color": 3,
-                "address": "0xa43af3b33ef9f9561134863e4a0d3b86587bb988"
-              },
-              {
-                "color": 3,
-                "address": "0x61c461ecc993aadeb7e4b47e96d1b8cc37314b20"
-              }
-            ]
-          },
-          "8589934605": {
-            "players": [
-              {
-                "color": 3,
-                "address": "0xa43af3b33ef9f9561134863e4a0d3b86587bb988"
-              },
-              {
-                "color": 3,
-                "address": "0x61c461ecc993aadeb7e4b47e96d1b8cc37314b20"
-              }
-            ]
-          },
-          "8589934604": {
-            "players": [
-              {
-                "color": 3,
-                "address": "0xa43af3b33ef9f9561134863e4a0d3b86587bb988"
-              },
-              {
-                "color": 3,
-                "address": "0x61c461ecc993aadeb7e4b47e96d1b8cc37314b20"
               }
             ]
           }
