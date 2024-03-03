@@ -5,15 +5,15 @@
       "source": [
         {
           "startBlock": 0,
-          "hash": "11getw6"
+          "hash": "wzz331"
         }
       ],
       "config": "10lkzm2",
       "processor": "79dcb1713015ea3fa244ba795941a531178a2c042d2d9b8dd81c883cd0018cba-not-configured"
     },
-    "lastFromBlock": 1718362,
-    "latestBlock": 1720370,
-    "lastToBlock": 1720370,
+    "lastFromBlock": 1654588,
+    "latestBlock": 1721996,
+    "lastToBlock": 1721996,
     "unconfirmedBlocks": []
   },
   "state": {
@@ -89,19 +89,11 @@
   },
   "history": {
     "blockHashes": {
-      "1516047": "0x413afb33a2cab3fb9e71d566a758947f597d6b3dfc7597500fe7853c2db61c47"
+      "1715067": "0xfbd3df82bbf03cf8d4d40066cd6131aa3eb77738f5700e96757ee643419657bb"
     },
     "reversals": {
-      "0x413afb33a2cab3fb9e71d566a758947f597d6b3dfc7597500fe7853c2db61c47": [
-        [
-          {
-            "op": "remove",
-            "path": [
-              "commitments",
-              "0xbe19b59e8c588d68f475a407c7ba5fe813aeb792"
-            ]
-          }
-        ]
+      "0xfbd3df82bbf03cf8d4d40066cd6131aa3eb77738f5700e96757ee643419657bb": [
+        []
       ]
     }
   }
