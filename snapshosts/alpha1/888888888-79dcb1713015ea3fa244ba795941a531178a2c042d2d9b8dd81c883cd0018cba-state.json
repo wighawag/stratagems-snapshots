@@ -11,9 +11,9 @@
       "config": "10lkzm2",
       "processor": "79dcb1713015ea3fa244ba795941a531178a2c042d2d9b8dd81c883cd0018cba-not-configured"
     },
-    "lastFromBlock": 1779635,
-    "latestBlock": 1781372,
-    "lastToBlock": 1781372,
+    "lastFromBlock": 1781405,
+    "latestBlock": 1783230,
+    "lastToBlock": 1783230,
     "unconfirmedBlocks": []
   },
   "state": {
@@ -39,11 +39,41 @@
         "stake": 1
       },
       "18446744069414584319": {
-        "lastEpochUpdate": 19782,
+        "lastEpochUpdate": 19788,
         "color": 4,
+        "delta": 0,
+        "enemyMap": 1,
+        "epochWhenTokenIsAdded": 19782,
+        "life": 7,
+        "distribution": 0,
+        "stake": 1
+      },
+      "18446744065119617023": {
+        "lastEpochUpdate": 19788,
+        "color": 1,
+        "delta": 1,
+        "enemyMap": 4,
+        "epochWhenTokenIsAdded": 19788,
+        "life": 2,
+        "distribution": 0,
+        "stake": 1
+      },
+      "18446744065119617022": {
+        "lastEpochUpdate": 19788,
+        "color": 1,
         "delta": 1,
         "enemyMap": 0,
-        "epochWhenTokenIsAdded": 19782,
+        "epochWhenTokenIsAdded": 19788,
+        "life": 2,
+        "distribution": 0,
+        "stake": 1
+      },
+      "18446744060824649727": {
+        "lastEpochUpdate": 19788,
+        "color": 1,
+        "delta": 1,
+        "enemyMap": 0,
+        "epochWhenTokenIsAdded": 19788,
         "life": 2,
         "distribution": 0,
         "stake": 1
@@ -52,15 +82,42 @@
     "owners": {
       "4294967295": "0xbE19B59E8C588d68f475A407C7BA5fE813AEb792",
       "18446744073709551615": "0xbE19B59E8C588d68f475A407C7BA5fE813AEb792",
-      "18446744069414584319": "0xbE19B59E8C588d68f475A407C7BA5fE813AEb792"
+      "18446744069414584319": "0xbE19B59E8C588d68f475A407C7BA5fE813AEb792",
+      "18446744065119617023": "0x7fCe02BB66c0D9396fb9bC60a80d45462E60fdfF",
+      "18446744065119617022": "0x7fCe02BB66c0D9396fb9bC60a80d45462E60fdfF",
+      "18446744060824649727": "0x7fCe02BB66c0D9396fb9bC60a80d45462E60fdfF"
     },
-    "commitments": {
-      "0x7fce02bb66c0d9396fb9bc60a80d45462e60fdff": {
-        "epoch": 19788,
-        "hash": "0x786202051565c3e4348d95096647d137ba271f79de969993"
-      }
-    },
+    "commitments": {},
     "placements": [
+      {
+        "epoch": 19788,
+        "cells": {
+          "18446744065119617023": {
+            "players": [
+              {
+                "color": 1,
+                "address": "0x7fce02bb66c0d9396fb9bc60a80d45462e60fdff"
+              }
+            ]
+          },
+          "18446744065119617022": {
+            "players": [
+              {
+                "color": 1,
+                "address": "0x7fce02bb66c0d9396fb9bc60a80d45462e60fdff"
+              }
+            ]
+          },
+          "18446744060824649727": {
+            "players": [
+              {
+                "color": 1,
+                "address": "0x7fce02bb66c0d9396fb9bc60a80d45462e60fdff"
+              }
+            ]
+          }
+        }
+      },
       {
         "epoch": 19782,
         "cells": {
