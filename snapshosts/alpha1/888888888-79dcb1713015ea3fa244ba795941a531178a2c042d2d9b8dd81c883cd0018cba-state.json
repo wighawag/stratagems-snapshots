@@ -11,9 +11,9 @@
       "config": "10lkzm2",
       "processor": "79dcb1713015ea3fa244ba795941a531178a2c042d2d9b8dd81c883cd0018cba-not-configured"
     },
-    "lastFromBlock": 1923661,
-    "latestBlock": 1925479,
-    "lastToBlock": 1925479,
+    "lastFromBlock": 1925512,
+    "latestBlock": 1927239,
+    "lastToBlock": 1927239,
     "unconfirmedBlocks": []
   },
   "state": {
