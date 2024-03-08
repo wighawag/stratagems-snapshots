@@ -4,14 +4,14 @@
     "source": [
       {
         "startBlock": 0,
-        "hash": "tc5lm8"
+        "hash": "ku40dc"
       }
     ],
     "config": "10lkzm2",
     "processor": "79dcb1713015ea3fa244ba795941a531178a2c042d2d9b8dd81c883cd0018cba-not-configured"
   },
-  "lastFromBlock": 3069527,
-  "latestBlock": 3071557,
-  "lastToBlock": 3071557,
+  "lastFromBlock": 3036198,
+  "latestBlock": 3073168,
+  "lastToBlock": 3073168,
   "unconfirmedBlocks": []
 }
