@@ -5,15 +5,15 @@
       "source": [
         {
           "startBlock": 0,
-          "hash": "1t7kugd"
+          "hash": "tpks87"
         }
       ],
       "config": "10lkzm2",
       "processor": "79dcb1713015ea3fa244ba795941a531178a2c042d2d9b8dd81c883cd0018cba-not-configured"
     },
-    "lastFromBlock": 11728251,
-    "latestBlock": 11729836,
-    "lastToBlock": 11729836,
+    "lastFromBlock": 11721965,
+    "latestBlock": 11731600,
+    "lastToBlock": 11731600,
     "unconfirmedBlocks": []
   },
   "state": {
@@ -231,7 +231,13 @@
     ]
   },
   "history": {
-    "blockHashes": {},
-    "reversals": {}
+    "blockHashes": {
+      "11730784": "0x26d2cf3d6abd66fb153a924f64654caf772b46378800cec86d5db1c104b71ce3"
+    },
+    "reversals": {
+      "0x26d2cf3d6abd66fb153a924f64654caf772b46378800cec86d5db1c104b71ce3": [
+        []
+      ]
+    }
   }
 }
