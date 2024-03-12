@@ -87,13 +87,15 @@ jobs:
           cp -R ./web/static/indexed-states/* ./__snapshots/snapshosts/
 
 
-      - name: Push
+      - name: Pull Push
         run: |
           cd ./__snapshots
           git config user.name github-actions
           git config user.email github-actions@github.com
+          git config pull.rebase false
           git add .
           git commit -m "update"
+          git pull
           git push
 
 
