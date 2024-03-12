@@ -10,36 +10,8 @@
     "config": "10lkzm2",
     "processor": "79dcb1713015ea3fa244ba795941a531178a2c042d2d9b8dd81c883cd0018cba-not-configured"
   },
-  "lastFromBlock": 7247973,
-  "latestBlock": 7249412,
-  "lastToBlock": 7249412,
-  "unconfirmedBlocks": [
-    {
-      "hash": "0x7a1ec6b91b456c7555fd90cd098c1488b92593d85bfbce6b5ea6f52d69aee34b",
-      "number": 7249400,
-      "events": [
-        {
-          "blockNumber": 7249400,
-          "blockHash": "0x7a1ec6b91b456c7555fd90cd098c1488b92593d85bfbce6b5ea6f52d69aee34b",
-          "transactionIndex": 5,
-          "removed": false,
-          "address": "0x3AB3844d5D6614febBe19D59244A815cfF691A17",
-          "data": "0x000000000000000000000000000000000000000000000000d02ab486cedc001e",
-          "topics": [
-            "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
-            "0x000000000000000000000000e53cd71271acadbeb0f64d9c8c62bbddc8ca9e66",
-            "0x000000000000000000000000170681cae74fbfed32a4ca11bf952658ba66d370"
-          ],
-          "transactionHash": "0xb253005ff002815019fcb9004cd6e5aa9d408f8c2c54d1fcb7db551716f6bb1b",
-          "logIndex": 2,
-          "args": {
-            "from": "0xE53cd71271AcAdbeb0f64d9c8C62bBdDc8cA9e66",
-            "to": "0x170681caE74fbfed32A4Ca11bF952658BA66D370",
-            "value": "15000000000000000030n"
-          },
-          "eventName": "Transfer"
-        }
-      ]
-    }
-  ]
+  "lastFromBlock": 7249445,
+  "latestBlock": 7251128,
+  "lastToBlock": 7251128,
+  "unconfirmedBlocks": []
 }
