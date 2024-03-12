@@ -76,6 +76,16 @@ jobs:
           mkdir -p ./__snapshots/snapshosts
           cp -R ./web/static/indexed-states/* ./__snapshots/snapshosts/
 
+      - name: Index Stratagems (base)
+        env: 
+          ETH_NODE_URI_base: ${{ secrets.ETH_NODE_URI_BASE}}
+        run: |
+          mkdir -p ./web/static/indexed-states/
+          cp -R ./__snapshots/snapshosts/* ./web/static/indexed-states/ 2>/dev/null || :
+          pnpm indexer:index base
+          mkdir -p ./__snapshots/snapshosts
+          cp -R ./web/static/indexed-states/* ./__snapshots/snapshosts/
+
       - name: Index Stratagems (alpha1)
         env: 
           ETH_NODE_URI_alpha1: ${{ secrets.ETH_NODE_URI_ALPHA1}}
