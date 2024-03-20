@@ -5,158 +5,30 @@
       "source": [
         {
           "startBlock": 0,
-          "hash": "11aamav"
+          "hash": "1o1pixu"
         }
       ],
       "config": "10lkzm2",
       "processor": "081af74c472cfbcca953bc000705fc9b43219247a2757a805bf67e31c06da279-not-configured"
     },
-    "lastFromBlock": 12079087,
-    "latestBlock": 12080922,
-    "lastToBlock": 12080922,
+    "lastFromBlock": 12082355,
+    "latestBlock": 12082570,
+    "lastToBlock": 12082570,
     "unconfirmedBlocks": []
   },
   "state": {
-    "cells": {
-      "4294967291": {
-        "lastEpochUpdate": 19803,
-        "color": 6,
-        "delta": 2,
-        "enemyMap": 0,
-        "epochWhenTokenIsAdded": 19803,
-        "life": 2,
-        "distribution": 0,
-        "stake": 1,
-        "producingEpochs": 0
-      },
-      "4294967292": {
-        "lastEpochUpdate": 19803,
-        "color": 6,
-        "delta": 2,
-        "enemyMap": 0,
-        "epochWhenTokenIsAdded": 19803,
-        "life": 2,
-        "distribution": 0,
-        "stake": 1,
-        "producingEpochs": 0
-      },
-      "18446744073709551611": {
-        "lastEpochUpdate": 19803,
-        "color": 6,
-        "delta": 2,
-        "enemyMap": 0,
-        "epochWhenTokenIsAdded": 19803,
-        "life": 2,
-        "distribution": 0,
-        "stake": 1,
-        "producingEpochs": 0
-      },
-      "18446744073709551612": {
-        "lastEpochUpdate": 19803,
-        "color": 6,
-        "delta": 2,
-        "enemyMap": 0,
-        "epochWhenTokenIsAdded": 19803,
-        "life": 2,
-        "distribution": 0,
-        "stake": 1,
-        "producingEpochs": 0
-      },
-      "18446744060824649731": {
-        "lastEpochUpdate": 19803,
-        "color": 6,
-        "delta": 0,
-        "enemyMap": 0,
-        "epochWhenTokenIsAdded": 19803,
-        "life": 2,
-        "distribution": 0,
-        "stake": 1,
-        "producingEpochs": 0
-      }
-    },
-    "owners": {
-      "4294967291": "0xFFfFfFffFFfffFFfFFfFFFFFffFFFffffFfFFFfF",
-      "4294967292": "0xFFfFfFffFFfffFFfFFfFFFFFffFFFffffFfFFFfF",
-      "18446744073709551611": "0xFFfFfFffFFfffFFfFFfFFFFFffFFFffffFfFFFfF",
-      "18446744073709551612": "0xFFfFfFffFFfffFFfFFfFFFFFffFFFffffFfFFFfF",
-      "18446744060824649731": "0xFFfFfFffFFfffFFfFFfFFFFFffFFFffffFfFFFfF"
-    },
+    "cells": {},
+    "owners": {},
     "commitments": {},
-    "placements": [
-      {
-        "epoch": 19803,
-        "cells": {
-          "4294967291": {
-            "players": [
-              {
-                "color": 6,
-                "address": "0xef6f06e2ec2536cf3cf4f205453dd690d46a7b6c"
-              }
-            ]
-          },
-          "4294967292": {
-            "players": [
-              {
-                "color": 6,
-                "address": "0xef6f06e2ec2536cf3cf4f205453dd690d46a7b6c"
-              }
-            ]
-          },
-          "18446744073709551611": {
-            "players": [
-              {
-                "color": 6,
-                "address": "0xef6f06e2ec2536cf3cf4f205453dd690d46a7b6c"
-              }
-            ]
-          },
-          "18446744073709551612": {
-            "players": [
-              {
-                "color": 6,
-                "address": "0xef6f06e2ec2536cf3cf4f205453dd690d46a7b6c"
-              }
-            ]
-          },
-          "18446744060824649731": {
-            "players": [
-              {
-                "color": 6,
-                "address": "0xef6f06e2ec2536cf3cf4f205453dd690d46a7b6c"
-              }
-            ]
-          }
-        }
-      }
-    ],
+    "placements": [],
     "points": {
       "global": {
-        "lastUpdateTime": 1710889247,
+        "lastUpdateTime": 0,
         "totalRewardPerPointAtLastUpdate": "0n",
-        "totalPoints": "3000000000000000000n"
+        "totalPoints": "0n"
       },
-      "fixed": {
-        "0x0000000000000000000000000000000000000000": {
-          "toWithdraw": "0n",
-          "lastTime": 1710889247
-        },
-        "0xFFfFfFffFFfffFFfFFfFFFFFffFFFffffFfFFFfF": {
-          "toWithdraw": "0n",
-          "lastTime": 1710889247
-        }
-      },
-      "shared": {
-        "0x0000000000000000000000000000000000000000": {
-          "points": "5192296858534822628530496329220096n",
-          "totalRewardPerPointAccounted": "0n",
-          "rewardsToWithdraw": "0n"
-        },
-        "0xFFfFfFffFFfffFFfFFfFFFFFffFFFffffFfFFFfF": {
-          "points": "10000000000000000000n",
-          "totalRewardPerPointAccounted": "0n",
-          "rewardsToWithdraw": "0n"
-        }
-      }
+      "fixed": {},
+      "shared": {}
     }
   },
   "history": {
