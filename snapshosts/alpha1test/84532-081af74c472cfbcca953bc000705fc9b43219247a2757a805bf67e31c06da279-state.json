@@ -11,13 +11,24 @@
       "config": "10lkzm2",
       "processor": "081af74c472cfbcca953bc000705fc9b43219247a2757a805bf67e31c06da279-not-configured"
     },
-    "lastFromBlock": 7667017,
-    "latestBlock": 7668708,
-    "lastToBlock": 7668708,
+    "lastFromBlock": 7668741,
+    "latestBlock": 7670760,
+    "lastToBlock": 7670760,
     "unconfirmedBlocks": []
   },
   "state": {
     "cells": {
+      "5": {
+        "lastEpochUpdate": 19809,
+        "color": 4,
+        "delta": 2,
+        "enemyMap": 0,
+        "epochWhenTokenIsAdded": 19809,
+        "life": 2,
+        "distribution": 0,
+        "stake": 1,
+        "producingEpochs": 0
+      },
       "4294967291": {
         "lastEpochUpdate": 19808,
         "color": 4,
@@ -50,20 +61,154 @@
         "distribution": 0,
         "stake": 1,
         "producingEpochs": 0
+      },
+      "8589934597": {
+        "lastEpochUpdate": 19809,
+        "color": 4,
+        "delta": 1,
+        "enemyMap": 0,
+        "epochWhenTokenIsAdded": 19809,
+        "life": 2,
+        "distribution": 0,
+        "stake": 1,
+        "producingEpochs": 0
+      },
+      "4294967301": {
+        "lastEpochUpdate": 19809,
+        "color": 4,
+        "delta": 2,
+        "enemyMap": 0,
+        "epochWhenTokenIsAdded": 19809,
+        "life": 2,
+        "distribution": 0,
+        "stake": 1,
+        "producingEpochs": 0
+      },
+      "18446744069414584325": {
+        "lastEpochUpdate": 19809,
+        "color": 4,
+        "delta": 1,
+        "enemyMap": 0,
+        "epochWhenTokenIsAdded": 19809,
+        "life": 2,
+        "distribution": 0,
+        "stake": 1,
+        "producingEpochs": 0
+      },
+      "25769803777": {
+        "lastEpochUpdate": 19810,
+        "color": 4,
+        "delta": 1,
+        "enemyMap": 0,
+        "epochWhenTokenIsAdded": 19810,
+        "life": 2,
+        "distribution": 0,
+        "stake": 1,
+        "producingEpochs": 0
+      },
+      "25769803778": {
+        "lastEpochUpdate": 19810,
+        "color": 4,
+        "delta": 2,
+        "enemyMap": 0,
+        "epochWhenTokenIsAdded": 19810,
+        "life": 2,
+        "distribution": 0,
+        "stake": 1,
+        "producingEpochs": 0
+      },
+      "25769803779": {
+        "lastEpochUpdate": 19810,
+        "color": 4,
+        "delta": 1,
+        "enemyMap": 0,
+        "epochWhenTokenIsAdded": 19810,
+        "life": 2,
+        "distribution": 0,
+        "stake": 1,
+        "producingEpochs": 0
       }
     },
     "owners": {
+      "5": "0xE53cd71271AcAdbeb0f64d9c8C62bBdDc8cA9e66",
       "4294967291": "0xE53cd71271AcAdbeb0f64d9c8C62bBdDc8cA9e66",
       "18446744073709551610": "0xE53cd71271AcAdbeb0f64d9c8C62bBdDc8cA9e66",
-      "18446744073709551611": "0xE53cd71271AcAdbeb0f64d9c8C62bBdDc8cA9e66"
+      "18446744073709551611": "0xE53cd71271AcAdbeb0f64d9c8C62bBdDc8cA9e66",
+      "8589934597": "0xE53cd71271AcAdbeb0f64d9c8C62bBdDc8cA9e66",
+      "4294967301": "0xE53cd71271AcAdbeb0f64d9c8C62bBdDc8cA9e66",
+      "18446744069414584325": "0xE53cd71271AcAdbeb0f64d9c8C62bBdDc8cA9e66",
+      "25769803777": "0xE53cd71271AcAdbeb0f64d9c8C62bBdDc8cA9e66",
+      "25769803778": "0xE53cd71271AcAdbeb0f64d9c8C62bBdDc8cA9e66",
+      "25769803779": "0xE53cd71271AcAdbeb0f64d9c8C62bBdDc8cA9e66"
     },
-    "commitments": {
-      "0xe53cd71271acadbeb0f64d9c8c62bbddc8ca9e66": {
-        "epoch": 19809,
-        "hash": "0xb348f2b416668e9102158c9a70a431ea980cb5c0e550a53e"
-      }
-    },
+    "commitments": {},
     "placements": [
+      {
+        "epoch": 19810,
+        "cells": {
+          "25769803777": {
+            "players": [
+              {
+                "color": 4,
+                "address": "0xe53cd71271acadbeb0f64d9c8c62bbddc8ca9e66"
+              }
+            ]
+          },
+          "25769803778": {
+            "players": [
+              {
+                "color": 4,
+                "address": "0xe53cd71271acadbeb0f64d9c8c62bbddc8ca9e66"
+              }
+            ]
+          },
+          "25769803779": {
+            "players": [
+              {
+                "color": 4,
+                "address": "0xe53cd71271acadbeb0f64d9c8c62bbddc8ca9e66"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "epoch": 19809,
+        "cells": {
+          "5": {
+            "players": [
+              {
+                "color": 4,
+                "address": "0xe53cd71271acadbeb0f64d9c8c62bbddc8ca9e66"
+              }
+            ]
+          },
+          "8589934597": {
+            "players": [
+              {
+                "color": 4,
+                "address": "0xe53cd71271acadbeb0f64d9c8c62bbddc8ca9e66"
+              }
+            ]
+          },
+          "4294967301": {
+            "players": [
+              {
+                "color": 4,
+                "address": "0xe53cd71271acadbeb0f64d9c8c62bbddc8ca9e66"
+              }
+            ]
+          },
+          "18446744069414584325": {
+            "players": [
+              {
+                "color": 4,
+                "address": "0xe53cd71271acadbeb0f64d9c8c62bbddc8ca9e66"
+              }
+            ]
+          }
+        }
+      },
       {
         "epoch": 19808,
         "cells": {
@@ -96,19 +241,19 @@
     ],
     "points": {
       "global": {
-        "lastUpdateTime": 1711091540,
+        "lastUpdateTime": 1711107536,
         "totalRewardPerPointAtLastUpdate": "0n",
-        "totalPoints": "2000000000000000000n"
+        "totalPoints": "9000000000000000000n"
       },
       "fixed": {
         "0xE53cd71271AcAdbeb0f64d9c8C62bBdDc8cA9e66": {
-          "toWithdraw": "0n",
-          "lastTime": 1711091540
+          "toWithdraw": "537480000000000n",
+          "lastTime": 1711107536
         }
       },
       "shared": {
         "0xE53cd71271AcAdbeb0f64d9c8C62bBdDc8cA9e66": {
-          "points": "3000000000000000000n",
+          "points": "10000000000000000000n",
           "totalRewardPerPointAccounted": "0n",
           "rewardsToWithdraw": "0n"
         }
