@@ -11,79 +11,10 @@
       "config": "10lkzm2",
       "processor": "081af74c472cfbcca953bc000705fc9b43219247a2757a805bf67e31c06da279-not-configured"
     },
-    "lastFromBlock": 12248282,
-    "latestBlock": 12249964,
-    "lastToBlock": 12249964,
-    "unconfirmedBlocks": [
-      {
-        "hash": "0x913cdc3f88fd4bf65b7b3624c47f8c76223fcfd08d6c74162a75a8f674e3baf1",
-        "number": 12249947,
-        "events": [
-          {
-            "blockNumber": 12249947,
-            "blockHash": "0x913cdc3f88fd4bf65b7b3624c47f8c76223fcfd08d6c74162a75a8f674e3baf1",
-            "transactionIndex": 7,
-            "removed": false,
-            "address": "0x5Ab6D5bb8012fC60Ab3653E025be4A59B4406Ff2",
-            "data": "0x3cc70afe61959cee8e4b30a9464499374cccfd784d4ebede0000000000000000",
-            "topics": [
-              "0xe3c45ded79e3db74b160b9a697d75f465f68d287a678532ed0a9fb691553b93d",
-              "0x0000000000000000000000002981000a489dd625479bf612a29910f7de8556b4",
-              "0x0000000000000000000000000000000000000000000000000000000000004d60"
-            ],
-            "transactionHash": "0x839fff1b9204b67a9c9157e105461617ae60ab880b63b0a75f04cf477b74eae5",
-            "logIndex": 17,
-            "args": {
-              "player": "0x2981000A489dD625479Bf612A29910F7De8556B4",
-              "epoch": 19808,
-              "commitmentHash": "0x3cc70afe61959cee8e4b30a9464499374cccfd784d4ebede"
-            },
-            "eventName": "CommitmentMade"
-          },
-          {
-            "blockNumber": 12249947,
-            "blockHash": "0x913cdc3f88fd4bf65b7b3624c47f8c76223fcfd08d6c74162a75a8f674e3baf1",
-            "transactionIndex": 7,
-            "removed": false,
-            "address": "0xf1aFA696204E3F1c07838280bd2DB799c660Da1c",
-            "data": "0x0000000000000000000000000000000000000000000000006f05b59d3b200000",
-            "topics": [
-              "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
-              "0x0000000000000000000000002981000a489dd625479bf612a29910f7de8556b4",
-              "0x0000000000000000000000005ab6d5bb8012fc60ab3653e025be4a59b4406ff2"
-            ],
-            "transactionHash": "0x839fff1b9204b67a9c9157e105461617ae60ab880b63b0a75f04cf477b74eae5",
-            "logIndex": 18,
-            "args": {
-              "from": "0x2981000A489dD625479Bf612A29910F7De8556B4",
-              "to": "0x5Ab6D5bb8012fC60Ab3653E025be4A59B4406Ff2",
-              "value": "8000000000000000000n"
-            },
-            "eventName": "Transfer"
-          },
-          {
-            "blockNumber": 12249947,
-            "blockHash": "0x913cdc3f88fd4bf65b7b3624c47f8c76223fcfd08d6c74162a75a8f674e3baf1",
-            "transactionIndex": 7,
-            "removed": false,
-            "address": "0x5Ab6D5bb8012fC60Ab3653E025be4A59B4406Ff2",
-            "data": "0x0000000000000000000000000000000000000000000000006f05b59d3b2000000000000000000000000000000000000000000000000000006f05b59d3b200000",
-            "topics": [
-              "0x9705a8ff16374359785d31b0f1862c27f983645496f40760d180a9830eeaf2e8",
-              "0x0000000000000000000000002981000a489dd625479bf612a29910f7de8556b4"
-            ],
-            "transactionHash": "0x839fff1b9204b67a9c9157e105461617ae60ab880b63b0a75f04cf477b74eae5",
-            "logIndex": 19,
-            "args": {
-              "player": "0x2981000A489dD625479Bf612A29910F7De8556B4",
-              "amountDeposited": "8000000000000000000n",
-              "newAmount": "8000000000000000000n"
-            },
-            "eventName": "ReserveDeposited"
-          }
-        ]
-      }
-    ]
+    "lastFromBlock": 12249997,
+    "latestBlock": 12251787,
+    "lastToBlock": 12251787,
+    "unconfirmedBlocks": []
   },
   "state": {
     "cells": {
