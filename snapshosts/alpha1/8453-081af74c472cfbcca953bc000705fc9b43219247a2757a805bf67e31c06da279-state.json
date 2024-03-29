@@ -5,15 +5,15 @@
       "source": [
         {
           "startBlock": 0,
-          "hash": "1fyj2l0"
+          "hash": "4sgipq"
         }
       ],
       "config": "10lkzm2",
       "processor": "081af74c472cfbcca953bc000705fc9b43219247a2757a805bf67e31c06da279-not-configured"
     },
-    "lastFromBlock": 12463804,
-    "latestBlock": 12464240,
-    "lastToBlock": 12464240,
+    "lastFromBlock": 12422355,
+    "latestBlock": 12465275,
+    "lastToBlock": 12465275,
     "unconfirmedBlocks": []
   },
   "state": {
@@ -7754,7 +7754,7 @@
     ],
     "points": {
       "global": {
-        "lastUpdateTime": 1711715705,
+        "lastUpdateTime": 1711719369,
         "totalRewardPerPointAtLastUpdate": "0n",
         "totalPoints": "304000000000000000000n"
       },
@@ -7946,10 +7946,27 @@
   },
   "history": {
     "blockHashes": {
-      "12463253": "0xfbb87d3001db85ae824469decb50c7f7fbc5098af4c55157b0a00c78697df609"
+      "12465011": "0x243e619e81a514b940334c9c91b057e5eeb8aa1929362ec1b58b1ebd7e18b937",
+      "12465018": "0xd8a39a05242e47dfdb0563b711fb2a13daca2bdcd5189acd21a5b978aed3be42"
     },
     "reversals": {
-      "0xfbb87d3001db85ae824469decb50c7f7fbc5098af4c55157b0a00c78697df609": [
+      "0x243e619e81a514b940334c9c91b057e5eeb8aa1929362ec1b58b1ebd7e18b937": [
+        [
+          {
+            "op": "replace",
+            "path": [
+              "points",
+              "global"
+            ],
+            "value": {
+              "lastUpdateTime": 1711715705,
+              "totalRewardPerPointAtLastUpdate": "0n",
+              "totalPoints": "304000000000000000000n"
+            }
+          }
+        ]
+      ],
+      "0xd8a39a05242e47dfdb0563b711fb2a13daca2bdcd5189acd21a5b978aed3be42": [
         []
       ]
     }
