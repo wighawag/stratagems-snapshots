@@ -11,9 +11,9 @@
       "config": "10lkzm2",
       "processor": "081af74c472cfbcca953bc000705fc9b43219247a2757a805bf67e31c06da279-not-configured"
     },
-    "lastFromBlock": 12494918,
-    "latestBlock": 12496620,
-    "lastToBlock": 12496620,
+    "lastFromBlock": 12496653,
+    "latestBlock": 12498517,
+    "lastToBlock": 12498517,
     "unconfirmedBlocks": []
   },
   "state": {
@@ -250,24 +250,24 @@
         "producingEpochs": 0
       },
       "34359738380": {
-        "lastEpochUpdate": 19813,
+        "lastEpochUpdate": 19814,
         "color": 6,
         "delta": -1,
         "enemyMap": 6,
         "epochWhenTokenIsAdded": 19804,
-        "life": 1,
-        "distribution": 0,
+        "life": 0,
+        "distribution": 2,
         "stake": 1,
         "producingEpochs": 4
       },
       "30064771085": {
-        "lastEpochUpdate": 19813,
+        "lastEpochUpdate": 19814,
         "color": 6,
         "delta": -1,
         "enemyMap": 9,
         "epochWhenTokenIsAdded": 19804,
-        "life": 1,
-        "distribution": 0,
+        "life": 0,
+        "distribution": 2,
         "stake": 1,
         "producingEpochs": 4
       },
@@ -283,34 +283,34 @@
         "producingEpochs": 0
       },
       "34359738382": {
-        "lastEpochUpdate": 19813,
+        "lastEpochUpdate": 19814,
         "color": 6,
         "delta": 0,
         "enemyMap": 9,
         "epochWhenTokenIsAdded": 19804,
-        "life": 7,
+        "life": 6,
         "distribution": 0,
         "stake": 1,
         "producingEpochs": 9
       },
       "38654705678": {
-        "lastEpochUpdate": 19808,
+        "lastEpochUpdate": 19814,
         "color": 6,
         "delta": 0,
         "enemyMap": 12,
         "epochWhenTokenIsAdded": 19804,
-        "life": 6,
-        "distribution": 0,
+        "life": 0,
+        "distribution": 2,
         "stake": 1,
         "producingEpochs": 4
       },
       "38654705677": {
-        "lastEpochUpdate": 19813,
+        "lastEpochUpdate": 19814,
         "color": 6,
         "delta": 0,
         "enemyMap": 6,
         "epochWhenTokenIsAdded": 19804,
-        "life": 7,
+        "life": 6,
         "distribution": 0,
         "stake": 1,
         "producingEpochs": 9
@@ -2439,62 +2439,62 @@
         "producingEpochs": 2
       },
       "34359738383": {
-        "lastEpochUpdate": 19808,
+        "lastEpochUpdate": 19814,
         "color": 2,
         "delta": 1,
         "enemyMap": 2,
         "epochWhenTokenIsAdded": 19808,
-        "life": 2,
+        "life": 7,
         "distribution": 0,
         "stake": 1,
-        "producingEpochs": 0
+        "producingEpochs": 6
       },
       "42949672974": {
-        "lastEpochUpdate": 19808,
+        "lastEpochUpdate": 19814,
         "color": 2,
         "delta": 1,
         "enemyMap": 1,
         "epochWhenTokenIsAdded": 19808,
-        "life": 2,
+        "life": 7,
         "distribution": 0,
         "stake": 1,
-        "producingEpochs": 0
+        "producingEpochs": 6
       },
       "34359738379": {
-        "lastEpochUpdate": 19808,
+        "lastEpochUpdate": 19814,
         "color": 2,
         "delta": 1,
         "enemyMap": 8,
         "epochWhenTokenIsAdded": 19808,
-        "life": 2,
+        "life": 7,
         "distribution": 0,
         "stake": 1,
-        "producingEpochs": 0
+        "producingEpochs": 6
       },
       "38654705679": {
-        "lastEpochUpdate": 19808,
+        "lastEpochUpdate": 19814,
         "color": 2,
         "delta": 1,
         "enemyMap": 2,
         "epochWhenTokenIsAdded": 19808,
-        "life": 2,
+        "life": 7,
         "distribution": 0,
         "stake": 1,
-        "producingEpochs": 0
+        "producingEpochs": 6
       },
       "42949672973": {
-        "lastEpochUpdate": 19808,
+        "lastEpochUpdate": 19814,
         "color": 2,
         "delta": 1,
         "enemyMap": 1,
         "epochWhenTokenIsAdded": 19808,
-        "life": 2,
+        "life": 7,
         "distribution": 0,
         "stake": 1,
-        "producingEpochs": 0
+        "producingEpochs": 6
       },
       "42949672972": {
-        "lastEpochUpdate": 19813,
+        "lastEpochUpdate": 19814,
         "color": 2,
         "delta": 2,
         "enemyMap": 0,
@@ -2502,10 +2502,10 @@
         "life": 7,
         "distribution": 0,
         "stake": 1,
-        "producingEpochs": 5
+        "producingEpochs": 6
       },
       "38654705675": {
-        "lastEpochUpdate": 19813,
+        "lastEpochUpdate": 19814,
         "color": 2,
         "delta": 2,
         "enemyMap": 0,
@@ -2513,32 +2513,32 @@
         "life": 7,
         "distribution": 0,
         "stake": 1,
-        "producingEpochs": 5
+        "producingEpochs": 6
       },
       "30064771083": {
-        "lastEpochUpdate": 19808,
+        "lastEpochUpdate": 19814,
         "color": 2,
         "delta": 1,
         "enemyMap": 0,
         "epochWhenTokenIsAdded": 19808,
-        "life": 2,
+        "life": 7,
         "distribution": 0,
         "stake": 1,
-        "producingEpochs": 0
+        "producingEpochs": 6
       },
       "25769803788": {
-        "lastEpochUpdate": 19808,
+        "lastEpochUpdate": 19814,
         "color": 2,
         "delta": 1,
         "enemyMap": 0,
         "epochWhenTokenIsAdded": 19808,
-        "life": 2,
+        "life": 7,
         "distribution": 0,
         "stake": 1,
-        "producingEpochs": 0
+        "producingEpochs": 6
       },
       "25769803790": {
-        "lastEpochUpdate": 19813,
+        "lastEpochUpdate": 19814,
         "color": 2,
         "delta": 2,
         "enemyMap": 0,
@@ -2546,32 +2546,21 @@
         "life": 7,
         "distribution": 0,
         "stake": 1,
-        "producingEpochs": 5
+        "producingEpochs": 6
       },
       "25769803789": {
-        "lastEpochUpdate": 19808,
+        "lastEpochUpdate": 19814,
         "color": 2,
         "delta": 1,
         "enemyMap": 4,
         "epochWhenTokenIsAdded": 19808,
-        "life": 2,
+        "life": 7,
         "distribution": 0,
         "stake": 1,
-        "producingEpochs": 0
+        "producingEpochs": 6
       },
       "42949672975": {
-        "lastEpochUpdate": 19808,
-        "color": 2,
-        "delta": 2,
-        "enemyMap": 0,
-        "epochWhenTokenIsAdded": 19808,
-        "life": 2,
-        "distribution": 0,
-        "stake": 1,
-        "producingEpochs": 0
-      },
-      "30064771087": {
-        "lastEpochUpdate": 19813,
+        "lastEpochUpdate": 19814,
         "color": 2,
         "delta": 2,
         "enemyMap": 0,
@@ -2579,7 +2568,18 @@
         "life": 7,
         "distribution": 0,
         "stake": 1,
-        "producingEpochs": 5
+        "producingEpochs": 6
+      },
+      "30064771087": {
+        "lastEpochUpdate": 19814,
+        "color": 2,
+        "delta": 2,
+        "enemyMap": 0,
+        "epochWhenTokenIsAdded": 19808,
+        "life": 7,
+        "distribution": 0,
+        "stake": 1,
+        "producingEpochs": 6
       },
       "73014444037": {
         "lastEpochUpdate": 19812,
@@ -4276,23 +4276,23 @@
         "producingEpochs": 0
       },
       "30064771086": {
-        "lastEpochUpdate": 19813,
+        "lastEpochUpdate": 19814,
         "color": 2,
         "delta": 0,
         "enemyMap": 6,
         "epochWhenTokenIsAdded": 19813,
-        "life": 2,
+        "life": 1,
         "distribution": 0,
         "stake": 1,
         "producingEpochs": 0
       },
       "38654705676": {
-        "lastEpochUpdate": 19813,
+        "lastEpochUpdate": 19814,
         "color": 2,
         "delta": 0,
         "enemyMap": 9,
         "epochWhenTokenIsAdded": 19813,
-        "life": 2,
+        "life": 1,
         "distribution": 0,
         "stake": 1,
         "producingEpochs": 0
