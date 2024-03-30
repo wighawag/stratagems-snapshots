@@ -11,9 +11,9 @@
       "config": "10lkzm2",
       "processor": "081af74c472cfbcca953bc000705fc9b43219247a2757a805bf67e31c06da279-not-configured"
     },
-    "lastFromBlock": 12518215,
-    "latestBlock": 12520020,
-    "lastToBlock": 12520020,
+    "lastFromBlock": 12520053,
+    "latestBlock": 12521776,
+    "lastToBlock": 12521776,
     "unconfirmedBlocks": []
   },
   "state": {
@@ -3748,13 +3748,13 @@
         "producingEpochs": 0
       },
       "64424509448": {
-        "lastEpochUpdate": 19813,
+        "lastEpochUpdate": 19814,
         "color": 2,
         "delta": 0,
         "enemyMap": 12,
         "epochWhenTokenIsAdded": 19812,
-        "life": 1,
-        "distribution": 0,
+        "life": 0,
+        "distribution": 2,
         "stake": 1,
         "producingEpochs": 0
       },
@@ -3765,7 +3765,7 @@
         "enemyMap": 15,
         "epochWhenTokenIsAdded": 19812,
         "life": 0,
-        "distribution": 4,
+        "distribution": 0,
         "stake": 2,
         "producingEpochs": 0
       },
@@ -4320,15 +4320,15 @@
         "producingEpochs": 0
       },
       "68719476743": {
-        "lastEpochUpdate": 19813,
+        "lastEpochUpdate": 19814,
         "color": 2,
         "delta": 1,
         "enemyMap": 8,
         "epochWhenTokenIsAdded": 19813,
-        "life": 2,
+        "life": 3,
         "distribution": 0,
         "stake": 1,
-        "producingEpochs": 0
+        "producingEpochs": 1
       },
       "64424509447": {
         "lastEpochUpdate": 19813,
@@ -4833,6 +4833,18 @@
       "0x143f8cfb7e91b7836d90a06fe0e2cf8728d61fb0": {
         "epoch": 19814,
         "hash": "0x11377ca30aebef1769d0907f352908b24dbd1f4f9264baeb"
+      },
+      "0xc6ccd3c2d63bc8de8fcf43ede80d135666b7acee": {
+        "epoch": 19814,
+        "hash": "0x95ab0eb8c99122255f1545e802243db657c83274bf647afa"
+      },
+      "0x9dab5a6393eef78eb36cd84bb9bbb055189429a5": {
+        "epoch": 19814,
+        "hash": "0xf312a53e0e35b140afd44ea80323b6edba02f0b76be1a6be"
+      },
+      "0xb006c644258e01b437eff06e16e56e938a239712": {
+        "epoch": 19814,
+        "hash": "0x339d454c17bf64a850688687c94c7d47301bb0aa0a4fedae"
       }
     },
     "placements": [
