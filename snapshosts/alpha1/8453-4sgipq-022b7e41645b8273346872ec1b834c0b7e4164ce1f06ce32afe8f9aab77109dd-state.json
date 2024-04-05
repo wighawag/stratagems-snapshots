@@ -11,9 +11,9 @@
       "config": "10lkzm2",
       "processor": "022b7e41645b8273346872ec1b834c0b7e4164ce1f06ce32afe8f9aab77109dd-not-configured"
     },
-    "lastFromBlock": 12781042,
-    "latestBlock": 12782829,
-    "lastToBlock": 12782829,
+    "lastFromBlock": 12782862,
+    "latestBlock": 12784635,
+    "lastToBlock": 12784635,
     "unconfirmedBlocks": []
   },
   "state": {
@@ -98,7 +98,7 @@
       "4294967289": {
         "lastEpochUpdate": 19820,
         "color": 2,
-        "delta": 3,
+        "delta": 2,
         "enemyMap": 0,
         "epochWhenTokenIsAdded": 19812,
         "life": 7,
@@ -107,34 +107,34 @@
         "producingEpochs": 8
       },
       "4294967290": {
-        "lastEpochUpdate": 19820,
-        "color": 2,
-        "delta": 1,
-        "enemyMap": 8,
+        "lastEpochUpdate": 0,
+        "color": 0,
+        "delta": 0,
+        "enemyMap": 0,
         "epochWhenTokenIsAdded": 19813,
-        "life": 7,
+        "life": 0,
         "distribution": 0,
-        "stake": 1,
+        "stake": 0,
         "producingEpochs": 7
       },
       "4294967291": {
         "lastEpochUpdate": 19820,
-        "color": 6,
-        "delta": -2,
-        "enemyMap": 7,
-        "epochWhenTokenIsAdded": 19804,
-        "life": 0,
-        "distribution": 3,
+        "color": 2,
+        "delta": 1,
+        "enemyMap": 8,
+        "epochWhenTokenIsAdded": 19820,
+        "life": 2,
+        "distribution": 0,
         "stake": 1,
-        "producingEpochs": 9
+        "producingEpochs": 0
       },
       "4294967292": {
-        "lastEpochUpdate": 19818,
+        "lastEpochUpdate": 19820,
         "color": 6,
-        "delta": -2,
-        "enemyMap": 13,
+        "delta": -4,
+        "enemyMap": 15,
         "epochWhenTokenIsAdded": 19804,
-        "life": 7,
+        "life": 5,
         "distribution": 0,
         "stake": 1,
         "producingEpochs": 14
@@ -318,8 +318,8 @@
       "64424509449": {
         "lastEpochUpdate": 19820,
         "color": 6,
-        "delta": -1,
-        "enemyMap": 12,
+        "delta": -4,
+        "enemyMap": 15,
         "epochWhenTokenIsAdded": 19804,
         "life": 1,
         "distribution": 0,
@@ -338,21 +338,21 @@
         "producingEpochs": 1
       },
       "64424509451": {
-        "lastEpochUpdate": 19819,
+        "lastEpochUpdate": 19820,
         "color": 3,
-        "delta": 2,
-        "enemyMap": 4,
+        "delta": 4,
+        "enemyMap": 0,
         "epochWhenTokenIsAdded": 19812,
-        "life": 6,
+        "life": 7,
         "distribution": 0,
         "stake": 1,
-        "producingEpochs": 6
+        "producingEpochs": 7
       },
       "68719476746": {
         "lastEpochUpdate": 19820,
         "color": 3,
-        "delta": 0,
-        "enemyMap": 10,
+        "delta": 2,
+        "enemyMap": 2,
         "epochWhenTokenIsAdded": 19819,
         "life": 1,
         "distribution": 0,
@@ -382,26 +382,26 @@
         "producingEpochs": 13
       },
       "81604378628": {
-        "lastEpochUpdate": 19810,
-        "color": 3,
-        "delta": 4,
-        "enemyMap": 0,
-        "epochWhenTokenIsAdded": 19810,
-        "life": 2,
-        "distribution": 0,
-        "stake": 1,
-        "producingEpochs": 0
-      },
-      "81604378629": {
-        "lastEpochUpdate": 19816,
+        "lastEpochUpdate": 19820,
         "color": 3,
         "delta": 2,
-        "enemyMap": 8,
+        "enemyMap": 1,
         "epochWhenTokenIsAdded": 19810,
         "life": 7,
         "distribution": 0,
         "stake": 1,
-        "producingEpochs": 6
+        "producingEpochs": 10
+      },
+      "81604378629": {
+        "lastEpochUpdate": 19820,
+        "color": 3,
+        "delta": 0,
+        "enemyMap": 9,
+        "epochWhenTokenIsAdded": 19810,
+        "life": 7,
+        "distribution": 0,
+        "stake": 1,
+        "producingEpochs": 10
       },
       "8589934588": {
         "lastEpochUpdate": 19817,
@@ -569,15 +569,15 @@
         "producingEpochs": 0
       },
       "18446744069414584337": {
-        "lastEpochUpdate": 19817,
-        "color": 2,
-        "delta": 2,
+        "lastEpochUpdate": 0,
+        "color": 0,
+        "delta": 0,
         "enemyMap": 0,
         "epochWhenTokenIsAdded": 19814,
-        "life": 5,
+        "life": 0,
         "distribution": 0,
-        "stake": 1,
-        "producingEpochs": 3
+        "stake": 0,
+        "producingEpochs": 6
       },
       "18446744030759878677": {
         "lastEpochUpdate": 19819,
@@ -866,34 +866,34 @@
         "producingEpochs": 0
       },
       "18446744039349813222": {
-        "lastEpochUpdate": 19819,
+        "lastEpochUpdate": 19820,
         "color": 6,
-        "delta": -1,
-        "enemyMap": 6,
+        "delta": -2,
+        "enemyMap": 7,
         "epochWhenTokenIsAdded": 19804,
-        "life": 3,
+        "life": 2,
         "distribution": 0,
         "stake": 1,
         "producingEpochs": 11
       },
       "18446744039349813223": {
-        "lastEpochUpdate": 19819,
+        "lastEpochUpdate": 19820,
         "color": 6,
-        "delta": 1,
-        "enemyMap": 4,
+        "delta": 0,
+        "enemyMap": 5,
         "epochWhenTokenIsAdded": 19804,
         "life": 7,
         "distribution": 0,
         "stake": 1,
-        "producingEpochs": 15
+        "producingEpochs": 16
       },
       "18446744039349813224": {
-        "lastEpochUpdate": 19819,
+        "lastEpochUpdate": 19820,
         "color": 6,
-        "delta": -1,
-        "enemyMap": 12,
+        "delta": -2,
+        "enemyMap": 13,
         "epochWhenTokenIsAdded": 19804,
-        "life": 3,
+        "life": 2,
         "distribution": 0,
         "stake": 1,
         "producingEpochs": 11
@@ -1087,22 +1087,22 @@
       },
       "68719476747": {
         "lastEpochUpdate": 19820,
-        "color": 6,
-        "delta": -4,
-        "enemyMap": 15,
-        "epochWhenTokenIsAdded": 19818,
-        "life": 0,
-        "distribution": 4,
-        "stake": 2,
+        "color": 3,
+        "delta": 4,
+        "enemyMap": 0,
+        "epochWhenTokenIsAdded": 19820,
+        "life": 2,
+        "distribution": 0,
+        "stake": 1,
         "producingEpochs": 0
       },
       "68719476748": {
-        "lastEpochUpdate": 19818,
+        "lastEpochUpdate": 19820,
         "color": 3,
-        "delta": 0,
-        "enemyMap": 2,
+        "delta": 2,
+        "enemyMap": 0,
         "epochWhenTokenIsAdded": 19805,
-        "life": 7,
+        "life": 5,
         "distribution": 0,
         "stake": 1,
         "producingEpochs": 13
@@ -2032,37 +2032,37 @@
         "producingEpochs": 2
       },
       "77309411332": {
-        "lastEpochUpdate": 19814,
-        "color": 3,
-        "delta": 0,
-        "enemyMap": 3,
-        "epochWhenTokenIsAdded": 19806,
-        "life": 6,
-        "distribution": 0,
-        "stake": 1,
-        "producingEpochs": 6
-      },
-      "77309411333": {
-        "lastEpochUpdate": 19816,
-        "color": 3,
-        "delta": 0,
-        "enemyMap": 9,
-        "epochWhenTokenIsAdded": 19806,
-        "life": 0,
-        "distribution": 2,
-        "stake": 1,
-        "producingEpochs": 4
-      },
-      "77309411334": {
-        "lastEpochUpdate": 19816,
+        "lastEpochUpdate": 19820,
         "color": 2,
         "delta": 2,
-        "enemyMap": 2,
+        "enemyMap": 4,
+        "epochWhenTokenIsAdded": 19820,
+        "life": 2,
+        "distribution": 0,
+        "stake": 1,
+        "producingEpochs": 0
+      },
+      "77309411333": {
+        "lastEpochUpdate": 19820,
+        "color": 2,
+        "delta": 1,
+        "enemyMap": 4,
+        "epochWhenTokenIsAdded": 19820,
+        "life": 2,
+        "distribution": 0,
+        "stake": 1,
+        "producingEpochs": 0
+      },
+      "77309411334": {
+        "lastEpochUpdate": 19820,
+        "color": 2,
+        "delta": 3,
+        "enemyMap": 0,
         "epochWhenTokenIsAdded": 19812,
         "life": 0,
         "distribution": 0,
         "stake": 1,
-        "producingEpochs": 0
+        "producingEpochs": 4
       },
       "81604378630": {
         "lastEpochUpdate": 19816,
@@ -2109,13 +2109,13 @@
         "producingEpochs": 7
       },
       "77309411331": {
-        "lastEpochUpdate": 19814,
+        "lastEpochUpdate": 19820,
         "color": 2,
-        "delta": 0,
-        "enemyMap": 12,
+        "delta": 2,
+        "enemyMap": 4,
         "epochWhenTokenIsAdded": 19814,
-        "life": 2,
-        "distribution": 0,
+        "life": 0,
+        "distribution": 2,
         "stake": 1,
         "producingEpochs": 0
       },
@@ -2155,8 +2155,8 @@
       "73014444043": {
         "lastEpochUpdate": 19820,
         "color": 3,
-        "delta": 0,
-        "enemyMap": 1,
+        "delta": 2,
+        "enemyMap": 0,
         "epochWhenTokenIsAdded": 19819,
         "life": 1,
         "distribution": 0,
@@ -2164,15 +2164,15 @@
         "producingEpochs": 0
       },
       "60129542154": {
-        "lastEpochUpdate": 19819,
+        "lastEpochUpdate": 19820,
         "color": 3,
-        "delta": 3,
+        "delta": 4,
         "enemyMap": 0,
         "epochWhenTokenIsAdded": 19806,
         "life": 7,
         "distribution": 0,
         "stake": 1,
-        "producingEpochs": 13
+        "producingEpochs": 14
       },
       "498216206149": {
         "lastEpochUpdate": 19810,
@@ -2263,12 +2263,12 @@
         "producingEpochs": 13
       },
       "515396075337": {
-        "lastEpochUpdate": 19818,
+        "lastEpochUpdate": 19820,
         "color": 4,
         "delta": 0,
         "enemyMap": 12,
         "epochWhenTokenIsAdded": 19806,
-        "life": 7,
+        "life": 5,
         "distribution": 0,
         "stake": 1,
         "producingEpochs": 12
@@ -2276,8 +2276,8 @@
       "515396075336": {
         "lastEpochUpdate": 19820,
         "color": 4,
-        "delta": 4,
-        "enemyMap": 0,
+        "delta": 2,
+        "enemyMap": 4,
         "epochWhenTokenIsAdded": 19806,
         "life": 7,
         "distribution": 0,
@@ -2307,7 +2307,7 @@
         "producingEpochs": 12
       },
       "515396075333": {
-        "lastEpochUpdate": 19818,
+        "lastEpochUpdate": 19820,
         "color": 4,
         "delta": 0,
         "enemyMap": 6,
@@ -2582,26 +2582,26 @@
         "producingEpochs": 12
       },
       "73014444037": {
-        "lastEpochUpdate": 19816,
-        "color": 2,
-        "delta": 1,
-        "enemyMap": 4,
+        "lastEpochUpdate": 0,
+        "color": 0,
+        "delta": 0,
+        "enemyMap": 0,
         "epochWhenTokenIsAdded": 19808,
-        "life": 7,
+        "life": 0,
         "distribution": 0,
-        "stake": 1,
-        "producingEpochs": 8
+        "stake": 0,
+        "producingEpochs": 12
       },
       "73014444036": {
-        "lastEpochUpdate": 19816,
+        "lastEpochUpdate": 19820,
         "color": 2,
         "delta": 1,
-        "enemyMap": 4,
+        "enemyMap": 1,
         "epochWhenTokenIsAdded": 19808,
         "life": 7,
         "distribution": 0,
         "stake": 1,
-        "producingEpochs": 8
+        "producingEpochs": 12
       },
       "90194313219": {
         "lastEpochUpdate": 19816,
@@ -2637,26 +2637,26 @@
         "producingEpochs": 10
       },
       "73014444035": {
-        "lastEpochUpdate": 19816,
+        "lastEpochUpdate": 19820,
         "color": 2,
-        "delta": 2,
-        "enemyMap": 0,
+        "delta": 0,
+        "enemyMap": 3,
         "epochWhenTokenIsAdded": 19808,
         "life": 7,
         "distribution": 0,
         "stake": 1,
-        "producingEpochs": 7
+        "producingEpochs": 11
       },
       "73014444038": {
-        "lastEpochUpdate": 19816,
-        "color": 2,
-        "delta": 3,
+        "lastEpochUpdate": 0,
+        "color": 0,
+        "delta": 0,
         "enemyMap": 0,
         "epochWhenTokenIsAdded": 19808,
-        "life": 7,
+        "life": 0,
         "distribution": 0,
-        "stake": 1,
-        "producingEpochs": 8
+        "stake": 0,
+        "producingEpochs": 12
       },
       "90194313222": {
         "lastEpochUpdate": 0,
@@ -2714,21 +2714,21 @@
         "producingEpochs": 4
       },
       "73014444039": {
-        "lastEpochUpdate": 19818,
+        "lastEpochUpdate": 19820,
         "color": 2,
-        "delta": 4,
+        "delta": 3,
         "enemyMap": 0,
         "epochWhenTokenIsAdded": 19808,
         "life": 7,
         "distribution": 0,
         "stake": 1,
-        "producingEpochs": 10
+        "producingEpochs": 12
       },
       "18446744073709551611": {
         "lastEpochUpdate": 19820,
         "color": 2,
-        "delta": 2,
-        "enemyMap": 4,
+        "delta": 3,
+        "enemyMap": 0,
         "epochWhenTokenIsAdded": 19818,
         "life": 4,
         "distribution": 0,
@@ -2747,14 +2747,14 @@
         "producingEpochs": 2
       },
       "18446744073709551610": {
-        "lastEpochUpdate": 19820,
-        "color": 2,
-        "delta": 3,
+        "lastEpochUpdate": 0,
+        "color": 0,
+        "delta": 0,
         "enemyMap": 0,
         "epochWhenTokenIsAdded": 19813,
-        "life": 7,
+        "life": 0,
         "distribution": 0,
-        "stake": 1,
+        "stake": 0,
         "producingEpochs": 7
       },
       "18446744073709551613": {
@@ -2802,37 +2802,37 @@
         "producingEpochs": 8
       },
       "8589934587": {
-        "lastEpochUpdate": 19817,
+        "lastEpochUpdate": 19820,
         "color": 2,
-        "delta": 1,
-        "enemyMap": 1,
+        "delta": 3,
+        "enemyMap": 0,
         "epochWhenTokenIsAdded": 19808,
         "life": 0,
         "distribution": 2,
         "stake": 1,
-        "producingEpochs": 0
+        "producingEpochs": 3
       },
       "73014444034": {
-        "lastEpochUpdate": 0,
-        "color": 0,
-        "delta": 0,
-        "enemyMap": 0,
-        "epochWhenTokenIsAdded": 19809,
-        "life": 0,
+        "lastEpochUpdate": 19820,
+        "color": 3,
+        "delta": -1,
+        "enemyMap": 12,
+        "epochWhenTokenIsAdded": 19820,
+        "life": 2,
         "distribution": 0,
-        "stake": 0,
-        "producingEpochs": 7
+        "stake": 1,
+        "producingEpochs": 0
       },
       "77309411330": {
-        "lastEpochUpdate": 19816,
+        "lastEpochUpdate": 19820,
         "color": 2,
-        "delta": 2,
-        "enemyMap": 0,
+        "delta": 1,
+        "enemyMap": 1,
         "epochWhenTokenIsAdded": 19809,
         "life": 7,
         "distribution": 0,
         "stake": 1,
-        "producingEpochs": 7
+        "producingEpochs": 11
       },
       "81604378626": {
         "lastEpochUpdate": 19816,
@@ -2960,9 +2960,9 @@
         "color": 2,
         "delta": 0,
         "enemyMap": 9,
-        "epochWhenTokenIsAdded": 19818,
-        "life": 0,
-        "distribution": 146,
+        "epochWhenTokenIsAdded": 19820,
+        "life": 2,
+        "distribution": 0,
         "stake": 1,
         "producingEpochs": 0
       },
@@ -2980,8 +2980,8 @@
       "515396075331": {
         "lastEpochUpdate": 19820,
         "color": 2,
-        "delta": 2,
-        "enemyMap": 1,
+        "delta": 4,
+        "enemyMap": 0,
         "epochWhenTokenIsAdded": 19809,
         "life": 7,
         "distribution": 0,
@@ -2991,8 +2991,8 @@
       "523986009926": {
         "lastEpochUpdate": 19820,
         "color": 2,
-        "delta": 0,
-        "enemyMap": 12,
+        "delta": 2,
+        "enemyMap": 4,
         "epochWhenTokenIsAdded": 19809,
         "life": 5,
         "distribution": 0,
@@ -3330,12 +3330,12 @@
         "producingEpochs": 0
       },
       "77309411324": {
-        "lastEpochUpdate": 19818,
+        "lastEpochUpdate": 19820,
         "color": 1,
-        "delta": -1,
+        "delta": 0,
         "enemyMap": 6,
         "epochWhenTokenIsAdded": 19811,
-        "life": 7,
+        "life": 5,
         "distribution": 0,
         "stake": 1,
         "producingEpochs": 7
@@ -3363,9 +3363,9 @@
         "producingEpochs": 2
       },
       "90194313212": {
-        "lastEpochUpdate": 19818,
+        "lastEpochUpdate": 19820,
         "color": 1,
-        "delta": -1,
+        "delta": 0,
         "enemyMap": 9,
         "epochWhenTokenIsAdded": 19811,
         "life": 0,
@@ -3387,7 +3387,7 @@
       "42949672947": {
         "lastEpochUpdate": 19820,
         "color": 1,
-        "delta": 2,
+        "delta": 3,
         "enemyMap": 0,
         "epochWhenTokenIsAdded": 19811,
         "life": 0,
@@ -3572,48 +3572,48 @@
         "producingEpochs": 1
       },
       "77309411323": {
-        "lastEpochUpdate": 19815,
+        "lastEpochUpdate": 19820,
         "color": 2,
-        "delta": 1,
-        "enemyMap": 8,
+        "delta": 0,
+        "enemyMap": 9,
         "epochWhenTokenIsAdded": 19812,
-        "life": 5,
+        "life": 7,
         "distribution": 0,
         "stake": 1,
-        "producingEpochs": 3
+        "producingEpochs": 8
       },
       "81604378619": {
-        "lastEpochUpdate": 19818,
-        "color": 2,
-        "delta": 3,
-        "enemyMap": 0,
-        "epochWhenTokenIsAdded": 19812,
-        "life": 7,
-        "distribution": 0,
-        "stake": 1,
-        "producingEpochs": 6
-      },
-      "85899345915": {
-        "lastEpochUpdate": 19818,
+        "lastEpochUpdate": 19820,
         "color": 2,
         "delta": 2,
-        "enemyMap": 0,
+        "enemyMap": 2,
         "epochWhenTokenIsAdded": 19812,
         "life": 7,
         "distribution": 0,
         "stake": 1,
-        "producingEpochs": 6
+        "producingEpochs": 8
+      },
+      "85899345915": {
+        "lastEpochUpdate": 19820,
+        "color": 2,
+        "delta": 0,
+        "enemyMap": 6,
+        "epochWhenTokenIsAdded": 19812,
+        "life": 7,
+        "distribution": 0,
+        "stake": 1,
+        "producingEpochs": 8
       },
       "90194313211": {
-        "lastEpochUpdate": 0,
-        "color": 0,
-        "delta": 0,
-        "enemyMap": 0,
-        "epochWhenTokenIsAdded": 19812,
-        "life": 0,
+        "lastEpochUpdate": 19820,
+        "color": 1,
+        "delta": 1,
+        "enemyMap": 1,
+        "epochWhenTokenIsAdded": 19820,
+        "life": 2,
         "distribution": 0,
-        "stake": 0,
-        "producingEpochs": 6
+        "stake": 1,
+        "producingEpochs": 0
       },
       "94489280507": {
         "lastEpochUpdate": 0,
@@ -3638,15 +3638,15 @@
         "producingEpochs": 6
       },
       "77309411322": {
-        "lastEpochUpdate": 19812,
+        "lastEpochUpdate": 19820,
         "color": 2,
-        "delta": 1,
-        "enemyMap": 0,
+        "delta": -2,
+        "enemyMap": 7,
         "epochWhenTokenIsAdded": 19812,
-        "life": 2,
+        "life": 7,
         "distribution": 0,
         "stake": 1,
-        "producingEpochs": 0
+        "producingEpochs": 8
       },
       "4294967312": {
         "lastEpochUpdate": 0,
@@ -3737,32 +3737,32 @@
         "producingEpochs": 8
       },
       "60129542152": {
-        "lastEpochUpdate": 19819,
+        "lastEpochUpdate": 19820,
         "color": 2,
-        "delta": 1,
-        "enemyMap": 4,
+        "delta": 2,
+        "enemyMap": 8,
         "epochWhenTokenIsAdded": 19812,
-        "life": 1,
+        "life": 2,
         "distribution": 0,
         "stake": 1,
-        "producingEpochs": 3
+        "producingEpochs": 4
       },
       "64424509448": {
-        "lastEpochUpdate": 19819,
-        "color": 6,
-        "delta": -2,
-        "enemyMap": 7,
-        "epochWhenTokenIsAdded": 19818,
-        "life": 1,
+        "lastEpochUpdate": 19820,
+        "color": 2,
+        "delta": 2,
+        "enemyMap": 8,
+        "epochWhenTokenIsAdded": 19820,
+        "life": 2,
         "distribution": 0,
-        "stake": 2,
+        "stake": 1,
         "producingEpochs": 0
       },
       "68719476744": {
         "lastEpochUpdate": 19820,
         "color": 2,
-        "delta": 0,
-        "enemyMap": 9,
+        "delta": 2,
+        "enemyMap": 8,
         "epochWhenTokenIsAdded": 19818,
         "life": 0,
         "distribution": 2,
@@ -3825,15 +3825,15 @@
         "producingEpochs": 0
       },
       "18446744073709551609": {
-        "lastEpochUpdate": 19818,
+        "lastEpochUpdate": 19820,
         "color": 2,
-        "delta": 3,
+        "delta": 2,
         "enemyMap": 0,
         "epochWhenTokenIsAdded": 19812,
         "life": 7,
         "distribution": 0,
         "stake": 1,
-        "producingEpochs": 6
+        "producingEpochs": 8
       },
       "18446744073709551608": {
         "lastEpochUpdate": 19812,
@@ -3849,8 +3849,8 @@
       "519691042631": {
         "lastEpochUpdate": 19820,
         "color": 4,
-        "delta": 2,
-        "enemyMap": 2,
+        "delta": -2,
+        "enemyMap": 14,
         "epochWhenTokenIsAdded": 19812,
         "life": 4,
         "distribution": 0,
@@ -3859,31 +3859,31 @@
       },
       "523986009927": {
         "lastEpochUpdate": 19820,
-        "color": 4,
-        "delta": 0,
-        "enemyMap": 10,
-        "epochWhenTokenIsAdded": 19812,
-        "life": 0,
-        "distribution": 2,
+        "color": 2,
+        "delta": 2,
+        "enemyMap": 1,
+        "epochWhenTokenIsAdded": 19820,
+        "life": 2,
+        "distribution": 0,
         "stake": 1,
-        "producingEpochs": 3
+        "producingEpochs": 0
       },
       "528280977223": {
         "lastEpochUpdate": 19820,
-        "color": 4,
-        "delta": 0,
-        "enemyMap": 12,
-        "epochWhenTokenIsAdded": 19812,
-        "life": 0,
-        "distribution": 2,
+        "color": 2,
+        "delta": 2,
+        "enemyMap": 2,
+        "epochWhenTokenIsAdded": 19820,
+        "life": 2,
+        "distribution": 0,
         "stake": 1,
-        "producingEpochs": 3
+        "producingEpochs": 0
       },
       "511101108036": {
-        "lastEpochUpdate": 19819,
+        "lastEpochUpdate": 19820,
         "color": 6,
-        "delta": -2,
-        "enemyMap": 13,
+        "delta": -4,
+        "enemyMap": 15,
         "epochWhenTokenIsAdded": 19812,
         "life": 0,
         "distribution": 2,
@@ -3892,20 +3892,20 @@
       },
       "511101108035": {
         "lastEpochUpdate": 19820,
-        "color": 6,
-        "delta": -2,
-        "enemyMap": 7,
-        "epochWhenTokenIsAdded": 19812,
-        "life": 0,
-        "distribution": 3,
-        "stake": 2,
-        "producingEpochs": 3
+        "color": 2,
+        "delta": 2,
+        "enemyMap": 8,
+        "epochWhenTokenIsAdded": 19820,
+        "life": 2,
+        "distribution": 0,
+        "stake": 1,
+        "producingEpochs": 0
       },
       "511101108034": {
         "lastEpochUpdate": 19820,
         "color": 2,
-        "delta": 0,
-        "enemyMap": 10,
+        "delta": 2,
+        "enemyMap": 2,
         "epochWhenTokenIsAdded": 19815,
         "life": 3,
         "distribution": 0,
@@ -3913,15 +3913,15 @@
         "producingEpochs": 3
       },
       "38654705651": {
-        "lastEpochUpdate": 19819,
+        "lastEpochUpdate": 19820,
         "color": 1,
-        "delta": 2,
+        "delta": 3,
         "enemyMap": 0,
         "epochWhenTokenIsAdded": 19812,
         "life": 0,
         "distribution": 2,
         "stake": 1,
-        "producingEpochs": 2
+        "producingEpochs": 3
       },
       "38654705652": {
         "lastEpochUpdate": 19820,
@@ -3946,9 +3946,9 @@
         "producingEpochs": 0
       },
       "60129542141": {
-        "lastEpochUpdate": 19819,
+        "lastEpochUpdate": 19820,
         "color": 1,
-        "delta": 0,
+        "delta": 1,
         "enemyMap": 4,
         "epochWhenTokenIsAdded": 19812,
         "life": 0,
@@ -3957,26 +3957,26 @@
         "producingEpochs": 2
       },
       "64424509437": {
-        "lastEpochUpdate": 19819,
+        "lastEpochUpdate": 19820,
         "color": 2,
-        "delta": 1,
-        "enemyMap": 1,
+        "delta": 0,
+        "enemyMap": 3,
         "epochWhenTokenIsAdded": 19818,
-        "life": 3,
+        "life": 4,
         "distribution": 0,
         "stake": 1,
-        "producingEpochs": 1
+        "producingEpochs": 2
       },
       "68719476733": {
-        "lastEpochUpdate": 19819,
+        "lastEpochUpdate": 19820,
         "color": 2,
-        "delta": 1,
-        "enemyMap": 4,
+        "delta": 0,
+        "enemyMap": 6,
         "epochWhenTokenIsAdded": 19818,
-        "life": 3,
+        "life": 4,
         "distribution": 0,
         "stake": 1,
-        "producingEpochs": 1
+        "producingEpochs": 2
       },
       "68719476734": {
         "lastEpochUpdate": 19818,
@@ -3990,12 +3990,12 @@
         "producingEpochs": 0
       },
       "73014444029": {
-        "lastEpochUpdate": 19818,
+        "lastEpochUpdate": 19820,
         "color": 1,
-        "delta": -1,
+        "delta": 0,
         "enemyMap": 9,
         "epochWhenTokenIsAdded": 19812,
-        "life": 7,
+        "life": 5,
         "distribution": 0,
         "stake": 1,
         "producingEpochs": 6
@@ -4102,8 +4102,8 @@
       "515396075330": {
         "lastEpochUpdate": 19820,
         "color": 2,
-        "delta": 0,
-        "enemyMap": 6,
+        "delta": 2,
+        "enemyMap": 2,
         "epochWhenTokenIsAdded": 19815,
         "life": 3,
         "distribution": 0,
@@ -4112,20 +4112,20 @@
       },
       "519691042626": {
         "lastEpochUpdate": 19820,
-        "color": 4,
+        "color": 2,
         "delta": 0,
-        "enemyMap": 9,
-        "epochWhenTokenIsAdded": 19812,
-        "life": 0,
-        "distribution": 2,
+        "enemyMap": 6,
+        "epochWhenTokenIsAdded": 19820,
+        "life": 2,
+        "distribution": 0,
         "stake": 1,
-        "producingEpochs": 3
+        "producingEpochs": 0
       },
       "519691042627": {
         "lastEpochUpdate": 19820,
         "color": 2,
-        "delta": 0,
-        "enemyMap": 6,
+        "delta": 2,
+        "enemyMap": 4,
         "epochWhenTokenIsAdded": 19815,
         "life": 3,
         "distribution": 0,
@@ -4133,15 +4133,15 @@
         "producingEpochs": 3
       },
       "18446744052234715138": {
-        "lastEpochUpdate": 19813,
+        "lastEpochUpdate": 19820,
         "color": 1,
-        "delta": 2,
+        "delta": 3,
         "enemyMap": 0,
         "epochWhenTokenIsAdded": 19813,
-        "life": 2,
+        "life": 7,
         "distribution": 0,
         "stake": 1,
-        "producingEpochs": 0
+        "producingEpochs": 7
       },
       "18446744052234715137": {
         "lastEpochUpdate": 19819,
@@ -4155,15 +4155,15 @@
         "producingEpochs": 6
       },
       "18446744056529682434": {
-        "lastEpochUpdate": 19813,
+        "lastEpochUpdate": 19820,
         "color": 1,
-        "delta": 3,
+        "delta": 4,
         "enemyMap": 0,
         "epochWhenTokenIsAdded": 19813,
-        "life": 2,
+        "life": 7,
         "distribution": 0,
         "stake": 1,
-        "producingEpochs": 0
+        "producingEpochs": 7
       },
       "18446744056529682433": {
         "lastEpochUpdate": 19813,
@@ -4256,7 +4256,7 @@
       "77309411326": {
         "lastEpochUpdate": 19820,
         "color": 2,
-        "delta": 2,
+        "delta": 1,
         "enemyMap": 2,
         "epochWhenTokenIsAdded": 19815,
         "life": 7,
@@ -4265,14 +4265,14 @@
         "producingEpochs": 5
       },
       "77309411327": {
-        "lastEpochUpdate": 19820,
-        "color": 2,
-        "delta": 1,
-        "enemyMap": 4,
+        "lastEpochUpdate": 0,
+        "color": 0,
+        "delta": 0,
+        "enemyMap": 0,
         "epochWhenTokenIsAdded": 19815,
-        "life": 7,
+        "life": 0,
         "distribution": 0,
-        "stake": 1,
+        "stake": 0,
         "producingEpochs": 5
       },
       "30064771086": {
@@ -4320,32 +4320,32 @@
         "producingEpochs": 0
       },
       "68719476743": {
-        "lastEpochUpdate": 19819,
+        "lastEpochUpdate": 19820,
         "color": 2,
-        "delta": 3,
-        "enemyMap": 0,
+        "delta": 2,
+        "enemyMap": 2,
         "epochWhenTokenIsAdded": 19813,
         "life": 7,
         "distribution": 0,
         "stake": 1,
-        "producingEpochs": 6
+        "producingEpochs": 7
       },
       "64424509447": {
-        "lastEpochUpdate": 19819,
+        "lastEpochUpdate": 19820,
         "color": 2,
-        "delta": 1,
-        "enemyMap": 8,
+        "delta": 2,
+        "enemyMap": 2,
         "epochWhenTokenIsAdded": 19819,
-        "life": 2,
+        "life": 3,
         "distribution": 0,
         "stake": 1,
-        "producingEpochs": 0
+        "producingEpochs": 1
       },
       "81604378623": {
-        "lastEpochUpdate": 19819,
+        "lastEpochUpdate": 19820,
         "color": 1,
-        "delta": -1,
-        "enemyMap": 3,
+        "delta": 0,
+        "enemyMap": 2,
         "epochWhenTokenIsAdded": 19813,
         "life": 0,
         "distribution": 3,
@@ -4419,26 +4419,26 @@
         "producingEpochs": 2
       },
       "18446744069414584336": {
-        "lastEpochUpdate": 19817,
-        "color": 2,
-        "delta": 1,
+        "lastEpochUpdate": 0,
+        "color": 0,
+        "delta": 0,
         "enemyMap": 0,
         "epochWhenTokenIsAdded": 19814,
-        "life": 5,
+        "life": 0,
         "distribution": 0,
-        "stake": 1,
-        "producingEpochs": 3
+        "stake": 0,
+        "producingEpochs": 6
       },
       "18446744069414584338": {
-        "lastEpochUpdate": 19817,
-        "color": 2,
-        "delta": 1,
+        "lastEpochUpdate": 0,
+        "color": 0,
+        "delta": 0,
         "enemyMap": 0,
         "epochWhenTokenIsAdded": 19814,
-        "life": 5,
+        "life": 0,
         "distribution": 0,
-        "stake": 1,
-        "producingEpochs": 3
+        "stake": 0,
+        "producingEpochs": 6
       },
       "85899345918": {
         "lastEpochUpdate": 0,
@@ -4463,15 +4463,15 @@
         "producingEpochs": 5
       },
       "73014444031": {
-        "lastEpochUpdate": 19819,
+        "lastEpochUpdate": 19820,
         "color": 2,
-        "delta": 2,
+        "delta": 1,
         "enemyMap": 0,
         "epochWhenTokenIsAdded": 19814,
         "life": 7,
         "distribution": 0,
         "stake": 1,
-        "producingEpochs": 5
+        "producingEpochs": 6
       },
       "68719476736": {
         "lastEpochUpdate": 0,
@@ -4617,48 +4617,48 @@
         "producingEpochs": 5
       },
       "47244640243": {
-        "lastEpochUpdate": 0,
-        "color": 0,
-        "delta": 0,
-        "enemyMap": 0,
-        "epochWhenTokenIsAdded": 19814,
-        "life": 0,
+        "lastEpochUpdate": 19820,
+        "color": 1,
+        "delta": 1,
+        "enemyMap": 8,
+        "epochWhenTokenIsAdded": 19820,
+        "life": 2,
         "distribution": 0,
-        "stake": 0,
-        "producingEpochs": 5
+        "stake": 1,
+        "producingEpochs": 0
       },
       "51539607539": {
-        "lastEpochUpdate": 0,
-        "color": 0,
+        "lastEpochUpdate": 19820,
+        "color": 1,
         "delta": 0,
-        "enemyMap": 0,
-        "epochWhenTokenIsAdded": 19814,
-        "life": 0,
+        "enemyMap": 8,
+        "epochWhenTokenIsAdded": 19820,
+        "life": 2,
         "distribution": 0,
-        "stake": 0,
-        "producingEpochs": 5
+        "stake": 1,
+        "producingEpochs": 0
       },
       "34359738355": {
-        "lastEpochUpdate": 0,
-        "color": 0,
-        "delta": 0,
+        "lastEpochUpdate": 19820,
+        "color": 1,
+        "delta": 2,
         "enemyMap": 0,
-        "epochWhenTokenIsAdded": 19814,
-        "life": 0,
+        "epochWhenTokenIsAdded": 19820,
+        "life": 2,
         "distribution": 0,
-        "stake": 0,
-        "producingEpochs": 5
+        "stake": 1,
+        "producingEpochs": 0
       },
       "30064771059": {
-        "lastEpochUpdate": 0,
-        "color": 0,
+        "lastEpochUpdate": 19820,
+        "color": 1,
         "delta": 0,
-        "enemyMap": 0,
-        "epochWhenTokenIsAdded": 19814,
-        "life": 0,
+        "enemyMap": 8,
+        "epochWhenTokenIsAdded": 19820,
+        "life": 2,
         "distribution": 0,
-        "stake": 0,
-        "producingEpochs": 5
+        "stake": 1,
+        "producingEpochs": 0
       },
       "51539607552": {
         "lastEpochUpdate": 19814,
@@ -4683,37 +4683,37 @@
         "producingEpochs": 5
       },
       "68719476732": {
-        "lastEpochUpdate": 0,
-        "color": 0,
-        "delta": 0,
-        "enemyMap": 0,
-        "epochWhenTokenIsAdded": 19814,
-        "life": 0,
+        "lastEpochUpdate": 19820,
+        "color": 1,
+        "delta": 1,
+        "enemyMap": 8,
+        "epochWhenTokenIsAdded": 19820,
+        "life": 2,
         "distribution": 0,
-        "stake": 0,
-        "producingEpochs": 5
+        "stake": 1,
+        "producingEpochs": 0
       },
       "64424509436": {
-        "lastEpochUpdate": 0,
-        "color": 0,
-        "delta": 0,
-        "enemyMap": 0,
-        "epochWhenTokenIsAdded": 19814,
-        "life": 0,
+        "lastEpochUpdate": 19820,
+        "color": 1,
+        "delta": 1,
+        "enemyMap": 8,
+        "epochWhenTokenIsAdded": 19820,
+        "life": 2,
         "distribution": 0,
-        "stake": 0,
-        "producingEpochs": 5
+        "stake": 1,
+        "producingEpochs": 0
       },
       "60129542140": {
-        "lastEpochUpdate": 0,
-        "color": 0,
-        "delta": 0,
+        "lastEpochUpdate": 19820,
+        "color": 1,
+        "delta": 2,
         "enemyMap": 0,
-        "epochWhenTokenIsAdded": 19814,
-        "life": 0,
+        "epochWhenTokenIsAdded": 19820,
+        "life": 2,
         "distribution": 0,
-        "stake": 0,
-        "producingEpochs": 5
+        "stake": 1,
+        "producingEpochs": 0
       },
       "55834574845": {
         "lastEpochUpdate": 0,
@@ -4826,12 +4826,12 @@
         "producingEpochs": 1
       },
       "55834574857": {
-        "lastEpochUpdate": 19819,
+        "lastEpochUpdate": 19820,
         "color": 3,
-        "delta": 0,
+        "delta": 1,
         "enemyMap": 2,
         "epochWhenTokenIsAdded": 19815,
-        "life": 6,
+        "life": 5,
         "distribution": 0,
         "stake": 1,
         "producingEpochs": 4
@@ -4848,26 +4848,26 @@
         "producingEpochs": 0
       },
       "55834574855": {
-        "lastEpochUpdate": 19819,
+        "lastEpochUpdate": 19820,
         "color": 2,
-        "delta": 3,
-        "enemyMap": 0,
+        "delta": 2,
+        "enemyMap": 2,
         "epochWhenTokenIsAdded": 19819,
-        "life": 2,
+        "life": 3,
         "distribution": 0,
         "stake": 1,
-        "producingEpochs": 0
+        "producingEpochs": 1
       },
       "18446744035054845925": {
-        "lastEpochUpdate": 19815,
+        "lastEpochUpdate": 19820,
         "color": 2,
-        "delta": 1,
+        "delta": 2,
         "enemyMap": 0,
         "epochWhenTokenIsAdded": 19815,
-        "life": 2,
+        "life": 7,
         "distribution": 0,
         "stake": 1,
-        "producingEpochs": 0
+        "producingEpochs": 5
       },
       "18446744039349813221": {
         "lastEpochUpdate": 19815,
@@ -4903,15 +4903,15 @@
         "producingEpochs": 0
       },
       "18446744035054845929": {
-        "lastEpochUpdate": 19815,
+        "lastEpochUpdate": 19820,
         "color": 2,
-        "delta": 1,
+        "delta": 2,
         "enemyMap": 0,
         "epochWhenTokenIsAdded": 19815,
-        "life": 2,
+        "life": 7,
         "distribution": 0,
         "stake": 1,
-        "producingEpochs": 0
+        "producingEpochs": 5
       },
       "18446744043644780521": {
         "lastEpochUpdate": 19819,
@@ -4949,8 +4949,8 @@
       "506806140739": {
         "lastEpochUpdate": 19820,
         "color": 2,
-        "delta": 0,
-        "enemyMap": 12,
+        "delta": 2,
+        "enemyMap": 8,
         "epochWhenTokenIsAdded": 19815,
         "life": 5,
         "distribution": 0,
@@ -4969,12 +4969,12 @@
         "producingEpochs": 3
       },
       "519691042632": {
-        "lastEpochUpdate": 0,
-        "color": 4,
+        "lastEpochUpdate": 19820,
+        "color": 2,
         "delta": 0,
-        "enemyMap": 12,
-        "epochWhenTokenIsAdded": 19818,
-        "life": 0,
+        "enemyMap": 3,
+        "epochWhenTokenIsAdded": 19820,
+        "life": 2,
         "distribution": 0,
         "stake": 1,
         "producingEpochs": 0
@@ -4982,8 +4982,8 @@
       "523986009928": {
         "lastEpochUpdate": 19820,
         "color": 2,
-        "delta": -2,
-        "enemyMap": 11,
+        "delta": 4,
+        "enemyMap": 0,
         "epochWhenTokenIsAdded": 19815,
         "life": 3,
         "distribution": 0,
@@ -4993,8 +4993,8 @@
       "528280977224": {
         "lastEpochUpdate": 19820,
         "color": 2,
-        "delta": 0,
-        "enemyMap": 10,
+        "delta": 2,
+        "enemyMap": 8,
         "epochWhenTokenIsAdded": 19815,
         "life": 3,
         "distribution": 0,
@@ -5015,8 +5015,8 @@
       "532575944519": {
         "lastEpochUpdate": 19820,
         "color": 2,
-        "delta": 0,
-        "enemyMap": 5,
+        "delta": 2,
+        "enemyMap": 4,
         "epochWhenTokenIsAdded": 19815,
         "life": 3,
         "distribution": 0,
@@ -5156,26 +5156,26 @@
         "producingEpochs": 0
       },
       "18446744047939747834": {
-        "lastEpochUpdate": 19816,
+        "lastEpochUpdate": 19820,
         "color": 2,
-        "delta": 1,
-        "enemyMap": 0,
+        "delta": 0,
+        "enemyMap": 8,
         "epochWhenTokenIsAdded": 19816,
-        "life": 2,
+        "life": 6,
         "distribution": 0,
         "stake": 1,
-        "producingEpochs": 0
+        "producingEpochs": 4
       },
       "18446744052234715130": {
-        "lastEpochUpdate": 19816,
+        "lastEpochUpdate": 19820,
         "color": 2,
-        "delta": 1,
-        "enemyMap": 2,
+        "delta": 0,
+        "enemyMap": 10,
         "epochWhenTokenIsAdded": 19816,
-        "life": 2,
+        "life": 6,
         "distribution": 0,
         "stake": 1,
-        "producingEpochs": 0
+        "producingEpochs": 4
       },
       "18446744056529682426": {
         "lastEpochUpdate": 19819,
@@ -5277,26 +5277,26 @@
         "producingEpochs": 0
       },
       "30064771060": {
-        "lastEpochUpdate": 19819,
+        "lastEpochUpdate": 19820,
         "color": 2,
-        "delta": 1,
-        "enemyMap": 0,
+        "delta": 0,
+        "enemyMap": 2,
         "epochWhenTokenIsAdded": 19816,
-        "life": 5,
+        "life": 6,
         "distribution": 0,
         "stake": 1,
-        "producingEpochs": 3
+        "producingEpochs": 4
       },
       "51539607540": {
-        "lastEpochUpdate": 19819,
+        "lastEpochUpdate": 19820,
         "color": 2,
-        "delta": 2,
-        "enemyMap": 0,
+        "delta": 1,
+        "enemyMap": 2,
         "epochWhenTokenIsAdded": 19816,
-        "life": 5,
+        "life": 6,
         "distribution": 0,
         "stake": 1,
-        "producingEpochs": 3
+        "producingEpochs": 4
       },
       "51539607541": {
         "lastEpochUpdate": 19820,
@@ -5376,15 +5376,15 @@
         "producingEpochs": 0
       },
       "51539607558": {
-        "lastEpochUpdate": 19816,
+        "lastEpochUpdate": 19820,
         "color": 2,
-        "delta": 2,
-        "enemyMap": 0,
+        "delta": 1,
+        "enemyMap": 4,
         "epochWhenTokenIsAdded": 19816,
-        "life": 2,
+        "life": 6,
         "distribution": 0,
         "stake": 1,
-        "producingEpochs": 0
+        "producingEpochs": 4
       },
       "51539607559": {
         "lastEpochUpdate": 19819,
@@ -5554,8 +5554,8 @@
       "60129542162": {
         "lastEpochUpdate": 19820,
         "color": 4,
-        "delta": -1,
-        "enemyMap": 3,
+        "delta": 1,
+        "enemyMap": 2,
         "epochWhenTokenIsAdded": 19819,
         "life": 1,
         "distribution": 0,
@@ -5565,8 +5565,8 @@
       "55834574865": {
         "lastEpochUpdate": 19820,
         "color": 4,
-        "delta": -1,
-        "enemyMap": 12,
+        "delta": 1,
+        "enemyMap": 4,
         "epochWhenTokenIsAdded": 19819,
         "life": 1,
         "distribution": 0,
@@ -5807,8 +5807,8 @@
       "47244640244": {
         "lastEpochUpdate": 19820,
         "color": 2,
-        "delta": -1,
-        "enemyMap": 9,
+        "delta": -2,
+        "enemyMap": 11,
         "epochWhenTokenIsAdded": 19817,
         "life": 0,
         "distribution": 2,
@@ -5849,47 +5849,47 @@
         "producingEpochs": 1
       },
       "18446744039349813251": {
-        "lastEpochUpdate": 19818,
-        "color": 1,
-        "delta": 1,
-        "enemyMap": 0,
-        "epochWhenTokenIsAdded": 19818,
-        "life": 2,
-        "distribution": 0,
-        "stake": 1,
-        "producingEpochs": 0
-      },
-      "18446744043644780547": {
-        "lastEpochUpdate": 19818,
-        "color": 1,
-        "delta": 1,
-        "enemyMap": 8,
-        "epochWhenTokenIsAdded": 19818,
-        "life": 2,
-        "distribution": 0,
-        "stake": 1,
-        "producingEpochs": 0
-      },
-      "18446744047939747843": {
-        "lastEpochUpdate": 19819,
+        "lastEpochUpdate": 19820,
         "color": 1,
         "delta": 2,
         "enemyMap": 0,
         "epochWhenTokenIsAdded": 19818,
-        "life": 3,
+        "life": 4,
         "distribution": 0,
         "stake": 1,
-        "producingEpochs": 1
+        "producingEpochs": 2
+      },
+      "18446744043644780547": {
+        "lastEpochUpdate": 19820,
+        "color": 1,
+        "delta": 2,
+        "enemyMap": 8,
+        "epochWhenTokenIsAdded": 19818,
+        "life": 4,
+        "distribution": 0,
+        "stake": 1,
+        "producingEpochs": 2
+      },
+      "18446744047939747843": {
+        "lastEpochUpdate": 19820,
+        "color": 1,
+        "delta": 3,
+        "enemyMap": 0,
+        "epochWhenTokenIsAdded": 19818,
+        "life": 4,
+        "distribution": 0,
+        "stake": 1,
+        "producingEpochs": 2
       },
       "55834574866": {
         "lastEpochUpdate": 19820,
-        "color": 6,
-        "delta": -2,
-        "enemyMap": 6,
-        "epochWhenTokenIsAdded": 19818,
-        "life": 0,
-        "distribution": 2,
-        "stake": 2,
+        "color": 4,
+        "delta": 2,
+        "enemyMap": 0,
+        "epochWhenTokenIsAdded": 19820,
+        "life": 2,
+        "distribution": 0,
+        "stake": 1,
         "producingEpochs": 0
       },
       "55834574864": {
@@ -5916,22 +5916,22 @@
       },
       "519691042633": {
         "lastEpochUpdate": 19820,
-        "color": 6,
-        "delta": -4,
-        "enemyMap": 15,
-        "epochWhenTokenIsAdded": 19818,
-        "life": 0,
-        "distribution": 4,
-        "stake": 2,
+        "color": 2,
+        "delta": 2,
+        "enemyMap": 1,
+        "epochWhenTokenIsAdded": 19820,
+        "life": 2,
+        "distribution": 0,
+        "stake": 1,
         "producingEpochs": 0
       },
       "523986009929": {
-        "lastEpochUpdate": 0,
-        "color": 4,
-        "delta": -1,
-        "enemyMap": 3,
-        "epochWhenTokenIsAdded": 19818,
-        "life": 0,
+        "lastEpochUpdate": 19820,
+        "color": 2,
+        "delta": 2,
+        "enemyMap": 4,
+        "epochWhenTokenIsAdded": 19820,
+        "life": 2,
         "distribution": 0,
         "stake": 1,
         "producingEpochs": 0
@@ -5939,8 +5939,8 @@
       "528280977225": {
         "lastEpochUpdate": 19820,
         "color": 4,
-        "delta": 1,
-        "enemyMap": 2,
+        "delta": -1,
+        "enemyMap": 3,
         "epochWhenTokenIsAdded": 19818,
         "life": 4,
         "distribution": 0,
@@ -6036,15 +6036,15 @@
         "producingEpochs": 2
       },
       "519691042625": {
-        "lastEpochUpdate": 19818,
+        "lastEpochUpdate": 19820,
         "color": 4,
-        "delta": 2,
-        "enemyMap": 0,
+        "delta": 0,
+        "enemyMap": 8,
         "epochWhenTokenIsAdded": 19818,
-        "life": 2,
+        "life": 4,
         "distribution": 0,
         "stake": 1,
-        "producingEpochs": 0
+        "producingEpochs": 2
       },
       "523986009923": {
         "lastEpochUpdate": 19820,
@@ -6058,15 +6058,15 @@
         "producingEpochs": 2
       },
       "523986009922": {
-        "lastEpochUpdate": 19818,
+        "lastEpochUpdate": 19820,
         "color": 4,
-        "delta": 2,
-        "enemyMap": 0,
+        "delta": 0,
+        "enemyMap": 1,
         "epochWhenTokenIsAdded": 19818,
-        "life": 2,
+        "life": 4,
         "distribution": 0,
         "stake": 1,
-        "producingEpochs": 0
+        "producingEpochs": 2
       },
       "528280977219": {
         "lastEpochUpdate": 19819,
@@ -6146,56 +6146,56 @@
         "producingEpochs": 1
       },
       "485331304260": {
-        "lastEpochUpdate": 19819,
+        "lastEpochUpdate": 19820,
         "color": 2,
-        "delta": 0,
+        "delta": 1,
         "enemyMap": 1,
         "epochWhenTokenIsAdded": 19818,
-        "life": 3,
+        "life": 2,
         "distribution": 0,
         "stake": 1,
         "producingEpochs": 1
       },
       "519691042634": {
-        "lastEpochUpdate": 19818,
+        "lastEpochUpdate": 19820,
         "color": 2,
-        "delta": 0,
-        "enemyMap": 2,
-        "epochWhenTokenIsAdded": 19818,
+        "delta": 4,
+        "enemyMap": 0,
+        "epochWhenTokenIsAdded": 19820,
         "life": 2,
         "distribution": 0,
         "stake": 1,
         "producingEpochs": 0
       },
       "515396075338": {
-        "lastEpochUpdate": 19819,
+        "lastEpochUpdate": 19820,
         "color": 2,
         "delta": 0,
         "enemyMap": 3,
         "epochWhenTokenIsAdded": 19818,
-        "life": 3,
+        "life": 2,
         "distribution": 0,
         "stake": 1,
         "producingEpochs": 1
       },
       "515396075339": {
-        "lastEpochUpdate": 19819,
+        "lastEpochUpdate": 19820,
         "color": 2,
-        "delta": 0,
+        "delta": 1,
         "enemyMap": 1,
         "epochWhenTokenIsAdded": 19818,
-        "life": 3,
+        "life": 2,
         "distribution": 0,
         "stake": 1,
         "producingEpochs": 1
       },
       "493921238849": {
-        "lastEpochUpdate": 19819,
+        "lastEpochUpdate": 19820,
         "color": 2,
-        "delta": 0,
+        "delta": 1,
         "enemyMap": 4,
         "epochWhenTokenIsAdded": 19818,
-        "life": 3,
+        "life": 2,
         "distribution": 0,
         "stake": 1,
         "producingEpochs": 1
@@ -6300,15 +6300,15 @@
         "producingEpochs": 0
       },
       "60129542151": {
-        "lastEpochUpdate": 19819,
+        "lastEpochUpdate": 19820,
         "color": 2,
-        "delta": 3,
-        "enemyMap": 0,
+        "delta": 2,
+        "enemyMap": 2,
         "epochWhenTokenIsAdded": 19819,
-        "life": 2,
+        "life": 3,
         "distribution": 0,
         "stake": 1,
-        "producingEpochs": 0
+        "producingEpochs": 1
       },
       "18446744065119617023": {
         "lastEpochUpdate": 19819,
@@ -6322,37 +6322,37 @@
         "producingEpochs": 0
       },
       "18446744060824649727": {
-        "lastEpochUpdate": 19819,
+        "lastEpochUpdate": 19820,
         "color": 2,
-        "delta": 1,
-        "enemyMap": 8,
+        "delta": 0,
+        "enemyMap": 10,
         "epochWhenTokenIsAdded": 19819,
-        "life": 2,
+        "life": 3,
         "distribution": 0,
         "stake": 1,
-        "producingEpochs": 0
+        "producingEpochs": 1
       },
       "18446744056529682431": {
-        "lastEpochUpdate": 19819,
+        "lastEpochUpdate": 19820,
         "color": 2,
-        "delta": 1,
-        "enemyMap": 8,
+        "delta": 0,
+        "enemyMap": 10,
         "epochWhenTokenIsAdded": 19819,
-        "life": 2,
+        "life": 3,
         "distribution": 0,
         "stake": 1,
-        "producingEpochs": 0
+        "producingEpochs": 1
       },
       "18446744052234715135": {
-        "lastEpochUpdate": 19819,
+        "lastEpochUpdate": 19820,
         "color": 2,
-        "delta": 2,
-        "enemyMap": 0,
+        "delta": 0,
+        "enemyMap": 3,
         "epochWhenTokenIsAdded": 19819,
-        "life": 2,
+        "life": 3,
         "distribution": 0,
         "stake": 1,
-        "producingEpochs": 0
+        "producingEpochs": 1
       },
       "18446744069414584319": {
         "lastEpochUpdate": 19819,
@@ -6377,26 +6377,26 @@
         "producingEpochs": 0
       },
       "18446744047939747841": {
-        "lastEpochUpdate": 19819,
+        "lastEpochUpdate": 19820,
         "color": 2,
-        "delta": 1,
-        "enemyMap": 4,
+        "delta": 0,
+        "enemyMap": 12,
         "epochWhenTokenIsAdded": 19819,
-        "life": 2,
+        "life": 3,
         "distribution": 0,
         "stake": 1,
-        "producingEpochs": 0
+        "producingEpochs": 1
       },
       "18446744043644780545": {
-        "lastEpochUpdate": 19819,
+        "lastEpochUpdate": 19820,
         "color": 2,
-        "delta": 1,
-        "enemyMap": 0,
+        "delta": -1,
+        "enemyMap": 9,
         "epochWhenTokenIsAdded": 19819,
-        "life": 2,
+        "life": 3,
         "distribution": 0,
         "stake": 1,
-        "producingEpochs": 0
+        "producingEpochs": 1
       },
       "18446744065119617024": {
         "lastEpochUpdate": 19819,
@@ -6443,26 +6443,26 @@
         "producingEpochs": 0
       },
       "18446744060824649731": {
-        "lastEpochUpdate": 19819,
+        "lastEpochUpdate": 19820,
         "color": 2,
-        "delta": 1,
-        "enemyMap": 2,
+        "delta": 0,
+        "enemyMap": 3,
         "epochWhenTokenIsAdded": 19819,
-        "life": 2,
+        "life": 3,
         "distribution": 0,
         "stake": 1,
-        "producingEpochs": 0
+        "producingEpochs": 1
       },
       "18446744060824649732": {
-        "lastEpochUpdate": 19819,
+        "lastEpochUpdate": 19820,
         "color": 2,
-        "delta": 1,
-        "enemyMap": 0,
+        "delta": 0,
+        "enemyMap": 1,
         "epochWhenTokenIsAdded": 19819,
-        "life": 2,
+        "life": 3,
         "distribution": 0,
         "stake": 1,
-        "producingEpochs": 0
+        "producingEpochs": 1
       },
       "511101108042": {
         "lastEpochUpdate": 19819,
@@ -6531,26 +6531,26 @@
         "producingEpochs": 0
       },
       "498216206144": {
-        "lastEpochUpdate": 19819,
+        "lastEpochUpdate": 19820,
         "color": 4,
-        "delta": 1,
-        "enemyMap": 0,
+        "delta": 0,
+        "enemyMap": 1,
         "epochWhenTokenIsAdded": 19819,
-        "life": 2,
+        "life": 3,
         "distribution": 0,
         "stake": 1,
-        "producingEpochs": 0
+        "producingEpochs": 1
       },
       "481036336965": {
-        "lastEpochUpdate": 19819,
+        "lastEpochUpdate": 19820,
         "color": 4,
-        "delta": 1,
-        "enemyMap": 0,
+        "delta": 0,
+        "enemyMap": 4,
         "epochWhenTokenIsAdded": 19819,
-        "life": 2,
+        "life": 3,
         "distribution": 0,
         "stake": 1,
-        "producingEpochs": 0
+        "producingEpochs": 1
       },
       "481036336964": {
         "lastEpochUpdate": 19819,
@@ -6709,8 +6709,8 @@
       "528280977222": {
         "lastEpochUpdate": 19820,
         "color": 4,
-        "delta": 0,
-        "enemyMap": 5,
+        "delta": -2,
+        "enemyMap": 13,
         "epochWhenTokenIsAdded": 19819,
         "life": 1,
         "distribution": 0,
@@ -6804,6 +6804,512 @@
         "distribution": 0,
         "stake": 1,
         "producingEpochs": 0
+      },
+      "18446744039349813249": {
+        "lastEpochUpdate": 19820,
+        "color": 1,
+        "delta": 1,
+        "enemyMap": 4,
+        "epochWhenTokenIsAdded": 19820,
+        "life": 2,
+        "distribution": 0,
+        "stake": 1,
+        "producingEpochs": 0
+      },
+      "18446744039349813248": {
+        "lastEpochUpdate": 19820,
+        "color": 1,
+        "delta": 2,
+        "enemyMap": 0,
+        "epochWhenTokenIsAdded": 19820,
+        "life": 2,
+        "distribution": 0,
+        "stake": 1,
+        "producingEpochs": 0
+      },
+      "18446744039349813250": {
+        "lastEpochUpdate": 19820,
+        "color": 1,
+        "delta": 3,
+        "enemyMap": 0,
+        "epochWhenTokenIsAdded": 19820,
+        "life": 2,
+        "distribution": 0,
+        "stake": 1,
+        "producingEpochs": 0
+      },
+      "18446744047939747835": {
+        "lastEpochUpdate": 19820,
+        "color": 1,
+        "delta": 1,
+        "enemyMap": 2,
+        "epochWhenTokenIsAdded": 19820,
+        "life": 2,
+        "distribution": 0,
+        "stake": 1,
+        "producingEpochs": 0
+      },
+      "18446744047939747836": {
+        "lastEpochUpdate": 19820,
+        "color": 1,
+        "delta": 2,
+        "enemyMap": 0,
+        "epochWhenTokenIsAdded": 19820,
+        "life": 2,
+        "distribution": 0,
+        "stake": 1,
+        "producingEpochs": 0
+      },
+      "18446744052234715132": {
+        "lastEpochUpdate": 19820,
+        "color": 1,
+        "delta": 2,
+        "enemyMap": 0,
+        "epochWhenTokenIsAdded": 19820,
+        "life": 2,
+        "distribution": 0,
+        "stake": 1,
+        "producingEpochs": 0
+      },
+      "18446744052234715131": {
+        "lastEpochUpdate": 19820,
+        "color": 1,
+        "delta": 1,
+        "enemyMap": 2,
+        "epochWhenTokenIsAdded": 19820,
+        "life": 2,
+        "distribution": 0,
+        "stake": 1,
+        "producingEpochs": 0
+      },
+      "519691042635": {
+        "lastEpochUpdate": 19820,
+        "color": 2,
+        "delta": 2,
+        "enemyMap": 0,
+        "epochWhenTokenIsAdded": 19820,
+        "life": 2,
+        "distribution": 0,
+        "stake": 1,
+        "producingEpochs": 0
+      },
+      "523986009930": {
+        "lastEpochUpdate": 19820,
+        "color": 2,
+        "delta": 2,
+        "enemyMap": 0,
+        "epochWhenTokenIsAdded": 19820,
+        "life": 2,
+        "distribution": 0,
+        "stake": 1,
+        "producingEpochs": 0
+      },
+      "485331304261": {
+        "lastEpochUpdate": 19820,
+        "color": 2,
+        "delta": 1,
+        "enemyMap": 1,
+        "epochWhenTokenIsAdded": 19820,
+        "life": 2,
+        "distribution": 0,
+        "stake": 1,
+        "producingEpochs": 0
+      },
+      "485331304262": {
+        "lastEpochUpdate": 19820,
+        "color": 2,
+        "delta": 1,
+        "enemyMap": 0,
+        "epochWhenTokenIsAdded": 19820,
+        "life": 2,
+        "distribution": 0,
+        "stake": 1,
+        "producingEpochs": 0
+      },
+      "493921238848": {
+        "lastEpochUpdate": 19820,
+        "color": 2,
+        "delta": 1,
+        "enemyMap": 4,
+        "epochWhenTokenIsAdded": 19820,
+        "life": 2,
+        "distribution": 0,
+        "stake": 1,
+        "producingEpochs": 0
+      },
+      "493921238847": {
+        "lastEpochUpdate": 19820,
+        "color": 2,
+        "delta": 1,
+        "enemyMap": 0,
+        "epochWhenTokenIsAdded": 19820,
+        "life": 2,
+        "distribution": 0,
+        "stake": 1,
+        "producingEpochs": 0
+      },
+      "18446744035054845926": {
+        "lastEpochUpdate": 19820,
+        "color": 2,
+        "delta": 1,
+        "enemyMap": 4,
+        "epochWhenTokenIsAdded": 19820,
+        "life": 2,
+        "distribution": 0,
+        "stake": 1,
+        "producingEpochs": 0
+      },
+      "18446744035054845927": {
+        "lastEpochUpdate": 19820,
+        "color": 2,
+        "delta": 1,
+        "enemyMap": 4,
+        "epochWhenTokenIsAdded": 19820,
+        "life": 2,
+        "distribution": 0,
+        "stake": 1,
+        "producingEpochs": 0
+      },
+      "18446744035054845928": {
+        "lastEpochUpdate": 19820,
+        "color": 2,
+        "delta": 1,
+        "enemyMap": 4,
+        "epochWhenTokenIsAdded": 19820,
+        "life": 2,
+        "distribution": 0,
+        "stake": 1,
+        "producingEpochs": 0
+      },
+      "18446744047939747842": {
+        "lastEpochUpdate": 19820,
+        "color": 1,
+        "delta": 2,
+        "enemyMap": 2,
+        "epochWhenTokenIsAdded": 19820,
+        "life": 2,
+        "distribution": 0,
+        "stake": 1,
+        "producingEpochs": 0
+      },
+      "18446744056529682435": {
+        "lastEpochUpdate": 19820,
+        "color": 1,
+        "delta": 1,
+        "enemyMap": 4,
+        "epochWhenTokenIsAdded": 19820,
+        "life": 2,
+        "distribution": 0,
+        "stake": 1,
+        "producingEpochs": 0
+      },
+      "18446744056529682436": {
+        "lastEpochUpdate": 19820,
+        "color": 1,
+        "delta": 1,
+        "enemyMap": 4,
+        "epochWhenTokenIsAdded": 19820,
+        "life": 2,
+        "distribution": 0,
+        "stake": 1,
+        "producingEpochs": 0
+      },
+      "18446744056529682437": {
+        "lastEpochUpdate": 19820,
+        "color": 1,
+        "delta": 1,
+        "enemyMap": 0,
+        "epochWhenTokenIsAdded": 19820,
+        "life": 2,
+        "distribution": 0,
+        "stake": 1,
+        "producingEpochs": 0
+      },
+      "18446744043644780546": {
+        "lastEpochUpdate": 19820,
+        "color": 1,
+        "delta": 2,
+        "enemyMap": 2,
+        "epochWhenTokenIsAdded": 19820,
+        "life": 2,
+        "distribution": 0,
+        "stake": 1,
+        "producingEpochs": 0
+      },
+      "18446744047939747839": {
+        "lastEpochUpdate": 19820,
+        "color": 1,
+        "delta": 1,
+        "enemyMap": 4,
+        "epochWhenTokenIsAdded": 19820,
+        "life": 2,
+        "distribution": 0,
+        "stake": 1,
+        "producingEpochs": 0
+      },
+      "18446744047939747838": {
+        "lastEpochUpdate": 19820,
+        "color": 1,
+        "delta": 2,
+        "enemyMap": 0,
+        "epochWhenTokenIsAdded": 19820,
+        "life": 2,
+        "distribution": 0,
+        "stake": 1,
+        "producingEpochs": 0
+      },
+      "18446744052234715134": {
+        "lastEpochUpdate": 19820,
+        "color": 1,
+        "delta": 1,
+        "enemyMap": 8,
+        "epochWhenTokenIsAdded": 19820,
+        "life": 2,
+        "distribution": 0,
+        "stake": 1,
+        "producingEpochs": 0
+      },
+      "18446744056529682430": {
+        "lastEpochUpdate": 19820,
+        "color": 1,
+        "delta": 1,
+        "enemyMap": 8,
+        "epochWhenTokenIsAdded": 19820,
+        "life": 2,
+        "distribution": 0,
+        "stake": 1,
+        "producingEpochs": 0
+      },
+      "18446744060824649726": {
+        "lastEpochUpdate": 19820,
+        "color": 1,
+        "delta": 1,
+        "enemyMap": 8,
+        "epochWhenTokenIsAdded": 19820,
+        "life": 2,
+        "distribution": 0,
+        "stake": 1,
+        "producingEpochs": 0
+      },
+      "18446744043644780543": {
+        "lastEpochUpdate": 19820,
+        "color": 1,
+        "delta": 2,
+        "enemyMap": 0,
+        "epochWhenTokenIsAdded": 19820,
+        "life": 2,
+        "distribution": 0,
+        "stake": 1,
+        "producingEpochs": 0
+      },
+      "18446744060824649725": {
+        "lastEpochUpdate": 19820,
+        "color": 1,
+        "delta": 1,
+        "enemyMap": 0,
+        "epochWhenTokenIsAdded": 19820,
+        "life": 2,
+        "distribution": 0,
+        "stake": 1,
+        "producingEpochs": 0
+      },
+      "68719476742": {
+        "lastEpochUpdate": 19820,
+        "color": 3,
+        "delta": 1,
+        "enemyMap": 8,
+        "epochWhenTokenIsAdded": 19820,
+        "life": 2,
+        "distribution": 0,
+        "stake": 1,
+        "producingEpochs": 0
+      },
+      "68719476741": {
+        "lastEpochUpdate": 19820,
+        "color": 3,
+        "delta": 2,
+        "enemyMap": 0,
+        "epochWhenTokenIsAdded": 19820,
+        "life": 2,
+        "distribution": 0,
+        "stake": 1,
+        "producingEpochs": 0
+      },
+      "68719476740": {
+        "lastEpochUpdate": 19820,
+        "color": 3,
+        "delta": 1,
+        "enemyMap": 4,
+        "epochWhenTokenIsAdded": 19820,
+        "life": 2,
+        "distribution": 0,
+        "stake": 1,
+        "producingEpochs": 0
+      },
+      "68719476739": {
+        "lastEpochUpdate": 19820,
+        "color": 3,
+        "delta": 1,
+        "enemyMap": 4,
+        "epochWhenTokenIsAdded": 19820,
+        "life": 2,
+        "distribution": 0,
+        "stake": 1,
+        "producingEpochs": 0
+      },
+      "68719476738": {
+        "lastEpochUpdate": 19820,
+        "color": 3,
+        "delta": 2,
+        "enemyMap": 0,
+        "epochWhenTokenIsAdded": 19820,
+        "life": 2,
+        "distribution": 0,
+        "stake": 1,
+        "producingEpochs": 0
+      },
+      "64424509446": {
+        "lastEpochUpdate": 19820,
+        "color": 3,
+        "delta": 1,
+        "enemyMap": 8,
+        "epochWhenTokenIsAdded": 19820,
+        "life": 2,
+        "distribution": 0,
+        "stake": 1,
+        "producingEpochs": 0
+      },
+      "60129542150": {
+        "lastEpochUpdate": 19820,
+        "color": 3,
+        "delta": 1,
+        "enemyMap": 8,
+        "epochWhenTokenIsAdded": 19820,
+        "life": 2,
+        "distribution": 0,
+        "stake": 1,
+        "producingEpochs": 0
+      },
+      "55834574854": {
+        "lastEpochUpdate": 19820,
+        "color": 3,
+        "delta": -1,
+        "enemyMap": 9,
+        "epochWhenTokenIsAdded": 19820,
+        "life": 2,
+        "distribution": 0,
+        "stake": 1,
+        "producingEpochs": 0
+      },
+      "60129542153": {
+        "lastEpochUpdate": 19820,
+        "color": 3,
+        "delta": 0,
+        "enemyMap": 6,
+        "epochWhenTokenIsAdded": 19820,
+        "life": 2,
+        "distribution": 0,
+        "stake": 1,
+        "producingEpochs": 0
+      },
+      "73014444028": {
+        "lastEpochUpdate": 19820,
+        "color": 1,
+        "delta": 4,
+        "enemyMap": 0,
+        "epochWhenTokenIsAdded": 19820,
+        "life": 2,
+        "distribution": 0,
+        "stake": 1,
+        "producingEpochs": 0
+      },
+      "73014444027": {
+        "lastEpochUpdate": 19820,
+        "color": 1,
+        "delta": 1,
+        "enemyMap": 4,
+        "epochWhenTokenIsAdded": 19820,
+        "life": 2,
+        "distribution": 0,
+        "stake": 1,
+        "producingEpochs": 0
+      },
+      "73014444026": {
+        "lastEpochUpdate": 19820,
+        "color": 1,
+        "delta": 1,
+        "enemyMap": 4,
+        "epochWhenTokenIsAdded": 19820,
+        "life": 2,
+        "distribution": 0,
+        "stake": 1,
+        "producingEpochs": 0
+      },
+      "73014444025": {
+        "lastEpochUpdate": 19820,
+        "color": 1,
+        "delta": 2,
+        "enemyMap": 0,
+        "epochWhenTokenIsAdded": 19820,
+        "life": 2,
+        "distribution": 0,
+        "stake": 1,
+        "producingEpochs": 0
+      },
+      "77309411321": {
+        "lastEpochUpdate": 19820,
+        "color": 1,
+        "delta": 1,
+        "enemyMap": 8,
+        "epochWhenTokenIsAdded": 19820,
+        "life": 2,
+        "distribution": 0,
+        "stake": 1,
+        "producingEpochs": 0
+      },
+      "81604378617": {
+        "lastEpochUpdate": 19820,
+        "color": 1,
+        "delta": 2,
+        "enemyMap": 0,
+        "epochWhenTokenIsAdded": 19820,
+        "life": 2,
+        "distribution": 0,
+        "stake": 1,
+        "producingEpochs": 0
+      },
+      "81604378618": {
+        "lastEpochUpdate": 19820,
+        "color": 1,
+        "delta": 0,
+        "enemyMap": 9,
+        "epochWhenTokenIsAdded": 19820,
+        "life": 2,
+        "distribution": 0,
+        "stake": 1,
+        "producingEpochs": 0
+      },
+      "85899345914": {
+        "lastEpochUpdate": 19820,
+        "color": 1,
+        "delta": 1,
+        "enemyMap": 8,
+        "epochWhenTokenIsAdded": 19820,
+        "life": 2,
+        "distribution": 0,
+        "stake": 1,
+        "producingEpochs": 0
+      },
+      "90194313210": {
+        "lastEpochUpdate": 19820,
+        "color": 1,
+        "delta": 2,
+        "enemyMap": 0,
+        "epochWhenTokenIsAdded": 19820,
+        "life": 2,
+        "distribution": 0,
+        "stake": 1,
+        "producingEpochs": 0
       }
     },
     "owners": {
@@ -6815,8 +7321,8 @@
       "4294967267": "0x202869f3c82B65d367c58aD3875C6b51Fd0648a8",
       "4294967288": "0x2981000A489dD625479Bf612A29910F7De8556B4",
       "4294967289": "0x2981000A489dD625479Bf612A29910F7De8556B4",
-      "4294967290": "0x9d35cE15c448B5a4f8afC170214F3031878396A3",
-      "4294967291": "0xFFfFfFffFFfffFFfFFfFFFFFffFFFffffFfFFFfF",
+      "4294967290": "0x0000000000000000000000000000000000000000",
+      "4294967291": "0x9d35cE15c448B5a4f8afC170214F3031878396A3",
       "4294967292": "0xFFfFfFffFFfffFFfFFfFFFFFffFFFffffFfFFFfF",
       "4294967293": "0x9d35cE15c448B5a4f8afC170214F3031878396A3",
       "4294967294": "0x2981000A489dD625479Bf612A29910F7De8556B4",
@@ -6857,7 +7363,7 @@
       "18446744043644780549": "0xFFfFfFffFFfffFFfFFfFFFFFffFFFffffFfFFFfF",
       "18446744052234715147": "0xFFfFfFffFFfffFFfFFfFFFFFffFFFffffFfFFFfF",
       "18446744017874976777": "0xFFfFfFffFFfffFFfFFfFFFFFffFFFffffFfFFFfF",
-      "18446744069414584337": "0x9d35cE15c448B5a4f8afC170214F3031878396A3",
+      "18446744069414584337": "0x0000000000000000000000000000000000000000",
       "18446744030759878677": "0x9dab5A6393eEf78eB36cd84bB9Bbb055189429A5",
       "18446744022169944085": "0xFFfFfFffFFfffFFfFFfFFFFFffFFFffffFfFFFfF",
       "18446744026464911381": "0xFFfFfFffFFfffFFfFFfFFFFFffFFFffffFfFFFfF",
@@ -6904,7 +7410,7 @@
       "64424509452": "0xD1edDfcc4596CC8bD0bd7495beaB9B979fc50336",
       "60129542156": "0xD1edDfcc4596CC8bD0bd7495beaB9B979fc50336",
       "64424509453": "0xD1edDfcc4596CC8bD0bd7495beaB9B979fc50336",
-      "68719476747": "0xFFfFfFffFFfffFFfFFfFFFFFffFFFffffFfFFFfF",
+      "68719476747": "0xB006c644258e01b437eFF06e16E56e938a239712",
       "68719476748": "0xD1edDfcc4596CC8bD0bd7495beaB9B979fc50336",
       "60129542155": "0xD1edDfcc4596CC8bD0bd7495beaB9B979fc50336",
       "511101108038": "0xAcDb105133b8598A308995FD1EeBAaB155f1a3bf",
@@ -6990,8 +7496,8 @@
       "47244640332": "0x0000000000000000000000000000000000000000",
       "47244640330": "0x0000000000000000000000000000000000000000",
       "55834574859": "0xD1edDfcc4596CC8bD0bd7495beaB9B979fc50336",
-      "77309411332": "0xD1edDfcc4596CC8bD0bd7495beaB9B979fc50336",
-      "77309411333": "0xD1edDfcc4596CC8bD0bd7495beaB9B979fc50336",
+      "77309411332": "0xF8b109aF18cfA614Bef1C2899e522d77b3C64c14",
+      "77309411333": "0xF8b109aF18cfA614Bef1C2899e522d77b3C64c14",
       "77309411334": "0xF8b109aF18cfA614Bef1C2899e522d77b3C64c14",
       "81604378630": "0xF8b109aF18cfA614Bef1C2899e522d77b3C64c14",
       "85899345926": "0xF8b109aF18cfA614Bef1C2899e522d77b3C64c14",
@@ -7040,13 +7546,13 @@
       "25769803789": "0x0000000000000000000000000000000000000000",
       "42949672975": "0xC6cCd3c2d63bc8De8fcF43EdE80D135666b7aceE",
       "30064771087": "0xC6cCd3c2d63bc8De8fcF43EdE80D135666b7aceE",
-      "73014444037": "0xF8b109aF18cfA614Bef1C2899e522d77b3C64c14",
+      "73014444037": "0x0000000000000000000000000000000000000000",
       "73014444036": "0xF8b109aF18cfA614Bef1C2899e522d77b3C64c14",
       "90194313219": "0xF8b109aF18cfA614Bef1C2899e522d77b3C64c14",
       "90194313220": "0xF8b109aF18cfA614Bef1C2899e522d77b3C64c14",
       "90194313221": "0xF8b109aF18cfA614Bef1C2899e522d77b3C64c14",
       "73014444035": "0xF8b109aF18cfA614Bef1C2899e522d77b3C64c14",
-      "73014444038": "0xF8b109aF18cfA614Bef1C2899e522d77b3C64c14",
+      "73014444038": "0x0000000000000000000000000000000000000000",
       "90194313222": "0x0000000000000000000000000000000000000000",
       "94489280518": "0x0000000000000000000000000000000000000000",
       "77309411335": "0xF8b109aF18cfA614Bef1C2899e522d77b3C64c14",
@@ -7055,13 +7561,13 @@
       "73014444039": "0xF8b109aF18cfA614Bef1C2899e522d77b3C64c14",
       "18446744073709551611": "0x9d35cE15c448B5a4f8afC170214F3031878396A3",
       "18446744073709551612": "0x9d35cE15c448B5a4f8afC170214F3031878396A3",
-      "18446744073709551610": "0x9d35cE15c448B5a4f8afC170214F3031878396A3",
+      "18446744073709551610": "0x0000000000000000000000000000000000000000",
       "18446744073709551613": "0x9d35cE15c448B5a4f8afC170214F3031878396A3",
       "8589934589": "0x2981000A489dD625479Bf612A29910F7De8556B4",
       "17179869183": "0xFE35e15bE885750D9b2363cbB6aBDd57AC9C4c40",
       "12884901884": "0xFE35e15bE885750D9b2363cbB6aBDd57AC9C4c40",
       "8589934587": "0xFE35e15bE885750D9b2363cbB6aBDd57AC9C4c40",
-      "73014444034": "0x0000000000000000000000000000000000000000",
+      "73014444034": "0x4d5c9afcb508fA0e755a7F5BcA71Fc8518e51CdE",
       "77309411330": "0xF8b109aF18cfA614Bef1C2899e522d77b3C64c14",
       "81604378626": "0xF8b109aF18cfA614Bef1C2899e522d77b3C64c14",
       "85899345922": "0xF8b109aF18cfA614Bef1C2899e522d77b3C64c14",
@@ -7133,7 +7639,7 @@
       "77309411323": "0xB006c644258e01b437eFF06e16E56e938a239712",
       "81604378619": "0xB006c644258e01b437eFF06e16E56e938a239712",
       "85899345915": "0xB006c644258e01b437eFF06e16E56e938a239712",
-      "90194313211": "0x0000000000000000000000000000000000000000",
+      "90194313211": "0x6bAFF8A3449cc2E196F4b873f49e03E09345B1E1",
       "94489280507": "0x0000000000000000000000000000000000000000",
       "94489280506": "0x0000000000000000000000000000000000000000",
       "77309411322": "0xB006c644258e01b437eFF06e16E56e938a239712",
@@ -7146,7 +7652,7 @@
       "64424509454": "0xC6cCd3c2d63bc8De8fcF43EdE80D135666b7aceE",
       "68719476750": "0xC6cCd3c2d63bc8De8fcF43EdE80D135666b7aceE",
       "60129542152": "0xF8b109aF18cfA614Bef1C2899e522d77b3C64c14",
-      "64424509448": "0xFFfFfFffFFfffFFfFFfFFFFFffFFFffffFfFFFfF",
+      "64424509448": "0xF8b109aF18cfA614Bef1C2899e522d77b3C64c14",
       "68719476744": "0xF8b109aF18cfA614Bef1C2899e522d77b3C64c14",
       "18446744069414584316": "0x2981000A489dD625479Bf612A29910F7De8556B4",
       "18446744069414584315": "0x2981000A489dD625479Bf612A29910F7De8556B4",
@@ -7156,10 +7662,10 @@
       "18446744073709551609": "0x2981000A489dD625479Bf612A29910F7De8556B4",
       "18446744073709551608": "0x2981000A489dD625479Bf612A29910F7De8556B4",
       "519691042631": "0x9dab5A6393eEf78eB36cd84bB9Bbb055189429A5",
-      "523986009927": "0x9dab5A6393eEf78eB36cd84bB9Bbb055189429A5",
-      "528280977223": "0x9dab5A6393eEf78eB36cd84bB9Bbb055189429A5",
+      "523986009927": "0x143f8cFB7e91b7836D90A06Fe0e2cF8728D61FB0",
+      "528280977223": "0x143f8cFB7e91b7836D90A06Fe0e2cF8728D61FB0",
       "511101108036": "0xFFfFfFffFFfffFFfFFfFFFFFffFFFffffFfFFFfF",
-      "511101108035": "0xFFfFfFffFFfffFFfFFfFFFFFffFFFffffFfFFFfF",
+      "511101108035": "0x143f8cFB7e91b7836D90A06Fe0e2cF8728D61FB0",
       "511101108034": "0x143f8cFB7e91b7836D90A06Fe0e2cF8728D61FB0",
       "38654705651": "0x6bAFF8A3449cc2E196F4b873f49e03E09345B1E1",
       "38654705652": "0x6bAFF8A3449cc2E196F4b873f49e03E09345B1E1",
@@ -7179,7 +7685,7 @@
       "85899345928": "0xF8b109aF18cfA614Bef1C2899e522d77b3C64c14",
       "85899345929": "0xF8b109aF18cfA614Bef1C2899e522d77b3C64c14",
       "515396075330": "0x143f8cFB7e91b7836D90A06Fe0e2cF8728D61FB0",
-      "519691042626": "0xAcDb105133b8598A308995FD1EeBAaB155f1a3bf",
+      "519691042626": "0x143f8cFB7e91b7836D90A06Fe0e2cF8728D61FB0",
       "519691042627": "0x143f8cFB7e91b7836D90A06Fe0e2cF8728D61FB0",
       "18446744052234715138": "0xc6a4FCe15Bd4c14f8D6ECf3Ad4e20E39021897E8",
       "18446744052234715137": "0xc6a4FCe15Bd4c14f8D6ECf3Ad4e20E39021897E8",
@@ -7193,7 +7699,7 @@
       "55834574848": "0xB006c644258e01b437eFF06e16E56e938a239712",
       "64424509440": "0x0000000000000000000000000000000000000000",
       "77309411326": "0xB006c644258e01b437eFF06e16E56e938a239712",
-      "77309411327": "0xB006c644258e01b437eFF06e16E56e938a239712",
+      "77309411327": "0x0000000000000000000000000000000000000000",
       "30064771086": "0xC6cCd3c2d63bc8De8fcF43EdE80D135666b7aceE",
       "38654705676": "0xC6cCd3c2d63bc8De8fcF43EdE80D135666b7aceE",
       "94489280516": "0xF8b109aF18cfA614Bef1C2899e522d77b3C64c14",
@@ -7207,8 +7713,8 @@
       "94489280510": "0x6bAFF8A3449cc2E196F4b873f49e03E09345B1E1",
       "94489280509": "0x6bAFF8A3449cc2E196F4b873f49e03E09345B1E1",
       "18446744026464911354": "0xE2682E3484F545f43cbBbD1188ef1bfcFc7c749E",
-      "18446744069414584336": "0x9d35cE15c448B5a4f8afC170214F3031878396A3",
-      "18446744069414584338": "0x9d35cE15c448B5a4f8afC170214F3031878396A3",
+      "18446744069414584336": "0x0000000000000000000000000000000000000000",
+      "18446744069414584338": "0x0000000000000000000000000000000000000000",
       "85899345918": "0x0000000000000000000000000000000000000000",
       "73014444030": "0xB006c644258e01b437eFF06e16E56e938a239712",
       "73014444031": "0xB006c644258e01b437eFF06e16E56e938a239712",
@@ -7225,15 +7731,15 @@
       "98784247806": "0x0000000000000000000000000000000000000000",
       "98784247807": "0x0000000000000000000000000000000000000000",
       "98784247803": "0x0000000000000000000000000000000000000000",
-      "47244640243": "0x0000000000000000000000000000000000000000",
-      "51539607539": "0x0000000000000000000000000000000000000000",
-      "34359738355": "0x0000000000000000000000000000000000000000",
-      "30064771059": "0x0000000000000000000000000000000000000000",
+      "47244640243": "0x6bAFF8A3449cc2E196F4b873f49e03E09345B1E1",
+      "51539607539": "0x6bAFF8A3449cc2E196F4b873f49e03E09345B1E1",
+      "34359738355": "0x6bAFF8A3449cc2E196F4b873f49e03E09345B1E1",
+      "30064771059": "0x6bAFF8A3449cc2E196F4b873f49e03E09345B1E1",
       "51539607552": "0x9dab5A6393eEf78eB36cd84bB9Bbb055189429A5",
       "55834574847": "0x9dab5A6393eEf78eB36cd84bB9Bbb055189429A5",
-      "68719476732": "0x0000000000000000000000000000000000000000",
-      "64424509436": "0x0000000000000000000000000000000000000000",
-      "60129542140": "0x0000000000000000000000000000000000000000",
+      "68719476732": "0x6bAFF8A3449cc2E196F4b873f49e03E09345B1E1",
+      "64424509436": "0x6bAFF8A3449cc2E196F4b873f49e03E09345B1E1",
+      "60129542140": "0x6bAFF8A3449cc2E196F4b873f49e03E09345B1E1",
       "55834574845": "0x0000000000000000000000000000000000000000",
       "55834574844": "0x0000000000000000000000000000000000000000",
       "55834574846": "0x0000000000000000000000000000000000000000",
@@ -7257,7 +7763,7 @@
       "506806140738": "0x143f8cFB7e91b7836D90A06Fe0e2cF8728D61FB0",
       "506806140739": "0x143f8cFB7e91b7836D90A06Fe0e2cF8728D61FB0",
       "502511173443": "0x143f8cFB7e91b7836D90A06Fe0e2cF8728D61FB0",
-      "519691042632": "0xC6cCd3c2d63bc8De8fcF43EdE80D135666b7aceE",
+      "519691042632": "0x143f8cFB7e91b7836D90A06Fe0e2cF8728D61FB0",
       "523986009928": "0x143f8cFB7e91b7836D90A06Fe0e2cF8728D61FB0",
       "528280977224": "0x143f8cFB7e91b7836D90A06Fe0e2cF8728D61FB0",
       "532575944520": "0x143f8cFB7e91b7836D90A06Fe0e2cF8728D61FB0",
@@ -7340,11 +7846,11 @@
       "18446744039349813251": "0x9d35cE15c448B5a4f8afC170214F3031878396A3",
       "18446744043644780547": "0x9d35cE15c448B5a4f8afC170214F3031878396A3",
       "18446744047939747843": "0x9d35cE15c448B5a4f8afC170214F3031878396A3",
-      "55834574866": "0xFFfFfFffFFfffFFfFFfFFFFFffFFFffffFfFFFfF",
+      "55834574866": "0xB006c644258e01b437eFF06e16E56e938a239712",
       "55834574864": "0xac5b774D7a700AcDb528048B6052bc1549cd73B9",
       "60129542163": "0xac5b774D7a700AcDb528048B6052bc1549cd73B9",
-      "519691042633": "0xFFfFfFffFFfffFFfFFfFFFFFffFFFffffFfFFFfF",
-      "523986009929": "0xC6cCd3c2d63bc8De8fcF43EdE80D135666b7aceE",
+      "519691042633": "0x143f8cFB7e91b7836D90A06Fe0e2cF8728D61FB0",
+      "523986009929": "0x143f8cFB7e91b7836D90A06Fe0e2cF8728D61FB0",
       "528280977225": "0xC6cCd3c2d63bc8De8fcF43EdE80D135666b7aceE",
       "532575944521": "0xC6cCd3c2d63bc8De8fcF43EdE80D135666b7aceE",
       "536870911817": "0xC6cCd3c2d63bc8De8fcF43EdE80D135666b7aceE",
@@ -7423,39 +7929,685 @@
       "502511173441": "0xAcDb105133b8598A308995FD1EeBAaB155f1a3bf",
       "506806140737": "0xAcDb105133b8598A308995FD1EeBAaB155f1a3bf",
       "528280977220": "0xAcDb105133b8598A308995FD1EeBAaB155f1a3bf",
-      "523986009924": "0xAcDb105133b8598A308995FD1EeBAaB155f1a3bf"
+      "523986009924": "0xAcDb105133b8598A308995FD1EeBAaB155f1a3bf",
+      "18446744039349813249": "0xB006c644258e01b437eFF06e16E56e938a239712",
+      "18446744039349813248": "0xB006c644258e01b437eFF06e16E56e938a239712",
+      "18446744039349813250": "0xB006c644258e01b437eFF06e16E56e938a239712",
+      "18446744047939747835": "0xB006c644258e01b437eFF06e16E56e938a239712",
+      "18446744047939747836": "0xB006c644258e01b437eFF06e16E56e938a239712",
+      "18446744052234715132": "0xB006c644258e01b437eFF06e16E56e938a239712",
+      "18446744052234715131": "0xB006c644258e01b437eFF06e16E56e938a239712",
+      "519691042635": "0x143f8cFB7e91b7836D90A06Fe0e2cF8728D61FB0",
+      "523986009930": "0x143f8cFB7e91b7836D90A06Fe0e2cF8728D61FB0",
+      "485331304261": "0x143f8cFB7e91b7836D90A06Fe0e2cF8728D61FB0",
+      "485331304262": "0x143f8cFB7e91b7836D90A06Fe0e2cF8728D61FB0",
+      "493921238848": "0x143f8cFB7e91b7836D90A06Fe0e2cF8728D61FB0",
+      "493921238847": "0x143f8cFB7e91b7836D90A06Fe0e2cF8728D61FB0",
+      "18446744035054845926": "0xF8b109aF18cfA614Bef1C2899e522d77b3C64c14",
+      "18446744035054845927": "0xF8b109aF18cfA614Bef1C2899e522d77b3C64c14",
+      "18446744035054845928": "0xF8b109aF18cfA614Bef1C2899e522d77b3C64c14",
+      "18446744047939747842": "0x9dab5A6393eEf78eB36cd84bB9Bbb055189429A5",
+      "18446744056529682435": "0x9dab5A6393eEf78eB36cd84bB9Bbb055189429A5",
+      "18446744056529682436": "0x9dab5A6393eEf78eB36cd84bB9Bbb055189429A5",
+      "18446744056529682437": "0x9dab5A6393eEf78eB36cd84bB9Bbb055189429A5",
+      "18446744043644780546": "0x9dab5A6393eEf78eB36cd84bB9Bbb055189429A5",
+      "18446744047939747839": "0x9dab5A6393eEf78eB36cd84bB9Bbb055189429A5",
+      "18446744047939747838": "0x9dab5A6393eEf78eB36cd84bB9Bbb055189429A5",
+      "18446744052234715134": "0x9dab5A6393eEf78eB36cd84bB9Bbb055189429A5",
+      "18446744056529682430": "0x9dab5A6393eEf78eB36cd84bB9Bbb055189429A5",
+      "18446744060824649726": "0x9dab5A6393eEf78eB36cd84bB9Bbb055189429A5",
+      "18446744043644780543": "0x9dab5A6393eEf78eB36cd84bB9Bbb055189429A5",
+      "18446744060824649725": "0x9dab5A6393eEf78eB36cd84bB9Bbb055189429A5",
+      "68719476742": "0x4d5c9afcb508fA0e755a7F5BcA71Fc8518e51CdE",
+      "68719476741": "0x4d5c9afcb508fA0e755a7F5BcA71Fc8518e51CdE",
+      "68719476740": "0x4d5c9afcb508fA0e755a7F5BcA71Fc8518e51CdE",
+      "68719476739": "0x4d5c9afcb508fA0e755a7F5BcA71Fc8518e51CdE",
+      "68719476738": "0x4d5c9afcb508fA0e755a7F5BcA71Fc8518e51CdE",
+      "64424509446": "0x4d5c9afcb508fA0e755a7F5BcA71Fc8518e51CdE",
+      "60129542150": "0x4d5c9afcb508fA0e755a7F5BcA71Fc8518e51CdE",
+      "55834574854": "0x4d5c9afcb508fA0e755a7F5BcA71Fc8518e51CdE",
+      "60129542153": "0x4d5c9afcb508fA0e755a7F5BcA71Fc8518e51CdE",
+      "73014444028": "0x6bAFF8A3449cc2E196F4b873f49e03E09345B1E1",
+      "73014444027": "0x6bAFF8A3449cc2E196F4b873f49e03E09345B1E1",
+      "73014444026": "0x6bAFF8A3449cc2E196F4b873f49e03E09345B1E1",
+      "73014444025": "0x6bAFF8A3449cc2E196F4b873f49e03E09345B1E1",
+      "77309411321": "0x6bAFF8A3449cc2E196F4b873f49e03E09345B1E1",
+      "81604378617": "0x6bAFF8A3449cc2E196F4b873f49e03E09345B1E1",
+      "81604378618": "0x6bAFF8A3449cc2E196F4b873f49e03E09345B1E1",
+      "85899345914": "0x6bAFF8A3449cc2E196F4b873f49e03E09345B1E1",
+      "90194313210": "0x6bAFF8A3449cc2E196F4b873f49e03E09345B1E1"
     },
-    "commitments": {
-      "0x9d35ce15c448b5a4f8afc170214f3031878396a3": {
-        "epoch": 19820,
-        "hash": "0xf7912c40acd707a023dfaae75fc332584de0e5081fca996c"
-      },
-      "0x6baff8a3449cc2e196f4b873f49e03e09345b1e1": {
-        "epoch": 19820,
-        "hash": "0x97deae1f55801eba89a3ad8ad5fb616b326b9a41cae3e53e"
-      },
-      "0x143f8cfb7e91b7836d90a06fe0e2cf8728d61fb0": {
-        "epoch": 19820,
-        "hash": "0xe23031df9ce6c4d37c71501f756aabb5165fc17b8a3ad3b6"
-      },
-      "0x4d5c9afcb508fa0e755a7f5bca71fc8518e51cde": {
-        "epoch": 19820,
-        "hash": "0x017abebc8715fb0750fc863eda41e50c312ce8c3200e0b9f"
-      },
-      "0x9dab5a6393eef78eb36cd84bb9bbb055189429a5": {
-        "epoch": 19820,
-        "hash": "0xd04f207b845725f91e78aab91342aa9123a92809cb7a6ceb"
-      },
-      "0xf8b109af18cfa614bef1c2899e522d77b3c64c14": {
-        "epoch": 19820,
-        "hash": "0x64287c96afec152d133ee64b5b309b6bcbe0324fb22d6572"
-      },
-      "0xb006c644258e01b437eff06e16e56e938a239712": {
-        "epoch": 19820,
-        "hash": "0xc46cbc601d5ba0a86ff757a7b3b9921a0d79f0ab1573309f"
-      }
-    },
+    "commitments": {},
     "placements": [
+      {
+        "epoch": 19820,
+        "cells": {
+          "4294967290": {
+            "players": [
+              {
+                "color": 0,
+                "address": "0x9d35ce15c448b5a4f8afc170214f3031878396a3"
+              }
+            ]
+          },
+          "4294967291": {
+            "players": [
+              {
+                "color": 2,
+                "address": "0x9d35ce15c448b5a4f8afc170214f3031878396a3"
+              }
+            ]
+          },
+          "18446744073709551610": {
+            "players": [
+              {
+                "color": 0,
+                "address": "0x9d35ce15c448b5a4f8afc170214f3031878396a3"
+              }
+            ]
+          },
+          "18446744069414584336": {
+            "players": [
+              {
+                "color": 0,
+                "address": "0x9d35ce15c448b5a4f8afc170214f3031878396a3"
+              }
+            ]
+          },
+          "18446744069414584337": {
+            "players": [
+              {
+                "color": 0,
+                "address": "0x9d35ce15c448b5a4f8afc170214f3031878396a3"
+              }
+            ]
+          },
+          "18446744069414584338": {
+            "players": [
+              {
+                "color": 0,
+                "address": "0x9d35ce15c448b5a4f8afc170214f3031878396a3"
+              }
+            ]
+          },
+          "55834574866": {
+            "players": [
+              {
+                "color": 4,
+                "address": "0xb006c644258e01b437eff06e16e56e938a239712"
+              }
+            ]
+          },
+          "68719476747": {
+            "players": [
+              {
+                "color": 3,
+                "address": "0xb006c644258e01b437eff06e16e56e938a239712"
+              }
+            ]
+          },
+          "18446744039349813249": {
+            "players": [
+              {
+                "color": 1,
+                "address": "0xb006c644258e01b437eff06e16e56e938a239712"
+              }
+            ]
+          },
+          "18446744039349813248": {
+            "players": [
+              {
+                "color": 1,
+                "address": "0xb006c644258e01b437eff06e16e56e938a239712"
+              }
+            ]
+          },
+          "18446744039349813250": {
+            "players": [
+              {
+                "color": 1,
+                "address": "0xb006c644258e01b437eff06e16e56e938a239712"
+              }
+            ]
+          },
+          "18446744047939747835": {
+            "players": [
+              {
+                "color": 1,
+                "address": "0xb006c644258e01b437eff06e16e56e938a239712"
+              }
+            ]
+          },
+          "18446744047939747836": {
+            "players": [
+              {
+                "color": 1,
+                "address": "0xb006c644258e01b437eff06e16e56e938a239712"
+              }
+            ]
+          },
+          "18446744052234715132": {
+            "players": [
+              {
+                "color": 1,
+                "address": "0xb006c644258e01b437eff06e16e56e938a239712"
+              }
+            ]
+          },
+          "18446744052234715131": {
+            "players": [
+              {
+                "color": 1,
+                "address": "0xb006c644258e01b437eff06e16e56e938a239712"
+              }
+            ]
+          },
+          "77309411327": {
+            "players": [
+              {
+                "color": 0,
+                "address": "0xb006c644258e01b437eff06e16e56e938a239712"
+              }
+            ]
+          },
+          "519691042634": {
+            "players": [
+              {
+                "color": 2,
+                "address": "0x143f8cfb7e91b7836d90a06fe0e2cf8728d61fb0"
+              }
+            ]
+          },
+          "519691042635": {
+            "players": [
+              {
+                "color": 2,
+                "address": "0x143f8cfb7e91b7836d90a06fe0e2cf8728d61fb0"
+              }
+            ]
+          },
+          "519691042633": {
+            "players": [
+              {
+                "color": 2,
+                "address": "0x143f8cfb7e91b7836d90a06fe0e2cf8728d61fb0"
+              }
+            ]
+          },
+          "519691042632": {
+            "players": [
+              {
+                "color": 2,
+                "address": "0x143f8cfb7e91b7836d90a06fe0e2cf8728d61fb0"
+              }
+            ]
+          },
+          "523986009929": {
+            "players": [
+              {
+                "color": 2,
+                "address": "0x143f8cfb7e91b7836d90a06fe0e2cf8728d61fb0"
+              }
+            ]
+          },
+          "523986009930": {
+            "players": [
+              {
+                "color": 2,
+                "address": "0x143f8cfb7e91b7836d90a06fe0e2cf8728d61fb0"
+              }
+            ]
+          },
+          "528280977223": {
+            "players": [
+              {
+                "color": 2,
+                "address": "0x143f8cfb7e91b7836d90a06fe0e2cf8728d61fb0"
+              }
+            ]
+          },
+          "523986009927": {
+            "players": [
+              {
+                "color": 2,
+                "address": "0x143f8cfb7e91b7836d90a06fe0e2cf8728d61fb0"
+              }
+            ]
+          },
+          "485331304261": {
+            "players": [
+              {
+                "color": 2,
+                "address": "0x143f8cfb7e91b7836d90a06fe0e2cf8728d61fb0"
+              }
+            ]
+          },
+          "485331304262": {
+            "players": [
+              {
+                "color": 2,
+                "address": "0x143f8cfb7e91b7836d90a06fe0e2cf8728d61fb0"
+              }
+            ]
+          },
+          "493921238848": {
+            "players": [
+              {
+                "color": 2,
+                "address": "0x143f8cfb7e91b7836d90a06fe0e2cf8728d61fb0"
+              }
+            ]
+          },
+          "493921238847": {
+            "players": [
+              {
+                "color": 2,
+                "address": "0x143f8cfb7e91b7836d90a06fe0e2cf8728d61fb0"
+              }
+            ]
+          },
+          "515396075332": {
+            "players": [
+              {
+                "color": 2,
+                "address": "0x143f8cfb7e91b7836d90a06fe0e2cf8728d61fb0"
+              }
+            ]
+          },
+          "511101108035": {
+            "players": [
+              {
+                "color": 2,
+                "address": "0x143f8cfb7e91b7836d90a06fe0e2cf8728d61fb0"
+              }
+            ]
+          },
+          "519691042626": {
+            "players": [
+              {
+                "color": 2,
+                "address": "0x143f8cfb7e91b7836d90a06fe0e2cf8728d61fb0"
+              }
+            ]
+          },
+          "18446744035054845926": {
+            "players": [
+              {
+                "color": 2,
+                "address": "0xf8b109af18cfa614bef1c2899e522d77b3c64c14"
+              }
+            ]
+          },
+          "18446744035054845927": {
+            "players": [
+              {
+                "color": 2,
+                "address": "0xf8b109af18cfa614bef1c2899e522d77b3c64c14"
+              }
+            ]
+          },
+          "18446744035054845928": {
+            "players": [
+              {
+                "color": 2,
+                "address": "0xf8b109af18cfa614bef1c2899e522d77b3c64c14"
+              }
+            ]
+          },
+          "64424509448": {
+            "players": [
+              {
+                "color": 2,
+                "address": "0xf8b109af18cfa614bef1c2899e522d77b3c64c14"
+              }
+            ]
+          },
+          "77309411332": {
+            "players": [
+              {
+                "color": 2,
+                "address": "0xf8b109af18cfa614bef1c2899e522d77b3c64c14"
+              }
+            ]
+          },
+          "77309411333": {
+            "players": [
+              {
+                "color": 2,
+                "address": "0xf8b109af18cfa614bef1c2899e522d77b3c64c14"
+              }
+            ]
+          },
+          "73014444038": {
+            "players": [
+              {
+                "color": 0,
+                "address": "0xf8b109af18cfa614bef1c2899e522d77b3c64c14"
+              }
+            ]
+          },
+          "73014444037": {
+            "players": [
+              {
+                "color": 0,
+                "address": "0xf8b109af18cfa614bef1c2899e522d77b3c64c14"
+              }
+            ]
+          },
+          "18446744047939747842": {
+            "players": [
+              {
+                "color": 1,
+                "address": "0x9dab5a6393eef78eb36cd84bb9bbb055189429a5"
+              }
+            ]
+          },
+          "18446744056529682435": {
+            "players": [
+              {
+                "color": 1,
+                "address": "0x9dab5a6393eef78eb36cd84bb9bbb055189429a5"
+              }
+            ]
+          },
+          "18446744056529682436": {
+            "players": [
+              {
+                "color": 1,
+                "address": "0x9dab5a6393eef78eb36cd84bb9bbb055189429a5"
+              }
+            ]
+          },
+          "18446744056529682437": {
+            "players": [
+              {
+                "color": 1,
+                "address": "0x9dab5a6393eef78eb36cd84bb9bbb055189429a5"
+              }
+            ]
+          },
+          "18446744043644780546": {
+            "players": [
+              {
+                "color": 1,
+                "address": "0x9dab5a6393eef78eb36cd84bb9bbb055189429a5"
+              }
+            ]
+          },
+          "18446744047939747839": {
+            "players": [
+              {
+                "color": 1,
+                "address": "0x9dab5a6393eef78eb36cd84bb9bbb055189429a5"
+              }
+            ]
+          },
+          "18446744047939747838": {
+            "players": [
+              {
+                "color": 1,
+                "address": "0x9dab5a6393eef78eb36cd84bb9bbb055189429a5"
+              }
+            ]
+          },
+          "18446744052234715134": {
+            "players": [
+              {
+                "color": 1,
+                "address": "0x9dab5a6393eef78eb36cd84bb9bbb055189429a5"
+              }
+            ]
+          },
+          "18446744056529682430": {
+            "players": [
+              {
+                "color": 1,
+                "address": "0x9dab5a6393eef78eb36cd84bb9bbb055189429a5"
+              }
+            ]
+          },
+          "18446744060824649726": {
+            "players": [
+              {
+                "color": 1,
+                "address": "0x9dab5a6393eef78eb36cd84bb9bbb055189429a5"
+              }
+            ]
+          },
+          "18446744043644780543": {
+            "players": [
+              {
+                "color": 1,
+                "address": "0x9dab5a6393eef78eb36cd84bb9bbb055189429a5"
+              }
+            ]
+          },
+          "18446744060824649725": {
+            "players": [
+              {
+                "color": 1,
+                "address": "0x9dab5a6393eef78eb36cd84bb9bbb055189429a5"
+              }
+            ]
+          },
+          "68719476742": {
+            "players": [
+              {
+                "color": 3,
+                "address": "0x4d5c9afcb508fa0e755a7f5bca71fc8518e51cde"
+              }
+            ]
+          },
+          "68719476741": {
+            "players": [
+              {
+                "color": 3,
+                "address": "0x4d5c9afcb508fa0e755a7f5bca71fc8518e51cde"
+              }
+            ]
+          },
+          "68719476740": {
+            "players": [
+              {
+                "color": 3,
+                "address": "0x4d5c9afcb508fa0e755a7f5bca71fc8518e51cde"
+              }
+            ]
+          },
+          "68719476739": {
+            "players": [
+              {
+                "color": 3,
+                "address": "0x4d5c9afcb508fa0e755a7f5bca71fc8518e51cde"
+              }
+            ]
+          },
+          "68719476738": {
+            "players": [
+              {
+                "color": 3,
+                "address": "0x4d5c9afcb508fa0e755a7f5bca71fc8518e51cde"
+              }
+            ]
+          },
+          "73014444034": {
+            "players": [
+              {
+                "color": 3,
+                "address": "0x4d5c9afcb508fa0e755a7f5bca71fc8518e51cde"
+              }
+            ]
+          },
+          "64424509446": {
+            "players": [
+              {
+                "color": 3,
+                "address": "0x4d5c9afcb508fa0e755a7f5bca71fc8518e51cde"
+              }
+            ]
+          },
+          "60129542150": {
+            "players": [
+              {
+                "color": 3,
+                "address": "0x4d5c9afcb508fa0e755a7f5bca71fc8518e51cde"
+              }
+            ]
+          },
+          "55834574854": {
+            "players": [
+              {
+                "color": 3,
+                "address": "0x4d5c9afcb508fa0e755a7f5bca71fc8518e51cde"
+              }
+            ]
+          },
+          "60129542153": {
+            "players": [
+              {
+                "color": 3,
+                "address": "0x4d5c9afcb508fa0e755a7f5bca71fc8518e51cde"
+              }
+            ]
+          },
+          "60129542140": {
+            "players": [
+              {
+                "color": 1,
+                "address": "0x6baff8a3449cc2e196f4b873f49e03e09345b1e1"
+              }
+            ]
+          },
+          "64424509436": {
+            "players": [
+              {
+                "color": 1,
+                "address": "0x6baff8a3449cc2e196f4b873f49e03e09345b1e1"
+              }
+            ]
+          },
+          "68719476732": {
+            "players": [
+              {
+                "color": 1,
+                "address": "0x6baff8a3449cc2e196f4b873f49e03e09345b1e1"
+              }
+            ]
+          },
+          "73014444028": {
+            "players": [
+              {
+                "color": 1,
+                "address": "0x6baff8a3449cc2e196f4b873f49e03e09345b1e1"
+              }
+            ]
+          },
+          "73014444027": {
+            "players": [
+              {
+                "color": 1,
+                "address": "0x6baff8a3449cc2e196f4b873f49e03e09345b1e1"
+              }
+            ]
+          },
+          "73014444026": {
+            "players": [
+              {
+                "color": 1,
+                "address": "0x6baff8a3449cc2e196f4b873f49e03e09345b1e1"
+              }
+            ]
+          },
+          "73014444025": {
+            "players": [
+              {
+                "color": 1,
+                "address": "0x6baff8a3449cc2e196f4b873f49e03e09345b1e1"
+              }
+            ]
+          },
+          "77309411321": {
+            "players": [
+              {
+                "color": 1,
+                "address": "0x6baff8a3449cc2e196f4b873f49e03e09345b1e1"
+              }
+            ]
+          },
+          "81604378617": {
+            "players": [
+              {
+                "color": 1,
+                "address": "0x6baff8a3449cc2e196f4b873f49e03e09345b1e1"
+              }
+            ]
+          },
+          "81604378618": {
+            "players": [
+              {
+                "color": 1,
+                "address": "0x6baff8a3449cc2e196f4b873f49e03e09345b1e1"
+              }
+            ]
+          },
+          "85899345914": {
+            "players": [
+              {
+                "color": 1,
+                "address": "0x6baff8a3449cc2e196f4b873f49e03e09345b1e1"
+              }
+            ]
+          },
+          "90194313210": {
+            "players": [
+              {
+                "color": 1,
+                "address": "0x6baff8a3449cc2e196f4b873f49e03e09345b1e1"
+              }
+            ]
+          },
+          "90194313211": {
+            "players": [
+              {
+                "color": 1,
+                "address": "0x6baff8a3449cc2e196f4b873f49e03e09345b1e1"
+              }
+            ]
+          },
+          "30064771059": {
+            "players": [
+              {
+                "color": 1,
+                "address": "0x6baff8a3449cc2e196f4b873f49e03e09345b1e1"
+              }
+            ]
+          },
+          "34359738355": {
+            "players": [
+              {
+                "color": 1,
+                "address": "0x6baff8a3449cc2e196f4b873f49e03e09345b1e1"
+              }
+            ]
+          },
+          "47244640243": {
+            "players": [
+              {
+                "color": 1,
+                "address": "0x6baff8a3449cc2e196f4b873f49e03e09345b1e1"
+              }
+            ]
+          },
+          "51539607539": {
+            "players": [
+              {
+                "color": 1,
+                "address": "0x6baff8a3449cc2e196f4b873f49e03e09345b1e1"
+              }
+            ]
+          }
+        }
+      },
       {
         "epoch": 19819,
         "cells": {
@@ -10557,343 +11709,18 @@
             ]
           }
         }
-      },
-      {
-        "epoch": 19813,
-        "cells": {
-          "4294967290": {
-            "players": [
-              {
-                "color": 2,
-                "address": "0x9d35ce15c448b5a4f8afc170214f3031878396a3"
-              }
-            ]
-          },
-          "18446744073709551610": {
-            "players": [
-              {
-                "color": 2,
-                "address": "0x9d35ce15c448b5a4f8afc170214f3031878396a3"
-              }
-            ]
-          },
-          "18446744052234715138": {
-            "players": [
-              {
-                "color": 1,
-                "address": "0xc6a4fce15bd4c14f8d6ecf3ad4e20e39021897e8"
-              }
-            ]
-          },
-          "18446744052234715137": {
-            "players": [
-              {
-                "color": 1,
-                "address": "0xc6a4fce15bd4c14f8d6ecf3ad4e20e39021897e8"
-              }
-            ]
-          },
-          "18446744056529682434": {
-            "players": [
-              {
-                "color": 1,
-                "address": "0xc6a4fce15bd4c14f8d6ecf3ad4e20e39021897e8"
-              }
-            ]
-          },
-          "18446744056529682433": {
-            "players": [
-              {
-                "color": 1,
-                "address": "0xc6a4fce15bd4c14f8d6ecf3ad4e20e39021897e8"
-              }
-            ]
-          },
-          "18446744056529682432": {
-            "players": [
-              {
-                "color": 1,
-                "address": "0xc6a4fce15bd4c14f8d6ecf3ad4e20e39021897e8"
-              }
-            ]
-          },
-          "18446744052234715136": {
-            "players": [
-              {
-                "color": 1,
-                "address": "0xc6a4fce15bd4c14f8d6ecf3ad4e20e39021897e8"
-              }
-            ]
-          },
-          "18446744060824649730": {
-            "players": [
-              {
-                "color": 1,
-                "address": "0xc6a4fce15bd4c14f8d6ecf3ad4e20e39021897e8"
-              }
-            ]
-          },
-          "18446744060824649729": {
-            "players": [
-              {
-                "color": 1,
-                "address": "0xc6a4fce15bd4c14f8d6ecf3ad4e20e39021897e8"
-              }
-            ]
-          },
-          "18446744060824649728": {
-            "players": [
-              {
-                "color": 1,
-                "address": "0xc6a4fce15bd4c14f8d6ecf3ad4e20e39021897e8"
-              }
-            ]
-          },
-          "55834574848": {
-            "players": [
-              {
-                "color": 2,
-                "address": "0xb006c644258e01b437eff06e16e56e938a239712"
-              }
-            ]
-          },
-          "64424509440": {
-            "players": [
-              {
-                "color": 2,
-                "address": "0xb006c644258e01b437eff06e16e56e938a239712"
-              }
-            ]
-          },
-          "77309411326": {
-            "players": [
-              {
-                "color": 2,
-                "address": "0xb006c644258e01b437eff06e16e56e938a239712"
-              },
-              {
-                "color": 1,
-                "address": "0x6baff8a3449cc2e196f4b873f49e03e09345b1e1"
-              }
-            ]
-          },
-          "77309411327": {
-            "players": [
-              {
-                "color": 2,
-                "address": "0xb006c644258e01b437eff06e16e56e938a239712"
-              },
-              {
-                "color": 1,
-                "address": "0x6baff8a3449cc2e196f4b873f49e03e09345b1e1"
-              }
-            ]
-          },
-          "30064771086": {
-            "players": [
-              {
-                "color": 2,
-                "address": "0xc6ccd3c2d63bc8de8fcf43ede80d135666b7acee"
-              }
-            ]
-          },
-          "38654705676": {
-            "players": [
-              {
-                "color": 2,
-                "address": "0xc6ccd3c2d63bc8de8fcf43ede80d135666b7acee"
-              }
-            ]
-          },
-          "18446744004990074862": {
-            "players": [
-              {
-                "color": 0,
-                "address": "0x143f8cfb7e91b7836d90a06fe0e2cf8728d61fb0"
-              }
-            ]
-          },
-          "18446744000695107566": {
-            "players": [
-              {
-                "color": 0,
-                "address": "0x143f8cfb7e91b7836d90a06fe0e2cf8728d61fb0"
-              }
-            ]
-          },
-          "18446744009285042154": {
-            "players": [
-              {
-                "color": 0,
-                "address": "0x143f8cfb7e91b7836d90a06fe0e2cf8728d61fb0"
-              }
-            ]
-          },
-          "18446744000695107562": {
-            "players": [
-              {
-                "color": 0,
-                "address": "0x143f8cfb7e91b7836d90a06fe0e2cf8728d61fb0"
-              }
-            ]
-          },
-          "18446744004990074858": {
-            "players": [
-              {
-                "color": 0,
-                "address": "0x143f8cfb7e91b7836d90a06fe0e2cf8728d61fb0"
-              }
-            ]
-          },
-          "18446744009285042158": {
-            "players": [
-              {
-                "color": 0,
-                "address": "0x143f8cfb7e91b7836d90a06fe0e2cf8728d61fb0"
-              }
-            ]
-          },
-          "18446744013580009451": {
-            "players": [
-              {
-                "color": 0,
-                "address": "0x143f8cfb7e91b7836d90a06fe0e2cf8728d61fb0"
-              }
-            ]
-          },
-          "18446744013580009452": {
-            "players": [
-              {
-                "color": 0,
-                "address": "0x143f8cfb7e91b7836d90a06fe0e2cf8728d61fb0"
-              }
-            ]
-          },
-          "18446744013580009453": {
-            "players": [
-              {
-                "color": 0,
-                "address": "0x143f8cfb7e91b7836d90a06fe0e2cf8728d61fb0"
-              }
-            ]
-          },
-          "42949672945": {
-            "players": [
-              {
-                "color": 0,
-                "address": "0x143f8cfb7e91b7836d90a06fe0e2cf8728d61fb0"
-              }
-            ]
-          },
-          "94489280516": {
-            "players": [
-              {
-                "color": 2,
-                "address": "0xf8b109af18cfa614bef1c2899e522d77b3c64c14"
-              }
-            ]
-          },
-          "94489280517": {
-            "players": [
-              {
-                "color": 2,
-                "address": "0xf8b109af18cfa614bef1c2899e522d77b3c64c14"
-              }
-            ]
-          },
-          "94489280518": {
-            "players": [
-              {
-                "color": 0,
-                "address": "0xf8b109af18cfa614bef1c2899e522d77b3c64c14"
-              }
-            ]
-          },
-          "68719476743": {
-            "players": [
-              {
-                "color": 2,
-                "address": "0xf8b109af18cfa614bef1c2899e522d77b3c64c14"
-              }
-            ]
-          },
-          "64424509447": {
-            "players": [
-              {
-                "color": 2,
-                "address": "0xf8b109af18cfa614bef1c2899e522d77b3c64c14"
-              }
-            ]
-          },
-          "81604378623": {
-            "players": [
-              {
-                "color": 1,
-                "address": "0x6baff8a3449cc2e196f4b873f49e03e09345b1e1"
-              }
-            ]
-          },
-          "85899345919": {
-            "players": [
-              {
-                "color": 1,
-                "address": "0x6baff8a3449cc2e196f4b873f49e03e09345b1e1"
-              }
-            ]
-          },
-          "90194313215": {
-            "players": [
-              {
-                "color": 1,
-                "address": "0x6baff8a3449cc2e196f4b873f49e03e09345b1e1"
-              }
-            ]
-          },
-          "94489280511": {
-            "players": [
-              {
-                "color": 1,
-                "address": "0x6baff8a3449cc2e196f4b873f49e03e09345b1e1"
-              }
-            ]
-          },
-          "94489280510": {
-            "players": [
-              {
-                "color": 1,
-                "address": "0x6baff8a3449cc2e196f4b873f49e03e09345b1e1"
-              }
-            ]
-          },
-          "94489280509": {
-            "players": [
-              {
-                "color": 1,
-                "address": "0x6baff8a3449cc2e196f4b873f49e03e09345b1e1"
-              }
-            ]
-          },
-          "18446744026464911354": {
-            "players": [
-              {
-                "color": 1,
-                "address": "0xe2682e3484f545f43cbbbd1188ef1bfcfc7c749e"
-              }
-            ]
-          }
-        }
       }
     ],
     "points": {
       "global": {
-        "lastUpdateTime": 1712271649,
+        "lastUpdateTime": 1712358045,
         "totalRewardPerPointAtLastUpdate": "0n",
-        "totalPoints": "394000000000000000000n"
+        "totalPoints": "443000000000000000000n"
       },
       "fixed": {
         "0xFFfFfFffFFfffFFfFFfFFFFFffFFFffffFfFFFfF": {
-          "toWithdraw": "557515000000000000n",
-          "lastTime": 1712271643
+          "toWithdraw": "567881560000000000n",
+          "lastTime": 1712358031
         },
         "0x5371d2E73edf765752121426b842063fbd84f713": {
           "toWithdraw": "0n",
@@ -10908,44 +11735,44 @@
           "lastTime": 1711062079
         },
         "0xD1edDfcc4596CC8bD0bd7495beaB9B979fc50336": {
-          "toWithdraw": "191735720000000000n",
-          "lastTime": 1712271635
+          "toWithdraw": "202968600000000000n",
+          "lastTime": 1712358041
         },
         "0xa1D50E107110b293AC0CE32d648A6Bf5AC3f3612": {
           "toWithdraw": "114852000000000000n",
           "lastTime": 1712185231
         },
         "0x2981000A489dD625479Bf612A29910F7De8556B4": {
-          "toWithdraw": "256399920000000000n",
-          "lastTime": 1712271639
+          "toWithdraw": "294414880000000000n",
+          "lastTime": 1712358037
         },
         "0x202869f3c82B65d367c58aD3875C6b51Fd0648a8": {
           "toWithdraw": "0n",
           "lastTime": 1711063725
         },
         "0x143f8cFB7e91b7836D90A06Fe0e2cF8728D61FB0": {
-          "toWithdraw": "245821100000000000n",
-          "lastTime": 1712271649
+          "toWithdraw": "252737380000000000n",
+          "lastTime": 1712358045
         },
         "0xa62D214750455C043C25DEA89FECc8724f61e45b": {
           "toWithdraw": "307246400000000000n",
           "lastTime": 1712271647
         },
         "0x9d35cE15c448B5a4f8afC170214F3031878396A3": {
-          "toWithdraw": "196096280000000000n",
-          "lastTime": 1712185217
+          "toWithdraw": "263489600000000000n",
+          "lastTime": 1712358021
         },
         "0xAcDb105133b8598A308995FD1EeBAaB155f1a3bf": {
           "toWithdraw": "218598280000000000n",
           "lastTime": 1712271649
         },
         "0xC6cCd3c2d63bc8De8fcF43EdE80D135666b7aceE": {
-          "toWithdraw": "201314720000000000n",
-          "lastTime": 1712271625
+          "toWithdraw": "226370720000000000n",
+          "lastTime": 1712358025
         },
         "0xF8b109aF18cfA614Bef1C2899e522d77b3C64c14": {
-          "toWithdraw": "220324340000000000n",
-          "lastTime": 1712271635
+          "toWithdraw": "253159220000000000n",
+          "lastTime": 1712358041
         },
         "0xFE35e15bE885750D9b2363cbB6aBDd57AC9C4c40": {
           "toWithdraw": "14679600000000000n",
@@ -10956,16 +11783,16 @@
           "lastTime": 1711408569
         },
         "0x6bAFF8A3449cc2E196F4b873f49e03E09345B1E1": {
-          "toWithdraw": "69114340000000000n",
-          "lastTime": 1712271629
+          "toWithdraw": "79484260000000000n",
+          "lastTime": 1712358045
         },
         "0x9dab5A6393eEf78eB36cd84bB9Bbb055189429A5": {
-          "toWithdraw": "152828400000000000n",
-          "lastTime": 1712271649
+          "toWithdraw": "168377880000000000n",
+          "lastTime": 1712358037
         },
         "0xB006c644258e01b437eFF06e16E56e938a239712": {
-          "toWithdraw": "130457980000000000n",
-          "lastTime": 1712271619
+          "toWithdraw": "147746060000000000n",
+          "lastTime": 1712358045
         },
         "0x603E4BA9Bc76103051eCA273Cb57641F16Ff743b": {
           "toWithdraw": "0n",
@@ -10988,13 +11815,13 @@
           "lastTime": 1712098845
         },
         "0x4d5c9afcb508fA0e755a7F5BcA71Fc8518e51CdE": {
-          "toWithdraw": "0n",
-          "lastTime": 1712098871
+          "toWithdraw": "64792500000000000n",
+          "lastTime": 1712358041
         }
       },
       "shared": {
         "0xFFfFfFffFFfffFFfFFfFFFFFffFFFffffFfFFFfF": {
-          "points": "12000000000000000000n",
+          "points": "11000000000000000000n",
           "totalRewardPerPointAccounted": "0n",
           "rewardsToWithdraw": "0n"
         },
@@ -11014,7 +11841,7 @@
           "rewardsToWithdraw": "0n"
         },
         "0xD1edDfcc4596CC8bD0bd7495beaB9B979fc50336": {
-          "points": "13000000000000000000n",
+          "points": "14000000000000000000n",
           "totalRewardPerPointAccounted": "0n",
           "rewardsToWithdraw": "0n"
         },
@@ -11024,7 +11851,7 @@
           "rewardsToWithdraw": "0n"
         },
         "0x2981000A489dD625479Bf612A29910F7De8556B4": {
-          "points": "44000000000000000000n",
+          "points": "37000000000000000000n",
           "totalRewardPerPointAccounted": "0n",
           "rewardsToWithdraw": "0n"
         },
@@ -11034,7 +11861,7 @@
           "rewardsToWithdraw": "0n"
         },
         "0x143f8cFB7e91b7836D90A06Fe0e2cF8728D61FB0": {
-          "points": "8000000000000000000n",
+          "points": "30000000000000000000n",
           "totalRewardPerPointAccounted": "0n",
           "rewardsToWithdraw": "0n"
         },
@@ -11044,7 +11871,7 @@
           "rewardsToWithdraw": "0n"
         },
         "0x9d35cE15c448B5a4f8afC170214F3031878396A3": {
-          "points": "39000000000000000000n",
+          "points": "33000000000000000000n",
           "totalRewardPerPointAccounted": "0n",
           "rewardsToWithdraw": "0n"
         },
@@ -11054,12 +11881,12 @@
           "rewardsToWithdraw": "0n"
         },
         "0xC6cCd3c2d63bc8De8fcF43EdE80D135666b7aceE": {
-          "points": "29000000000000000000n",
+          "points": "26000000000000000000n",
           "totalRewardPerPointAccounted": "0n",
           "rewardsToWithdraw": "0n"
         },
         "0xF8b109aF18cfA614Bef1C2899e522d77b3C64c14": {
-          "points": "38000000000000000000n",
+          "points": "43000000000000000000n",
           "totalRewardPerPointAccounted": "0n",
           "rewardsToWithdraw": "0n"
         },
@@ -11074,17 +11901,17 @@
           "rewardsToWithdraw": "0n"
         },
         "0x6bAFF8A3449cc2E196F4b873f49e03E09345B1E1": {
-          "points": "12000000000000000000n",
+          "points": "27000000000000000000n",
           "totalRewardPerPointAccounted": "0n",
           "rewardsToWithdraw": "0n"
         },
         "0x9dab5A6393eEf78eB36cd84bB9Bbb055189429A5": {
-          "points": "18000000000000000000n",
+          "points": "27000000000000000000n",
           "totalRewardPerPointAccounted": "0n",
           "rewardsToWithdraw": "0n"
         },
         "0xB006c644258e01b437eFF06e16E56e938a239712": {
-          "points": "20000000000000000000n",
+          "points": "27000000000000000000n",
           "totalRewardPerPointAccounted": "0n",
           "rewardsToWithdraw": "0n"
         },
@@ -11114,7 +11941,7 @@
           "rewardsToWithdraw": "0n"
         },
         "0x4d5c9afcb508fA0e755a7F5BcA71Fc8518e51CdE": {
-          "points": "25000000000000000000n",
+          "points": "32000000000000000000n",
           "totalRewardPerPointAccounted": "0n",
           "rewardsToWithdraw": "0n"
         }
