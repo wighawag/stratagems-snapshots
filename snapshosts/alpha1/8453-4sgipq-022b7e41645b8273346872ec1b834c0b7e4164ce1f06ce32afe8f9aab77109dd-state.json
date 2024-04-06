@@ -11,9 +11,9 @@
       "config": "10lkzm2",
       "processor": "022b7e41645b8273346872ec1b834c0b7e4164ce1f06ce32afe8f9aab77109dd-not-configured"
     },
-    "lastFromBlock": 12802671,
-    "latestBlock": 12804449,
-    "lastToBlock": 12804449,
+    "lastFromBlock": 12804482,
+    "latestBlock": 12806166,
+    "lastToBlock": 12806166,
     "unconfirmedBlocks": []
   },
   "state": {
@@ -228,13 +228,13 @@
         "producingEpochs": 12
       },
       "47244640256": {
-        "lastEpochUpdate": 19814,
+        "lastEpochUpdate": 19821,
         "color": 6,
         "delta": -1,
         "enemyMap": 4,
         "epochWhenTokenIsAdded": 19804,
-        "life": 7,
-        "distribution": 0,
+        "life": 0,
+        "distribution": 1,
         "stake": 1,
         "producingEpochs": 10
       },
@@ -4232,7 +4232,7 @@
         "producingEpochs": 6
       },
       "55834574848": {
-        "lastEpochUpdate": 19818,
+        "lastEpochUpdate": 19821,
         "color": 2,
         "delta": 1,
         "enemyMap": 0,
@@ -4240,7 +4240,7 @@
         "life": 7,
         "distribution": 0,
         "stake": 1,
-        "producingEpochs": 5
+        "producingEpochs": 8
       },
       "64424509440": {
         "lastEpochUpdate": 0,
@@ -4661,18 +4661,18 @@
         "producingEpochs": 0
       },
       "51539607552": {
-        "lastEpochUpdate": 19814,
+        "lastEpochUpdate": 19821,
         "color": 2,
         "delta": 1,
         "enemyMap": 1,
         "epochWhenTokenIsAdded": 19814,
-        "life": 2,
+        "life": 7,
         "distribution": 0,
         "stake": 1,
-        "producingEpochs": 0
+        "producingEpochs": 7
       },
       "55834574847": {
-        "lastEpochUpdate": 19819,
+        "lastEpochUpdate": 19821,
         "color": 2,
         "delta": 1,
         "enemyMap": 0,
@@ -4680,7 +4680,7 @@
         "life": 7,
         "distribution": 0,
         "stake": 1,
-        "producingEpochs": 5
+        "producingEpochs": 7
       },
       "68719476732": {
         "lastEpochUpdate": 19820,
@@ -7985,6 +7985,10 @@
       "0x143f8cfb7e91b7836d90a06fe0e2cf8728d61fb0": {
         "epoch": 19821,
         "hash": "0x62b1f12df54602a7542c6e696660ff2c205c086ed93b277e"
+      },
+      "0x24ab6ce22a719e7930ddb81ae30460b850187ece": {
+        "epoch": 19821,
+        "hash": "0x69a009c8410af1b3b473449fd204370391bc9937f7035bab"
       }
     },
     "placements": [
