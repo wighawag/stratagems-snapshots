@@ -11,9 +11,9 @@
       "config": "10lkzm2",
       "processor": "022b7e41645b8273346872ec1b834c0b7e4164ce1f06ce32afe8f9aab77109dd-not-configured"
     },
-    "lastFromBlock": 12869220,
-    "latestBlock": 12871041,
-    "lastToBlock": 12871041,
+    "lastFromBlock": 12871074,
+    "latestBlock": 12873822,
+    "lastToBlock": 12873822,
     "unconfirmedBlocks": []
   },
   "state": {
@@ -2054,15 +2054,15 @@
         "producingEpochs": 0
       },
       "77309411334": {
-        "lastEpochUpdate": 19821,
+        "lastEpochUpdate": 19822,
         "color": 2,
-        "delta": 4,
+        "delta": 3,
         "enemyMap": 0,
         "epochWhenTokenIsAdded": 19812,
         "life": 0,
         "distribution": 0,
         "stake": 1,
-        "producingEpochs": 5
+        "producingEpochs": 6
       },
       "81604378630": {
         "lastEpochUpdate": 19816,
@@ -2637,12 +2637,12 @@
         "producingEpochs": 10
       },
       "73014444035": {
-        "lastEpochUpdate": 19820,
+        "lastEpochUpdate": 19822,
         "color": 2,
-        "delta": 0,
-        "enemyMap": 3,
+        "delta": 2,
+        "enemyMap": 1,
         "epochWhenTokenIsAdded": 19808,
-        "life": 7,
+        "life": 5,
         "distribution": 0,
         "stake": 1,
         "producingEpochs": 11
@@ -2681,15 +2681,15 @@
         "producingEpochs": 5
       },
       "77309411335": {
-        "lastEpochUpdate": 19816,
-        "color": 2,
-        "delta": 3,
+        "lastEpochUpdate": 0,
+        "color": 0,
+        "delta": 0,
         "enemyMap": 0,
         "epochWhenTokenIsAdded": 19808,
-        "life": 6,
+        "life": 0,
         "distribution": 0,
-        "stake": 1,
-        "producingEpochs": 6
+        "stake": 0,
+        "producingEpochs": 12
       },
       "81604378631": {
         "lastEpochUpdate": 0,
@@ -2714,15 +2714,15 @@
         "producingEpochs": 4
       },
       "73014444039": {
-        "lastEpochUpdate": 19821,
+        "lastEpochUpdate": 19822,
         "color": 2,
-        "delta": 4,
+        "delta": 3,
         "enemyMap": 0,
         "epochWhenTokenIsAdded": 19808,
         "life": 7,
         "distribution": 0,
         "stake": 1,
-        "producingEpochs": 13
+        "producingEpochs": 14
       },
       "18446744073709551611": {
         "lastEpochUpdate": 19820,
@@ -2813,26 +2813,26 @@
         "producingEpochs": 3
       },
       "73014444034": {
-        "lastEpochUpdate": 19820,
-        "color": 3,
-        "delta": -1,
-        "enemyMap": 12,
-        "epochWhenTokenIsAdded": 19820,
+        "lastEpochUpdate": 19822,
+        "color": 2,
+        "delta": 1,
+        "enemyMap": 1,
+        "epochWhenTokenIsAdded": 19822,
         "life": 2,
         "distribution": 0,
         "stake": 1,
         "producingEpochs": 0
       },
       "77309411330": {
-        "lastEpochUpdate": 19820,
+        "lastEpochUpdate": 19822,
         "color": 2,
-        "delta": 1,
-        "enemyMap": 1,
+        "delta": 3,
+        "enemyMap": 0,
         "epochWhenTokenIsAdded": 19809,
         "life": 7,
         "distribution": 0,
         "stake": 1,
-        "producingEpochs": 11
+        "producingEpochs": 13
       },
       "81604378626": {
         "lastEpochUpdate": 19821,
@@ -2846,26 +2846,26 @@
         "producingEpochs": 12
       },
       "85899345922": {
-        "lastEpochUpdate": 19821,
+        "lastEpochUpdate": 19822,
         "color": 2,
-        "delta": 3,
+        "delta": 2,
         "enemyMap": 0,
         "epochWhenTokenIsAdded": 19809,
         "life": 7,
         "distribution": 0,
         "stake": 1,
-        "producingEpochs": 12
+        "producingEpochs": 13
       },
       "90194313218": {
-        "lastEpochUpdate": 19821,
-        "color": 2,
-        "delta": 1,
+        "lastEpochUpdate": 0,
+        "color": 0,
+        "delta": 0,
         "enemyMap": 0,
         "epochWhenTokenIsAdded": 19809,
-        "life": 7,
+        "life": 0,
         "distribution": 0,
-        "stake": 1,
-        "producingEpochs": 12
+        "stake": 0,
+        "producingEpochs": 13
       },
       "90194313223": {
         "lastEpochUpdate": 0,
@@ -3088,15 +3088,15 @@
         "producingEpochs": 4
       },
       "77309411336": {
-        "lastEpochUpdate": 19818,
+        "lastEpochUpdate": 19822,
         "color": 2,
-        "delta": 2,
+        "delta": 1,
         "enemyMap": 8,
         "epochWhenTokenIsAdded": 19812,
         "life": 0,
         "distribution": 2,
         "stake": 1,
-        "producingEpochs": 0
+        "producingEpochs": 4
       },
       "18446744035054845973": {
         "lastEpochUpdate": 0,
@@ -4848,15 +4848,15 @@
         "producingEpochs": 0
       },
       "55834574855": {
-        "lastEpochUpdate": 19820,
+        "lastEpochUpdate": 19822,
         "color": 2,
-        "delta": 2,
-        "enemyMap": 2,
+        "delta": 4,
+        "enemyMap": 0,
         "epochWhenTokenIsAdded": 19819,
-        "life": 3,
+        "life": 5,
         "distribution": 0,
         "stake": 1,
-        "producingEpochs": 1
+        "producingEpochs": 3
       },
       "18446744035054845925": {
         "lastEpochUpdate": 0,
@@ -5376,15 +5376,15 @@
         "producingEpochs": 0
       },
       "51539607558": {
-        "lastEpochUpdate": 19820,
+        "lastEpochUpdate": 19822,
         "color": 2,
-        "delta": 1,
-        "enemyMap": 4,
+        "delta": 3,
+        "enemyMap": 0,
         "epochWhenTokenIsAdded": 19816,
-        "life": 6,
+        "life": 7,
         "distribution": 0,
         "stake": 1,
-        "producingEpochs": 4
+        "producingEpochs": 6
       },
       "51539607559": {
         "lastEpochUpdate": 19819,
@@ -7158,15 +7158,15 @@
         "producingEpochs": 1
       },
       "68719476738": {
-        "lastEpochUpdate": 19820,
+        "lastEpochUpdate": 19822,
         "color": 3,
-        "delta": 2,
-        "enemyMap": 0,
+        "delta": 0,
+        "enemyMap": 4,
         "epochWhenTokenIsAdded": 19820,
-        "life": 2,
+        "life": 4,
         "distribution": 0,
         "stake": 1,
-        "producingEpochs": 0
+        "producingEpochs": 2
       },
       "64424509446": {
         "lastEpochUpdate": 19820,
@@ -7180,22 +7180,22 @@
         "producingEpochs": 0
       },
       "60129542150": {
-        "lastEpochUpdate": 19820,
-        "color": 3,
-        "delta": 1,
-        "enemyMap": 8,
-        "epochWhenTokenIsAdded": 19820,
-        "life": 2,
-        "distribution": 0,
-        "stake": 1,
-        "producingEpochs": 0
-      },
-      "55834574854": {
-        "lastEpochUpdate": 19820,
+        "lastEpochUpdate": 19822,
         "color": 3,
         "delta": -1,
         "enemyMap": 9,
         "epochWhenTokenIsAdded": 19820,
+        "life": 4,
+        "distribution": 0,
+        "stake": 1,
+        "producingEpochs": 2
+      },
+      "55834574854": {
+        "lastEpochUpdate": 19822,
+        "color": 2,
+        "delta": 1,
+        "enemyMap": 4,
+        "epochWhenTokenIsAdded": 19822,
         "life": 2,
         "distribution": 0,
         "stake": 1,
@@ -8182,7 +8182,7 @@
       "73014444038": "0xF8b109aF18cfA614Bef1C2899e522d77b3C64c14",
       "90194313222": "0x0000000000000000000000000000000000000000",
       "94489280518": "0x0000000000000000000000000000000000000000",
-      "77309411335": "0xF8b109aF18cfA614Bef1C2899e522d77b3C64c14",
+      "77309411335": "0x0000000000000000000000000000000000000000",
       "81604378631": "0x0000000000000000000000000000000000000000",
       "81604378632": "0xF8b109aF18cfA614Bef1C2899e522d77b3C64c14",
       "73014444039": "0xF8b109aF18cfA614Bef1C2899e522d77b3C64c14",
@@ -8194,11 +8194,11 @@
       "17179869183": "0xFE35e15bE885750D9b2363cbB6aBDd57AC9C4c40",
       "12884901884": "0xFE35e15bE885750D9b2363cbB6aBDd57AC9C4c40",
       "8589934587": "0xFE35e15bE885750D9b2363cbB6aBDd57AC9C4c40",
-      "73014444034": "0x4d5c9afcb508fA0e755a7F5BcA71Fc8518e51CdE",
+      "73014444034": "0xF8b109aF18cfA614Bef1C2899e522d77b3C64c14",
       "77309411330": "0xF8b109aF18cfA614Bef1C2899e522d77b3C64c14",
       "81604378626": "0xF8b109aF18cfA614Bef1C2899e522d77b3C64c14",
       "85899345922": "0xF8b109aF18cfA614Bef1C2899e522d77b3C64c14",
-      "90194313218": "0xF8b109aF18cfA614Bef1C2899e522d77b3C64c14",
+      "90194313218": "0x0000000000000000000000000000000000000000",
       "90194313223": "0x0000000000000000000000000000000000000000",
       "85899345927": "0xF8b109aF18cfA614Bef1C2899e522d77b3C64c14",
       "77309411310": "0xa62D214750455C043C25DEA89FECc8724f61e45b",
@@ -8592,7 +8592,7 @@
       "68719476738": "0x4d5c9afcb508fA0e755a7F5BcA71Fc8518e51CdE",
       "64424509446": "0x4d5c9afcb508fA0e755a7F5BcA71Fc8518e51CdE",
       "60129542150": "0x4d5c9afcb508fA0e755a7F5BcA71Fc8518e51CdE",
-      "55834574854": "0x4d5c9afcb508fA0e755a7F5BcA71Fc8518e51CdE",
+      "55834574854": "0xF8b109aF18cfA614Bef1C2899e522d77b3C64c14",
       "60129542153": "0x4d5c9afcb508fA0e755a7F5BcA71Fc8518e51CdE",
       "73014444028": "0x6bAFF8A3449cc2E196F4b873f49e03E09345B1E1",
       "73014444027": "0x6bAFF8A3449cc2E196F4b873f49e03E09345B1E1",
@@ -8661,12 +8661,7 @@
       "18446744043644780535": "0x9dab5A6393eEf78eB36cd84bB9Bbb055189429A5",
       "18446744039349813239": "0x9dab5A6393eEf78eB36cd84bB9Bbb055189429A5"
     },
-    "commitments": {
-      "0xf8b109af18cfa614bef1c2899e522d77b3c64c14": {
-        "epoch": 19822,
-        "hash": "0xf3ecf50e8d47e8205c66bdfb936ad5bcfec5881c6b6fe02f"
-      }
-    },
+    "commitments": {},
     "placements": [
       {
         "epoch": 19822,
@@ -8924,6 +8919,38 @@
               {
                 "color": 1,
                 "address": "0x9dab5a6393eef78eb36cd84bb9bbb055189429a5"
+              }
+            ]
+          },
+          "73014444034": {
+            "players": [
+              {
+                "color": 2,
+                "address": "0xf8b109af18cfa614bef1c2899e522d77b3c64c14"
+              }
+            ]
+          },
+          "90194313218": {
+            "players": [
+              {
+                "color": 0,
+                "address": "0xf8b109af18cfa614bef1c2899e522d77b3c64c14"
+              }
+            ]
+          },
+          "77309411335": {
+            "players": [
+              {
+                "color": 0,
+                "address": "0xf8b109af18cfa614bef1c2899e522d77b3c64c14"
+              }
+            ]
+          },
+          "55834574854": {
+            "players": [
+              {
+                "color": 2,
+                "address": "0xf8b109af18cfa614bef1c2899e522d77b3c64c14"
               }
             ]
           }
@@ -12462,9 +12489,9 @@
     ],
     "points": {
       "global": {
-        "lastUpdateTime": 1712530889,
+        "lastUpdateTime": 1712531851,
         "totalRewardPerPointAtLastUpdate": "0n",
-        "totalPoints": "434000000000000000000n"
+        "totalPoints": "433000000000000000000n"
       },
       "fixed": {
         "0xFFfFfFffFFfffFFfFFfFFFFFffFFFffffFfFFFfF": {
@@ -12520,8 +12547,8 @@
           "lastTime": 1712530879
         },
         "0xF8b109aF18cfA614Bef1C2899e522d77b3C64c14": {
-          "toWithdraw": "331800040000000000n",
-          "lastTime": 1712530875
+          "toWithdraw": "332249000000000000n",
+          "lastTime": 1712531851
         },
         "0xFE35e15bE885750D9b2363cbB6aBDd57AC9C4c40": {
           "toWithdraw": "14679600000000000n",
@@ -12564,8 +12591,8 @@
           "lastTime": 1712098845
         },
         "0x4d5c9afcb508fA0e755a7F5BcA71Fc8518e51CdE": {
-          "toWithdraw": "92437300000000000n",
-          "lastTime": 1712444431
+          "toWithdraw": "117789100000000000n",
+          "lastTime": 1712531851
         },
         "0x24AB6cE22A719e7930ddb81Ae30460b850187eCe": {
           "toWithdraw": "0n",
@@ -12639,7 +12666,7 @@
           "rewardsToWithdraw": "0n"
         },
         "0xF8b109aF18cfA614Bef1C2899e522d77b3C64c14": {
-          "points": "46000000000000000000n",
+          "points": "47000000000000000000n",
           "totalRewardPerPointAccounted": "0n",
           "rewardsToWithdraw": "0n"
         },
@@ -12694,7 +12721,7 @@
           "rewardsToWithdraw": "0n"
         },
         "0x4d5c9afcb508fA0e755a7F5BcA71Fc8518e51CdE": {
-          "points": "29000000000000000000n",
+          "points": "27000000000000000000n",
           "totalRewardPerPointAccounted": "0n",
           "rewardsToWithdraw": "0n"
         },
