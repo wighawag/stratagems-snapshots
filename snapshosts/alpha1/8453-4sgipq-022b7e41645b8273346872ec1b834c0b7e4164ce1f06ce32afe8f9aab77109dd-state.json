@@ -11,9 +11,9 @@
       "config": "10lkzm2",
       "processor": "022b7e41645b8273346872ec1b834c0b7e4164ce1f06ce32afe8f9aab77109dd-not-configured"
     },
-    "lastFromBlock": 12912504,
-    "latestBlock": 12914250,
-    "lastToBlock": 12914250,
+    "lastFromBlock": 12914283,
+    "latestBlock": 12916991,
+    "lastToBlock": 12916991,
     "unconfirmedBlocks": []
   },
   "state": {
@@ -1152,7 +1152,7 @@
         "producingEpochs": 0
       },
       "502511173447": {
-        "lastEpochUpdate": 19821,
+        "lastEpochUpdate": 19823,
         "color": 2,
         "delta": -2,
         "enemyMap": 11,
@@ -1174,18 +1174,18 @@
         "producingEpochs": 1
       },
       "502511173448": {
-        "lastEpochUpdate": 19821,
+        "lastEpochUpdate": 19823,
         "color": 4,
         "delta": 0,
         "enemyMap": 6,
-        "epochWhenTokenIsAdded": 19821,
+        "epochWhenTokenIsAdded": 19823,
         "life": 2,
         "distribution": 0,
         "stake": 1,
         "producingEpochs": 0
       },
       "506806140744": {
-        "lastEpochUpdate": 19821,
+        "lastEpochUpdate": 19823,
         "color": 2,
         "delta": -2,
         "enemyMap": 13,
@@ -2208,7 +2208,7 @@
         "producingEpochs": 13
       },
       "498216206152": {
-        "lastEpochUpdate": 19821,
+        "lastEpochUpdate": 19823,
         "color": 4,
         "delta": 3,
         "enemyMap": 0,
@@ -2216,7 +2216,7 @@
         "life": 7,
         "distribution": 0,
         "stake": 1,
-        "producingEpochs": 15
+        "producingEpochs": 17
       },
       "498216206153": {
         "lastEpochUpdate": 19810,
@@ -2230,7 +2230,7 @@
         "producingEpochs": 4
       },
       "502511173449": {
-        "lastEpochUpdate": 19821,
+        "lastEpochUpdate": 19823,
         "color": 4,
         "delta": 3,
         "enemyMap": 0,
@@ -2238,7 +2238,7 @@
         "life": 7,
         "distribution": 0,
         "stake": 1,
-        "producingEpochs": 15
+        "producingEpochs": 17
       },
       "506806140745": {
         "lastEpochUpdate": 19819,
@@ -6883,15 +6883,15 @@
         "producingEpochs": 3
       },
       "519691042635": {
-        "lastEpochUpdate": 19820,
+        "lastEpochUpdate": 19823,
         "color": 2,
-        "delta": 2,
-        "enemyMap": 0,
+        "delta": 1,
+        "enemyMap": 8,
         "epochWhenTokenIsAdded": 19820,
-        "life": 2,
+        "life": 5,
         "distribution": 0,
         "stake": 1,
-        "producingEpochs": 0
+        "producingEpochs": 3
       },
       "523986009930": {
         "lastEpochUpdate": 19821,
@@ -7785,15 +7785,15 @@
         "producingEpochs": 0
       },
       "515396075340": {
-        "lastEpochUpdate": 19821,
+        "lastEpochUpdate": 19823,
         "color": 4,
-        "delta": 1,
+        "delta": 2,
         "enemyMap": 2,
         "epochWhenTokenIsAdded": 19821,
-        "life": 2,
+        "life": 4,
         "distribution": 0,
         "stake": 1,
-        "producingEpochs": 0
+        "producingEpochs": 2
       },
       "515396075341": {
         "lastEpochUpdate": 19821,
@@ -8097,6 +8097,17 @@
         "color": 2,
         "delta": 1,
         "enemyMap": 0,
+        "epochWhenTokenIsAdded": 19823,
+        "life": 2,
+        "distribution": 0,
+        "stake": 1,
+        "producingEpochs": 0
+      },
+      "519691042636": {
+        "lastEpochUpdate": 19823,
+        "color": 4,
+        "delta": 0,
+        "enemyMap": 2,
         "epochWhenTokenIsAdded": 19823,
         "life": 2,
         "distribution": 0,
@@ -8839,12 +8850,13 @@
       "485331304264": "0x143f8cFB7e91b7836D90A06Fe0e2cF8728D61FB0",
       "498216206143": "0x143f8cFB7e91b7836D90A06Fe0e2cF8728D61FB0",
       "502511173439": "0x143f8cFB7e91b7836D90A06Fe0e2cF8728D61FB0",
-      "502511173438": "0x143f8cFB7e91b7836D90A06Fe0e2cF8728D61FB0"
+      "502511173438": "0x143f8cFB7e91b7836D90A06Fe0e2cF8728D61FB0",
+      "519691042636": "0xAcDb105133b8598A308995FD1EeBAaB155f1a3bf"
     },
     "commitments": {
-      "0xacdb105133b8598a308995fd1eebaab155f1a3bf": {
-        "epoch": 19823,
-        "hash": "0x829bf5b588fc445a4c9dfe8efc35a49b26eda755fb43fd1a"
+      "0xd1eddfcc4596cc8bd0bd7495beab9b979fc50336": {
+        "epoch": 19824,
+        "hash": "0xc530cafff48e2f38647277758f2dd0e8bd848bbeb83acef6"
       }
     },
     "placements": [
@@ -9048,6 +9060,22 @@
               {
                 "color": 2,
                 "address": "0x143f8cfb7e91b7836d90a06fe0e2cf8728d61fb0"
+              }
+            ]
+          },
+          "502511173448": {
+            "players": [
+              {
+                "color": 4,
+                "address": "0xacdb105133b8598a308995fd1eebaab155f1a3bf"
+              }
+            ]
+          },
+          "519691042636": {
+            "players": [
+              {
+                "color": 4,
+                "address": "0xacdb105133b8598a308995fd1eebaab155f1a3bf"
               }
             ]
           }
