@@ -11,9 +11,9 @@
       "config": "10lkzm2",
       "processor": "8b3313bcfbef95ebec1f226c09fbc948f38418201150466cbeff2c3082df81d8-not-configured"
     },
-    "lastFromBlock": 14545092,
-    "latestBlock": 14546926,
-    "lastToBlock": 14546926,
+    "lastFromBlock": 14546959,
+    "latestBlock": 14548582,
+    "lastToBlock": 14548582,
     "unconfirmedBlocks": []
   },
   "state": {
@@ -21049,6 +21049,10 @@
       "0x2981000a489dd625479bf612a29910f7de8556b4": {
         "epoch": 19861,
         "hash": "0xf7029bfa8872dac7338e840972fee93b32b9f767ab16b7f8"
+      },
+      "0xb006c644258e01b437eff06e16e56e938a239712": {
+        "epoch": 19861,
+        "hash": "0xc05387f03f861af5785de40b2b5b815b7675f3576aeec20e"
       }
     },
     "placements": [
