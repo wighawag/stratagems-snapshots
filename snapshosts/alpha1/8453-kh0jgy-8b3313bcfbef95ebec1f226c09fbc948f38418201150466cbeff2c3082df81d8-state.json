@@ -11,9 +11,9 @@
       "config": "10lkzm2",
       "processor": "8b3313bcfbef95ebec1f226c09fbc948f38418201150466cbeff2c3082df81d8-not-configured"
     },
-    "lastFromBlock": 16539481,
-    "latestBlock": 16541268,
-    "lastToBlock": 16541268,
+    "lastFromBlock": 16541301,
+    "latestBlock": 16543063,
+    "lastToBlock": 16543063,
     "unconfirmedBlocks": []
   },
   "state": {
@@ -5728,37 +5728,37 @@
         "producingEpochs": 39
       },
       "47244640263": {
-        "lastEpochUpdate": 19897,
+        "lastEpochUpdate": 19907,
         "color": 5,
-        "delta": 2,
-        "enemyMap": 8,
+        "delta": 4,
+        "enemyMap": 0,
         "epochWhenTokenIsAdded": 19861,
         "life": 0,
         "distribution": 0,
         "stake": 1,
-        "producingEpochs": 39
+        "producingEpochs": 49
       },
       "47244640264": {
+        "lastEpochUpdate": 19907,
+        "color": 5,
+        "delta": 0,
+        "enemyMap": 12,
+        "epochWhenTokenIsAdded": 19907,
+        "life": 2,
+        "distribution": 0,
+        "stake": 1,
+        "producingEpochs": 0
+      },
+      "51539607560": {
         "lastEpochUpdate": 19907,
         "color": 3,
         "delta": 0,
         "enemyMap": 3,
-        "epochWhenTokenIsAdded": 19852,
-        "life": 0,
-        "distribution": 2,
-        "stake": 1,
-        "producingEpochs": 48
-      },
-      "51539607560": {
-        "lastEpochUpdate": 19868,
-        "color": 3,
-        "delta": 2,
-        "enemyMap": 2,
         "epochWhenTokenIsAdded": 19855,
         "life": 7,
         "distribution": 0,
         "stake": 1,
-        "producingEpochs": 13
+        "producingEpochs": 52
       },
       "18446743983515238415": {
         "lastEpochUpdate": 0,
@@ -8192,15 +8192,15 @@
         "producingEpochs": 17
       },
       "47244640265": {
-        "lastEpochUpdate": 19864,
+        "lastEpochUpdate": 19907,
         "color": 3,
-        "delta": 2,
-        "enemyMap": 8,
+        "delta": 0,
+        "enemyMap": 10,
         "epochWhenTokenIsAdded": 19852,
         "life": 7,
         "distribution": 0,
         "stake": 1,
-        "producingEpochs": 12
+        "producingEpochs": 55
       },
       "18446744043644780538": {
         "lastEpochUpdate": 19859,
@@ -13263,15 +13263,15 @@
         "producingEpochs": 0
       },
       "25769803786": {
-        "lastEpochUpdate": 19878,
+        "lastEpochUpdate": 19907,
         "color": 3,
-        "delta": 2,
-        "enemyMap": 2,
+        "delta": 0,
+        "enemyMap": 3,
         "epochWhenTokenIsAdded": 19845,
         "life": 7,
         "distribution": 0,
         "stake": 1,
-        "producingEpochs": 30
+        "producingEpochs": 59
       },
       "21474836488": {
         "lastEpochUpdate": 19904,
@@ -13285,37 +13285,37 @@
         "producingEpochs": 66
       },
       "21474836489": {
-        "lastEpochUpdate": 19904,
+        "lastEpochUpdate": 19907,
         "color": 5,
-        "delta": 2,
-        "enemyMap": 8,
+        "delta": 4,
+        "enemyMap": 0,
         "epochWhenTokenIsAdded": 19855,
         "life": 7,
         "distribution": 0,
         "stake": 1,
-        "producingEpochs": 43
+        "producingEpochs": 46
       },
       "21474836490": {
-        "lastEpochUpdate": 19904,
-        "color": 3,
+        "lastEpochUpdate": 19907,
+        "color": 5,
         "delta": 0,
-        "enemyMap": 3,
-        "epochWhenTokenIsAdded": 19858,
-        "life": 0,
-        "distribution": 2,
+        "enemyMap": 12,
+        "epochWhenTokenIsAdded": 19907,
+        "life": 2,
+        "distribution": 0,
         "stake": 1,
-        "producingEpochs": 39
+        "producingEpochs": 0
       },
       "21474836491": {
-        "lastEpochUpdate": 19904,
+        "lastEpochUpdate": 19907,
         "color": 3,
-        "delta": 2,
-        "enemyMap": 8,
+        "delta": 0,
+        "enemyMap": 10,
         "epochWhenTokenIsAdded": 19848,
         "life": 7,
         "distribution": 0,
         "stake": 1,
-        "producingEpochs": 56
+        "producingEpochs": 59
       },
       "21474836492": {
         "lastEpochUpdate": 19904,
@@ -21935,7 +21935,7 @@
       "51539607558": "0x066A2EDcC0b7278A2CF5Bf2a040b4a54a41A9550",
       "51539607559": "0x066A2EDcC0b7278A2CF5Bf2a040b4a54a41A9550",
       "47244640263": "0x066A2EDcC0b7278A2CF5Bf2a040b4a54a41A9550",
-      "47244640264": "0xC6cCd3c2d63bc8De8fcF43EdE80D135666b7aceE",
+      "47244640264": "0x066A2EDcC0b7278A2CF5Bf2a040b4a54a41A9550",
       "51539607560": "0x4d5c9afcb508fA0e755a7F5BcA71Fc8518e51CdE",
       "18446743983515238415": "0x0000000000000000000000000000000000000000",
       "18446743979220271119": "0x0000000000000000000000000000000000000000",
@@ -22622,7 +22622,7 @@
       "25769803786": "0xC6cCd3c2d63bc8De8fcF43EdE80D135666b7aceE",
       "21474836488": "0x066A2EDcC0b7278A2CF5Bf2a040b4a54a41A9550",
       "21474836489": "0x066A2EDcC0b7278A2CF5Bf2a040b4a54a41A9550",
-      "21474836490": "0xC6cCd3c2d63bc8De8fcF43EdE80D135666b7aceE",
+      "21474836490": "0x066A2EDcC0b7278A2CF5Bf2a040b4a54a41A9550",
       "21474836491": "0xC6cCd3c2d63bc8De8fcF43EdE80D135666b7aceE",
       "21474836492": "0x066A2EDcC0b7278A2CF5Bf2a040b4a54a41A9550",
       "4294967320": "0x0000000000000000000000000000000000000000",
@@ -23361,13 +23361,29 @@
       "25769803791": "0x066A2EDcC0b7278A2CF5Bf2a040b4a54a41A9550",
       "12884901900": "0x066A2EDcC0b7278A2CF5Bf2a040b4a54a41A9550"
     },
-    "commitments": {
-      "0x066a2edcc0b7278a2cf5bf2a040b4a54a41a9550": {
-        "epoch": 19907,
-        "hash": "0x5028fabbad580d8c6ffbe41e90cf2a409b46ffe2b8f8b5a4"
-      }
-    },
+    "commitments": {},
     "placements": [
+      {
+        "epoch": 19907,
+        "cells": {
+          "47244640264": {
+            "players": [
+              {
+                "color": 5,
+                "address": "0x066a2edcc0b7278a2cf5bf2a040b4a54a41a9550"
+              }
+            ]
+          },
+          "21474836490": {
+            "players": [
+              {
+                "color": 5,
+                "address": "0x066a2edcc0b7278a2cf5bf2a040b4a54a41a9550"
+              }
+            ]
+          }
+        }
+      },
       {
         "epoch": 19904,
         "cells": {
@@ -23573,34 +23589,13 @@
             ]
           }
         }
-      },
-      {
-        "epoch": 19883,
-        "cells": {
-          "8589934602": {
-            "players": [
-              {
-                "color": 5,
-                "address": "0x066a2edcc0b7278a2cf5bf2a040b4a54a41a9550"
-              }
-            ]
-          },
-          "25769803790": {
-            "players": [
-              {
-                "color": 5,
-                "address": "0x066a2edcc0b7278a2cf5bf2a040b4a54a41a9550"
-              }
-            ]
-          }
-        }
       }
     ],
     "points": {
       "global": {
-        "lastUpdateTime": 1719615695,
-        "totalRewardPerPointAtLastUpdate": "479453183036n",
-        "totalPoints": "1207000000000000000000n"
+        "lastUpdateTime": 1719874893,
+        "totalRewardPerPointAtLastUpdate": "500945554511n",
+        "totalPoints": "1203000000000000000000n"
       },
       "fixed": {
         "0xFFfFfFffFFfffFFfFFfFFFFFffFFFffffFfFFFfF": {
@@ -23652,8 +23647,8 @@
           "lastTime": 1714431673
         },
         "0xC6cCd3c2d63bc8De8fcF43EdE80D135666b7aceE": {
-          "toWithdraw": "11879715080000000000n",
-          "lastTime": 1719615695
+          "toWithdraw": "12426622860000000000n",
+          "lastTime": 1719874893
         },
         "0xF8b109aF18cfA614Bef1C2899e522d77b3C64c14": {
           "toWithdraw": "3768009400000000000n",
@@ -23700,8 +23695,8 @@
           "lastTime": 1712927149
         },
         "0x4d5c9afcb508fA0e755a7F5BcA71Fc8518e51CdE": {
-          "toWithdraw": "3151037740000000000n",
-          "lastTime": 1719615695
+          "toWithdraw": "3244349020000000000n",
+          "lastTime": 1719874893
         },
         "0x24AB6cE22A719e7930ddb81Ae30460b850187eCe": {
           "toWithdraw": "272164500000000000n",
@@ -23802,9 +23797,9 @@
           "rewardsToWithdraw": "147806133147000000n"
         },
         "0xC6cCd3c2d63bc8De8fcF43EdE80D135666b7aceE": {
-          "points": "211000000000000000000n",
-          "totalRewardPerPointAccounted": "479453183036n",
-          "rewardsToWithdraw": "93077047151577000000n"
+          "points": "208000000000000000000n",
+          "totalRewardPerPointAccounted": "500945554511n",
+          "rewardsToWithdraw": "97611937532802000000n"
         },
         "0xF8b109aF18cfA614Bef1C2899e522d77b3C64c14": {
           "points": "211000000000000000000n",
@@ -23862,9 +23857,9 @@
           "rewardsToWithdraw": "0n"
         },
         "0x4d5c9afcb508fA0e755a7F5BcA71Fc8518e51CdE": {
-          "points": "36000000000000000000n",
-          "totalRewardPerPointAccounted": "479453183036n",
-          "rewardsToWithdraw": "23778791045002000000n"
+          "points": "35000000000000000000n",
+          "totalRewardPerPointAccounted": "500945554511n",
+          "rewardsToWithdraw": "24552516418102000000n"
         },
         "0x24AB6cE22A719e7930ddb81Ae30460b850187eCe": {
           "points": "5000000000000000000n",
@@ -23926,7 +23921,7 @@
       "0xa62D214750455C043C25DEA89FECc8724f61e45b": 65,
       "0x9d35cE15c448B5a4f8afC170214F3031878396A3": 79,
       "0xAcDb105133b8598A308995FD1EeBAaB155f1a3bf": 43,
-      "0xC6cCd3c2d63bc8De8fcF43EdE80D135666b7aceE": 211,
+      "0xC6cCd3c2d63bc8De8fcF43EdE80D135666b7aceE": 208,
       "0xF8b109aF18cfA614Bef1C2899e522d77b3C64c14": 211,
       "0xFE35e15bE885750D9b2363cbB6aBDd57AC9C4c40": 1,
       "0xFa398d672936Dcf428116F687244034961545D91": 0,
@@ -23937,7 +23932,7 @@
       "0xc6a4FCe15Bd4c14f8D6ECf3Ad4e20E39021897E8": 5,
       "0xE2682E3484F545f43cbBbD1188ef1bfcFc7c749E": 18,
       "0xac5b774D7a700AcDb528048B6052bc1549cd73B9": 1,
-      "0x4d5c9afcb508fA0e755a7F5BcA71Fc8518e51CdE": 36,
+      "0x4d5c9afcb508fA0e755a7F5BcA71Fc8518e51CdE": 35,
       "0x24AB6cE22A719e7930ddb81Ae30460b850187eCe": 5,
       "0x949B1fE8B1860E51fa550131EB0F21729cA68A1A": 2,
       "0xA6534C8bf255F859D309125202ab27e436384fE6": 0,
